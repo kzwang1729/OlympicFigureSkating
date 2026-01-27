@@ -1,0 +1,421 @@
+"rank","name","country","starting_number","total_segment_score","total_element_score","total_component_score","deductions","type","category","base_value","highlight","goe","factor","j1","j2","j3","j4","j5","j6","j7","j8","j9","scores_of_panel"
+"1,","PLUSHENKO Evgeni","RUS",10,90.85,51.1,39.75,NA,"ee","4T+3T",13.8,0,1,NA,1,1,1,1,1,1,1,0,1,14.8
+"1,","PLUSHENKO Evgeni","RUS",10,90.85,51.1,39.75,NA,"ee","3A",8.2,0,1.8,NA,2,2,2,1,1,3,2,1,2,10
+"1,","PLUSHENKO Evgeni","RUS",10,90.85,51.1,39.75,NA,"ee","3Lz",6,0,1.2,NA,1,2,1,0,1,2,1,1,2,7.2
+"1,","PLUSHENKO Evgeni","RUS",10,90.85,51.1,39.75,NA,"ee","CCoSp4",3.5,0,0.8,NA,0.5,1,1,1,1,1,1,0.5,0.5,4.3
+"1,","PLUSHENKO Evgeni","RUS",10,90.85,51.1,39.75,NA,"ee","CiSt3",3.3,0,0.7,NA,1,0.5,0.5,1,1,1,0.5,0.5,1.5,4
+"1,","PLUSHENKO Evgeni","RUS",10,90.85,51.1,39.75,NA,"ee","FSSp4",3,0,0.4,NA,0,0.5,0.5,0.5,0.5,0.5,0.5,0,1,3.4
+"1,","PLUSHENKO Evgeni","RUS",10,90.85,51.1,39.75,NA,"ee","SlSt3",3.3,0,0.6,NA,0.5,1,0.5,1,0.5,1,0.5,0,0.5,3.9
+"1,","PLUSHENKO Evgeni","RUS",10,90.85,51.1,39.75,NA,"ee","CSSp4",3,0,0.5,NA,0,0.5,0.5,0.5,0.5,0.5,1,0.5,0.5,3.5
+"1,","PLUSHENKO Evgeni","RUS",10,90.85,51.1,39.75,NA,"pc","Skating Skills",NA,NA,NA,1,8.5,8,7.75,8.5,8,8.75,8.25,7,9.25,8.2
+"1,","PLUSHENKO Evgeni","RUS",10,90.85,51.1,39.75,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,7.5,7.5,5,8,7.5,7.75,5,6,8.75,6.8
+"1,","PLUSHENKO Evgeni","RUS",10,90.85,51.1,39.75,NA,"pc","Performance / Execution",NA,NA,NA,1,8.5,8.5,9.25,8.75,7.75,8.75,8.75,7.5,8.75,8.65
+"1,","PLUSHENKO Evgeni","RUS",10,90.85,51.1,39.75,NA,"pc","Choreography / Composition",NA,NA,NA,1,8.25,7.75,7.75,8.5,7.75,8,6,7,9,7.85
+"1,","PLUSHENKO Evgeni","RUS",10,90.85,51.1,39.75,NA,"pc","Interpretation",NA,NA,NA,1,8.5,8,8,8.75,8,8.75,8,7.5,9.25,8.25
+"1,","PLUSHENKO Evgeni","RUS",10,90.85,51.1,39.75,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2,","LYSACEK Evan","USA",28,90.3,48.3,42,NA,"ee","3A",8.2,0,1.2,NA,1,1,1,1,1,2,1,2,2,9.4
+"2,","LYSACEK Evan","USA",28,90.3,48.3,42,NA,"ee","3Lz+3T",10,0,1,NA,1,1,1,0,0,2,2,2,1,11
+"2,","LYSACEK Evan","USA",28,90.3,48.3,42,NA,"ee","3F",5.5,0,1.2,NA,1,0,0,1,-2,2,2,1,2,6.7
+"2,","LYSACEK Evan","USA",28,90.3,48.3,42,NA,"ee","CiSt4",3.9,0,2.2,NA,1,2,2,2,2,3,2,3,3,6.1
+"2,","LYSACEK Evan","USA",28,90.3,48.3,42,NA,"ee","CSSp3",2.6,0,0.6,NA,0,0.5,0.5,0.5,0.5,1,0.5,1,1,3.2
+"2,","LYSACEK Evan","USA",28,90.3,48.3,42,NA,"ee","FSSp4",3,0,0.7,NA,0.5,0.5,1,1,0,1,1,1,0.5,3.7
+"2,","LYSACEK Evan","USA",28,90.3,48.3,42,NA,"ee","SlSt3",3.3,0,0.7,NA,0,0.5,1,1,0,1,1,1.5,1,4
+"2,","LYSACEK Evan","USA",28,90.3,48.3,42,NA,"ee","CCoSp4",3.5,0,0.7,NA,1,0.5,1,1,0.5,1.5,0.5,1,0.5,4.2
+"2,","LYSACEK Evan","USA",28,90.3,48.3,42,NA,"pc","Skating Skills",NA,NA,NA,1,8.25,8.5,8,8.5,8,8.75,7.75,9,7.5,8.2
+"2,","LYSACEK Evan","USA",28,90.3,48.3,42,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,8,8.5,8,8.5,6.75,7.75,7.75,8.75,7.75,7.95
+"2,","LYSACEK Evan","USA",28,90.3,48.3,42,NA,"pc","Performance / Execution",NA,NA,NA,1,8.25,8.75,8.25,8.75,8.5,9.25,8.5,9,8.5,8.6
+"2,","LYSACEK Evan","USA",28,90.3,48.3,42,NA,"pc","Choreography / Composition",NA,NA,NA,1,8,8.5,8.25,9,8.25,8.75,8.25,9.25,8.75,8.5
+"2,","LYSACEK Evan","USA",28,90.3,48.3,42,NA,"pc","Interpretation",NA,NA,NA,1,8.25,8.75,8.5,9,8.75,9,8.25,9.25,9.25,8.75
+"2,","LYSACEK Evan","USA",28,90.3,48.3,42,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3,","TAKAHASHI Daisuke","JPN",17,90.25,48.9,41.35,NA,"ee","3F+3T",9.5,0,0.8,NA,0,1,2,1,2,1,0,1,1,10.3
+"3,","TAKAHASHI Daisuke","JPN",17,90.25,48.9,41.35,NA,"ee","3A",8.2,0,1.4,NA,1,1,2,1,3,2,1,2,2,9.6
+"3,","TAKAHASHI Daisuke","JPN",17,90.25,48.9,41.35,NA,"ee","3Lz",6,0,1.8,NA,0,2,2,2,3,2,1,2,2,7.8
+"3,","TAKAHASHI Daisuke","JPN",17,90.25,48.9,41.35,NA,"ee","CCoSp4",3.5,0,0.4,NA,0,0,0.5,0.5,1,0.5,0.5,0.5,0.5,3.9
+"3,","TAKAHASHI Daisuke","JPN",17,90.25,48.9,41.35,NA,"ee","SlSt4",3.9,0,2.2,NA,3,2,3,1,3,2,2,2,2,6.1
+"3,","TAKAHASHI Daisuke","JPN",17,90.25,48.9,41.35,NA,"ee","FSSp4",3,0,0.3,NA,0,0.5,0.5,0,0.5,0.5,0,0.5,0.5,3.3
+"3,","TAKAHASHI Daisuke","JPN",17,90.25,48.9,41.35,NA,"ee","CiSt3",3.3,0,1.1,NA,1,1,1,0.5,1.5,1.5,1,1.5,1.5,4.4
+"3,","TAKAHASHI Daisuke","JPN",17,90.25,48.9,41.35,NA,"ee","CSSp4",3,0,0.5,NA,0,0.5,0.5,0.5,1,1,0.5,0.5,0.5,3.5
+"3,","TAKAHASHI Daisuke","JPN",17,90.25,48.9,41.35,NA,"pc","Skating Skills",NA,NA,NA,1,9,8,9,8,9,8.25,8.25,8,8.5,8.3
+"3,","TAKAHASHI Daisuke","JPN",17,90.25,48.9,41.35,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,8.5,6.5,6.75,7.5,9,7.5,8,7.75,8.25,7.5
+"3,","TAKAHASHI Daisuke","JPN",17,90.25,48.9,41.35,NA,"pc","Performance / Execution",NA,NA,NA,1,9,8.5,8.75,7.75,9.5,8.5,8.75,8.25,8.5,8.55
+"3,","TAKAHASHI Daisuke","JPN",17,90.25,48.9,41.35,NA,"pc","Choreography / Composition",NA,NA,NA,1,8.75,7.75,8.5,8,9.5,7.75,9,8.5,8.5,8.3
+"3,","TAKAHASHI Daisuke","JPN",17,90.25,48.9,41.35,NA,"pc","Interpretation",NA,NA,NA,1,9,8.5,9.5,8,9.75,8.25,9.25,8.5,8.75,8.7
+"3,","TAKAHASHI Daisuke","JPN",17,90.25,48.9,41.35,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4,","ODA Nobunari","JPN",20,84.85,46,38.85,NA,"ee","3A",8.2,0,1.6,NA,2,0,0,2,1,2,2,2,2,9.8
+"4,","ODA Nobunari","JPN",20,84.85,46,38.85,NA,"ee","3Lz+3T",10,0,0.6,NA,1,0,0,1,0,1,1,-1,1,10.6
+"4,","ODA Nobunari","JPN",20,84.85,46,38.85,NA,"ee","3F",5.5,0,1.6,NA,2,1,1,2,2,1,1,2,3,7.1
+"4,","ODA Nobunari","JPN",20,84.85,46,38.85,NA,"ee","CiSt3",3.3,0,0.5,NA,0.5,0.5,0,0.5,0.5,1,0.5,0.5,0.5,3.8
+"4,","ODA Nobunari","JPN",20,84.85,46,38.85,NA,"ee","FSSp4",3,0,0.2,NA,0.5,0,0,0.5,0.5,0.5,0.5,0,0,3.2
+"4,","ODA Nobunari","JPN",20,84.85,46,38.85,NA,"ee","SlSt3",3.3,0,0.5,NA,0.5,0.5,0.5,0.5,0.5,1,0.5,0.5,0,3.8
+"4,","ODA Nobunari","JPN",20,84.85,46,38.85,NA,"ee","CCoSp4",3.5,0,0.6,NA,1,0.5,0.5,1,0,1,0.5,0,0.5,4.1
+"4,","ODA Nobunari","JPN",20,84.85,46,38.85,NA,"ee","CSSp4",3,0,0.6,NA,0.5,0.5,0.5,1.5,0.5,0.5,0,0.5,1,3.6
+"4,","ODA Nobunari","JPN",20,84.85,46,38.85,NA,"pc","Skating Skills",NA,NA,NA,1,8,8,8,8,7.75,8.25,8.5,8,8,8
+"4,","ODA Nobunari","JPN",20,84.85,46,38.85,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,7.5,8,7.5,7.25,7.5,8,8,5.5,5,7.15
+"4,","ODA Nobunari","JPN",20,84.85,46,38.85,NA,"pc","Performance / Execution",NA,NA,NA,1,7.75,8.25,8.25,7.75,7.75,8.5,8.5,7.75,8,8
+"4,","ODA Nobunari","JPN",20,84.85,46,38.85,NA,"pc","Choreography / Composition",NA,NA,NA,1,7.75,8,8,8,7.5,8.75,8.5,7.25,6.75,7.8
+"4,","ODA Nobunari","JPN",20,84.85,46,38.85,NA,"pc","Interpretation",NA,NA,NA,1,7.75,8.25,8,7.5,7.75,8.5,8.25,8,6.25,7.9
+"4,","ODA Nobunari","JPN",20,84.85,46,38.85,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5,","LAMBIEL Stephane","SUI",19,84.63,41.48,43.15,NA,"ee","2A",3.5,0,1.2,NA,1,1,1,1,2,2,1,3,1,4.7
+"5,","LAMBIEL Stephane","SUI",19,84.63,41.48,43.15,NA,"ee","4T+2T",11.1,0,-1.92,NA,-1.6,-3.2,-1.6,-3.2,-1.6,-3.2,-1.6,-3.2,-1.6,9.18
+"5,","LAMBIEL Stephane","SUI",19,84.63,41.48,43.15,NA,"ee","3F",5.5,0,0.2,NA,0,0,0,1,0,1,0,0,1,5.7
+"5,","LAMBIEL Stephane","SUI",19,84.63,41.48,43.15,NA,"ee","CiSt3",3.3,0,0.7,NA,0.5,0.5,0.5,1,1,0.5,1,1.5,1,4
+"5,","LAMBIEL Stephane","SUI",19,84.63,41.48,43.15,NA,"ee","CSSp4",3,0,1.2,NA,1,0.5,1.5,1,1.5,1,1.5,1,1,4.2
+"5,","LAMBIEL Stephane","SUI",19,84.63,41.48,43.15,NA,"ee","SlSt3",3.3,0,1.4,NA,1,0.5,1.5,1.5,1.5,1.5,1.5,1,1.5,4.7
+"5,","LAMBIEL Stephane","SUI",19,84.63,41.48,43.15,NA,"ee","FSSp4",3,0,1.1,NA,1,1,1,1.5,1.5,1,1,1,1.5,4.1
+"5,","LAMBIEL Stephane","SUI",19,84.63,41.48,43.15,NA,"ee","CCoSp4",3.5,0,1.4,NA,1.5,1,1.5,1.5,1.5,1.5,1,1.5,1.5,4.9
+"5,","LAMBIEL Stephane","SUI",19,84.63,41.48,43.15,NA,"pc","Skating Skills",NA,NA,NA,1,8.5,8.25,8.75,8.5,8.25,8,8.75,9,8.75,8.5
+"5,","LAMBIEL Stephane","SUI",19,84.63,41.48,43.15,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,8.25,8.25,8.75,8.25,7.75,8,8.75,8.75,7.75,8.2
+"5,","LAMBIEL Stephane","SUI",19,84.63,41.48,43.15,NA,"pc","Performance / Execution",NA,NA,NA,1,8.5,8.5,8.75,8.5,8.5,8.5,9,9.25,9.25,8.65
+"5,","LAMBIEL Stephane","SUI",19,84.63,41.48,43.15,NA,"pc","Choreography / Composition",NA,NA,NA,1,9.5,8.75,8.5,8.5,8.25,8.5,9,9.5,8.5,8.65
+"5,","LAMBIEL Stephane","SUI",19,84.63,41.48,43.15,NA,"pc","Interpretation",NA,NA,NA,1,9.5,8.75,9.5,8.75,9.25,8.75,9,9.5,9.25,9.15
+"5,","LAMBIEL Stephane","SUI",19,84.63,41.48,43.15,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6,","WEIR Johnny","USA",25,82.1,42.9,39.2,NA,"ee","3Lz+3T",10,0,0.8,NA,1,1,1,1,0,1,1,0,0,10.8
+"6,","WEIR Johnny","USA",25,82.1,42.9,39.2,NA,"ee","3A",8.2,0,1.4,NA,2,2,2,1,0,2,2,0,1,9.6
+"6,","WEIR Johnny","USA",25,82.1,42.9,39.2,NA,"ee","3F",5.5,0,-2,NA,-1,-2,-2,-3,-2,-2,-2,-2,-2,3.5
+"6,","WEIR Johnny","USA",25,82.1,42.9,39.2,NA,"ee","CSSp4",3,0,0.2,NA,0,0.5,0.5,0,0,0.5,1,0,0.5,3.2
+"6,","WEIR Johnny","USA",25,82.1,42.9,39.2,NA,"ee","CiSt3",3.3,0,0.6,NA,0.5,0.5,1,0.5,0.5,1,1.5,0.5,0.5,3.9
+"6,","WEIR Johnny","USA",25,82.1,42.9,39.2,NA,"ee","FSSp4",3,0,0.8,NA,0.5,1,1,0.5,1,0.5,1.5,0.5,0.5,3.8
+"6,","WEIR Johnny","USA",25,82.1,42.9,39.2,NA,"ee","SlSt3",3.3,0,0.9,NA,0.5,1,1,1,1,1,1.5,0.5,1,4.2
+"6,","WEIR Johnny","USA",25,82.1,42.9,39.2,NA,"ee","CCoSp3",3,0,0.9,NA,1,1,1,0.5,1,0.5,1.5,0.5,1,3.9
+"6,","WEIR Johnny","USA",25,82.1,42.9,39.2,NA,"pc","Skating Skills",NA,NA,NA,1,8,7.75,7.75,7.75,8.25,8,8.75,7.75,7.5,7.9
+"6,","WEIR Johnny","USA",25,82.1,42.9,39.2,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,8,6.75,7.5,5.5,7.75,7.5,7.75,7.5,7.5,7.45
+"6,","WEIR Johnny","USA",25,82.1,42.9,39.2,NA,"pc","Performance / Execution",NA,NA,NA,1,7.75,7.5,7.75,7.5,8.5,8.25,8.5,8,7.75,7.9
+"6,","WEIR Johnny","USA",25,82.1,42.9,39.2,NA,"pc","Choreography / Composition",NA,NA,NA,1,8,7.5,7.75,7.5,8.5,8.5,8,7.75,7.75,7.8
+"6,","WEIR Johnny","USA",25,82.1,42.9,39.2,NA,"pc","Interpretation",NA,NA,NA,1,8.25,8,7.75,7.75,8.75,8.5,9,8,7.75,8.15
+"6,","WEIR Johnny","USA",25,82.1,42.9,39.2,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7,","CHAN Patrick","CAN",24,81.12,41.42,40.7,NA,"ee","3A",8.2,0,-2.52,NA,-2.8,-1.4,-2.8,-2.8,-2.8,0,-2.8,0,-2.8,5.68
+"7,","CHAN Patrick","CAN",24,81.12,41.42,40.7,NA,"ee","3F+3T",9.5,0,1.6,NA,0,1,2,1,2,2,2,1,2,11.1
+"7,","CHAN Patrick","CAN",24,81.12,41.42,40.7,NA,"ee","3Lz",6,0,0.6,NA,0,0,1,0,2,2,1,1,1,6.6
+"7,","CHAN Patrick","CAN",24,81.12,41.42,40.7,NA,"ee","CiSt4",3.9,0,1.4,NA,1,2,2,1,3,1,1,2,3,5.3
+"7,","CHAN Patrick","CAN",24,81.12,41.42,40.7,NA,"ee","CSSp4",3,0,0.7,NA,0.5,0.5,1,0.5,1,1,0.5,1,1,3.7
+"7,","CHAN Patrick","CAN",24,81.12,41.42,40.7,NA,"ee","FSSp4",3,0,0.5,NA,0.5,0.5,1,0.5,1,0.5,0.5,1,0.5,3.5
+"7,","CHAN Patrick","CAN",24,81.12,41.42,40.7,NA,"ee","SlSt3",3.3,0,0,NA,0,0,0,0,0.5,0,0,0.5,0,3.3
+"7,","CHAN Patrick","CAN",24,81.12,41.42,40.7,NA,"ee","CCoSp1",2,0,0.24,NA,0.5,-0.3,0,0.5,1,-0.3,0.5,0.5,0.5,2.24
+"7,","CHAN Patrick","CAN",24,81.12,41.42,40.7,NA,"pc","Skating Skills",NA,NA,NA,1,8.25,8.75,8,7.5,8.75,9.25,8,8,8.5,8.3
+"7,","CHAN Patrick","CAN",24,81.12,41.42,40.7,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,8,8.75,7.25,7,9,8.5,7.25,7.75,8.25,7.85
+"7,","CHAN Patrick","CAN",24,81.12,41.42,40.7,NA,"pc","Performance / Execution",NA,NA,NA,1,8,8.75,7.25,7.5,9,8.25,8.25,7.75,8,8
+"7,","CHAN Patrick","CAN",24,81.12,41.42,40.7,NA,"pc","Choreography / Composition",NA,NA,NA,1,8.25,8.75,8,7.75,9.5,8.5,8,7.75,8.5,8.25
+"7,","CHAN Patrick","CAN",24,81.12,41.42,40.7,NA,"pc","Interpretation",NA,NA,NA,1,8,8.75,7.75,8,9.25,9,8.25,8,8.5,8.3
+"7,","CHAN Patrick","CAN",24,81.12,41.42,40.7,-1,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8,","KOZUKA Takahiko","JPN",22,79.59,42.14,37.45,NA,"ee","3Lz+3T",10,0,1.2,NA,1,3,1,1,2,1,2,1,1,11.2
+"8,","KOZUKA Takahiko","JPN",22,79.59,42.14,37.45,NA,"ee","3A",8.2,0,-1.96,NA,-1.4,-1.4,-1.4,-1.4,-2.8,-1.4,-2.8,-2.8,-1.4,6.24
+"8,","KOZUKA Takahiko","JPN",22,79.59,42.14,37.45,NA,"ee","CSSp4",3,0,0.5,NA,0.5,1,0.5,0.5,0.5,0.5,0.5,0,0.5,3.5
+"8,","KOZUKA Takahiko","JPN",22,79.59,42.14,37.45,NA,"ee","3F",5.5,0,-0.2,NA,-1,1,-2,-1,1,0,0,0,1,5.3
+"8,","KOZUKA Takahiko","JPN",22,79.59,42.14,37.45,NA,"ee","SeSt3",3.3,0,0.5,NA,0.5,1.5,0,0.5,0.5,0.5,0.5,0.5,1,3.8
+"8,","KOZUKA Takahiko","JPN",22,79.59,42.14,37.45,NA,"ee","FSSp4",3,0,0.6,NA,0.5,0.5,0,1,1,0.5,0.5,0.5,0.5,3.6
+"8,","KOZUKA Takahiko","JPN",22,79.59,42.14,37.45,NA,"ee","SlSt3",3.3,0,0.5,NA,0.5,1.5,0.5,0.5,1,0.5,0.5,0,0.5,3.8
+"8,","KOZUKA Takahiko","JPN",22,79.59,42.14,37.45,NA,"ee","CCoSp4",3.5,0,1.2,NA,1.5,1.5,0.5,1,1.5,1,1.5,1,1,4.7
+"8,","KOZUKA Takahiko","JPN",22,79.59,42.14,37.45,NA,"pc","Skating Skills",NA,NA,NA,1,7.75,8.25,6.75,8.5,7,7.75,8,7.75,7.5,7.6
+"8,","KOZUKA Takahiko","JPN",22,79.59,42.14,37.45,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,7.5,8.25,6,8,6.5,7.5,7.25,7.75,7.25,7.25
+"8,","KOZUKA Takahiko","JPN",22,79.59,42.14,37.45,NA,"pc","Performance / Execution",NA,NA,NA,1,8.25,8.75,6.5,8,7.25,7.75,7.5,7.75,7.25,7.55
+"8,","KOZUKA Takahiko","JPN",22,79.59,42.14,37.45,NA,"pc","Choreography / Composition",NA,NA,NA,1,8,8.75,5.75,8,7,7.5,8.25,7.5,7.5,7.6
+"8,","KOZUKA Takahiko","JPN",22,79.59,42.14,37.45,NA,"pc","Interpretation",NA,NA,NA,1,8.25,8.5,6.5,7.5,7.25,7.75,7.25,7.75,7.5,7.45
+"8,","KOZUKA Takahiko","JPN",22,79.59,42.14,37.45,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9,","BREZINA Michal","CZE",30,78.8,42.5,36.3,NA,"ee","3A",8.2,0,1.2,NA,1,0,2,1,2,1,1,1,2,9.4
+"9,","BREZINA Michal","CZE",30,78.8,42.5,36.3,NA,"ee","3Lz",6,0,1,NA,1,1,1,2,1,0,2,1,2,7
+"9,","BREZINA Michal","CZE",30,78.8,42.5,36.3,NA,"ee","3F+3T",9.5,0,1,NA,0,1,1,1,1,1,2,2,2,10.5
+"9,","BREZINA Michal","CZE",30,78.8,42.5,36.3,NA,"ee","CSSp3",2.6,0,0,NA,0.5,0,0,0,0,0,0.5,0,0,2.6
+"9,","BREZINA Michal","CZE",30,78.8,42.5,36.3,NA,"ee","SlSt3",3.3,0,0.5,NA,1,0,0.5,0.5,0.5,0.5,1,0.5,0.5,3.8
+"9,","BREZINA Michal","CZE",30,78.8,42.5,36.3,NA,"ee","FSSp2",2.3,0,0.1,NA,0.5,0,0,0.5,0,0,0,0,1,2.4
+"9,","BREZINA Michal","CZE",30,78.8,42.5,36.3,NA,"ee","CiSt3",3.3,0,0.3,NA,1,0.5,0.5,0,0,0,0.5,0.5,0.5,3.6
+"9,","BREZINA Michal","CZE",30,78.8,42.5,36.3,NA,"ee","CCoSp3",3,0,0.2,NA,0.5,0,0,0.5,0,0,0,0.5,0,3.2
+"9,","BREZINA Michal","CZE",30,78.8,42.5,36.3,NA,"pc","Skating Skills",NA,NA,NA,1,8.25,7.25,7,7,7.25,7.75,7.5,7.5,7.75,7.35
+"9,","BREZINA Michal","CZE",30,78.8,42.5,36.3,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,8,7,6.5,6.75,7,7.5,7.25,6.75,7,7
+"9,","BREZINA Michal","CZE",30,78.8,42.5,36.3,NA,"pc","Performance / Execution",NA,NA,NA,1,8.5,7,7,7.25,5.75,8,7.5,7.5,8,7.35
+"9,","BREZINA Michal","CZE",30,78.8,42.5,36.3,NA,"pc","Choreography / Composition",NA,NA,NA,1,8.75,7.25,6.75,7,7.5,7.75,7.5,7,7.75,7.3
+"9,","BREZINA Michal","CZE",30,78.8,42.5,36.3,NA,"pc","Interpretation",NA,NA,NA,1,9,7,7,7,6.75,7.75,7.75,7.75,7.5,7.3
+"9,","BREZINA Michal","CZE",30,78.8,42.5,36.3,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10",",TEN Denis","KAZ",16,76.24,41.24,35,NA,"ee","3A",8.2,0,1.6,NA,2,2,1,2,2,1,2,1,1,9.8
+"10",",TEN Denis","KAZ",16,76.24,41.24,35,NA,"ee","3Lz+3T",10,0,-0.2,NA,0,0,0,0,-1,-1,-1,0,0,9.8
+"10",",TEN Denis","KAZ",16,76.24,41.24,35,NA,"ee","3F",5.5,0,-0.8,NA,0,0,0,-1,1,-1,-2,0,-2,4.7
+"10",",TEN Denis","KAZ",16,76.24,41.24,35,NA,"ee","CCoSp4",3.5,0,0.6,NA,1,0.5,0,0.5,0.5,1,0.5,0.5,0.5,4.1
+"10",",TEN Denis","KAZ",16,76.24,41.24,35,NA,"ee","CiSt3",3.3,0,0.7,NA,0.5,0.5,0.5,0.5,0.5,1,1,0.5,1,4
+"10",",TEN Denis","KAZ",16,76.24,41.24,35,NA,"ee","FSSp3",2.6,0,0,NA,0,0,0,0,0,0.5,0,0,0,2.6
+"10",",TEN Denis","KAZ",16,76.24,41.24,35,NA,"ee","CSSp2",2.3,0,-0.06,NA,0,0,0,-0.6,0,0,0,0,-0.3,2.24
+"10",",TEN Denis","KAZ",16,76.24,41.24,35,NA,"ee","SlSt3",3.3,0,0.7,NA,1,0.5,0.5,0.5,1,0.5,1,1,0.5,4
+"10",",TEN Denis","KAZ",16,76.24,41.24,35,NA,"pc","Skating Skills",NA,NA,NA,1,7.25,8,7.5,7,6.75,6.75,8,7,5.75,7.2
+"10",",TEN Denis","KAZ",16,76.24,41.24,35,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,6.75,7.25,7,5.75,6.25,6.5,6.75,6.75,6,6.55
+"10",",TEN Denis","KAZ",16,76.24,41.24,35,NA,"pc","Performance / Execution",NA,NA,NA,1,7,7.75,7.25,7,7,7.25,7.5,6.75,6.5,7.1
+"10",",TEN Denis","KAZ",16,76.24,41.24,35,NA,"pc","Choreography / Composition",NA,NA,NA,1,6.75,7.5,7,5.75,6.75,7.5,7,7,6.25,6.9
+"10",",TEN Denis","KAZ",16,76.24,41.24,35,NA,"pc","Interpretation",NA,NA,NA,1,7.25,7.5,7.5,7,7,7.75,7.5,7,6.75,7.25
+"10",",TEN Denis","KAZ",16,76.24,41.24,35,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11",",AMODIO Florent","FRA",4,75.35,41.9,33.45,NA,"ee","3A",8.2,0,0.8,NA,1,1,0,2,1,1,1,0,1,9
+"11",",AMODIO Florent","FRA",4,75.35,41.9,33.45,NA,"ee","3Lz",6,0,0.2,NA,1,0,-1,1,0,0,0,0,2,6.2
+"11",",AMODIO Florent","FRA",4,75.35,41.9,33.45,NA,"ee","3S+3T",8.5,0,1.4,NA,2,2,1,2,1,1,1,1,2,9.9
+"11",",AMODIO Florent","FRA",4,75.35,41.9,33.45,NA,"ee","CiSt3",3.3,0,0.5,NA,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,3.8
+"11",",AMODIO Florent","FRA",4,75.35,41.9,33.45,NA,"ee","FSSp2",2.3,0,0.2,NA,0,0,0,0.5,0,0.5,0.5,0,0.5,2.5
+"11",",AMODIO Florent","FRA",4,75.35,41.9,33.45,NA,"ee","CCoSp3",3,0,0.5,NA,0,0.5,0.5,0.5,0.5,1,0,0.5,0.5,3.5
+"11",",AMODIO Florent","FRA",4,75.35,41.9,33.45,NA,"ee","SlSt3",3.3,0,0.6,NA,0.5,0.5,0.5,1,0,1,0.5,0.5,0.5,3.9
+"11",",AMODIO Florent","FRA",4,75.35,41.9,33.45,NA,"ee","CSSp3",2.6,0,0.5,NA,0.5,0.5,0.5,0.5,0.5,0.5,0,0.5,0.5,3.1
+"11",",AMODIO Florent","FRA",4,75.35,41.9,33.45,NA,"pc","Skating Skills",NA,NA,NA,1,6.75,7,6.25,7,6.75,6.75,6.5,6.25,6.5,6.65
+"11",",AMODIO Florent","FRA",4,75.35,41.9,33.45,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,6,6.5,5.5,6.75,6.25,6.5,6,6,6.75,6.4
+"11",",AMODIO Florent","FRA",4,75.35,41.9,33.45,NA,"pc","Performance / Execution",NA,NA,NA,1,7,7.25,6.5,7,6.75,6.5,6.25,6.5,7.25,6.8
+"11",",AMODIO Florent","FRA",4,75.35,41.9,33.45,NA,"pc","Choreography / Composition",NA,NA,NA,1,6.5,6.75,5.75,6.75,6.5,6.75,6.25,6.5,7,6.65
+"11",",AMODIO Florent","FRA",4,75.35,41.9,33.45,NA,"pc","Interpretation",NA,NA,NA,1,7,7.25,6.75,7,6.75,7,6.5,6.5,7.25,6.95
+"11",",AMODIO Florent","FRA",4,75.35,41.9,33.45,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12",",van der PERREN Kevin","BEL",26,72.9,39.2,33.7,NA,"ee","3A",8.2,0,0,NA,0,-1.4,0,-1.4,0,0,0,0,0,8.2
+"12",",van der PERREN Kevin","BEL",26,72.9,39.2,33.7,NA,"ee","3F+3T",9.5,0,1,NA,0,1,1,1,1,1,0,1,1,10.5
+"12",",van der PERREN Kevin","BEL",26,72.9,39.2,33.7,NA,"ee","3Lo",5,0,0.6,NA,0,1,1,0,1,1,0,2,0,5.6
+"12",",van der PERREN Kevin","BEL",26,72.9,39.2,33.7,NA,"ee","FSSp4",3,0,0.3,NA,0.5,0,0.5,0.5,0,0,0.5,0.5,0,3.3
+"12",",van der PERREN Kevin","BEL",26,72.9,39.2,33.7,NA,"ee","SlSt2",2.3,0,0,NA,0,0,0,0,0,0,0,0,0,2.3
+"12",",van der PERREN Kevin","BEL",26,72.9,39.2,33.7,NA,"ee","CCoSp4",3.5,0,0.1,NA,0.5,0,0,0.5,0,0,0,0,0,3.6
+"12",",van der PERREN Kevin","BEL",26,72.9,39.2,33.7,NA,"ee","CiSt3",3.3,0,0.1,NA,0,0.5,0.5,0.5,0,0,0,0,0,3.4
+"12",",van der PERREN Kevin","BEL",26,72.9,39.2,33.7,NA,"ee","CSSp2",2.3,0,0,NA,0,-0.3,0,0,0,0,0,0,0,2.3
+"12",",van der PERREN Kevin","BEL",26,72.9,39.2,33.7,NA,"pc","Skating Skills",NA,NA,NA,1,7.5,7.25,6.75,8,6.5,6.5,7.25,7.25,6.75,6.95
+"12",",van der PERREN Kevin","BEL",26,72.9,39.2,33.7,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,7.25,6.25,6.5,7.75,5.75,6,7.25,6,6,6.35
+"12",",van der PERREN Kevin","BEL",26,72.9,39.2,33.7,NA,"pc","Performance / Execution",NA,NA,NA,1,7.5,7,7,8,6,6.75,7.5,6.5,7,6.95
+"12",",van der PERREN Kevin","BEL",26,72.9,39.2,33.7,NA,"pc","Choreography / Composition",NA,NA,NA,1,7.5,7,6.75,8.25,6.25,6.25,7.25,6.25,6.25,6.6
+"12",",van der PERREN Kevin","BEL",26,72.9,39.2,33.7,NA,"pc","Interpretation",NA,NA,NA,1,7.75,6.75,6.75,7.75,6,6.75,7.5,6.5,6.5,6.85
+"12",",van der PERREN Kevin","BEL",26,72.9,39.2,33.7,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13",",BORODULIN Artem","RUS",13,72.24,39.94,32.3,NA,"ee","3A",8.2,0,1,NA,1,0,1,1,1,1,1,1,2,9.2
+"13",",BORODULIN Artem","RUS",13,72.24,39.94,32.3,NA,"ee","3Lz+3T",10,0,-1.2,NA,-1,-2,-1,-1,-1,-1,-2,-1,-2,8.8
+"13",",BORODULIN Artem","RUS",13,72.24,39.94,32.3,NA,"ee","3F",5.5,0,0,NA,0,-1,0,0,0,0,0,0,1,5.5
+"13",",BORODULIN Artem","RUS",13,72.24,39.94,32.3,NA,"ee","FSSp3",2.6,0,-0.06,NA,-0.3,0,0.5,-0.3,0,0,-0.3,0,0,2.54
+"13",",BORODULIN Artem","RUS",13,72.24,39.94,32.3,NA,"ee","CiSt3",3.3,0,0.4,NA,0.5,0,0.5,0,0.5,0.5,0.5,0.5,1,3.7
+"13",",BORODULIN Artem","RUS",13,72.24,39.94,32.3,NA,"ee","CCoSp3",3,0,0.1,NA,0,0.5,0,-0.3,0,0,0,0,0.5,3.1
+"13",",BORODULIN Artem","RUS",13,72.24,39.94,32.3,NA,"ee","SlSt3",3.3,0,0.7,NA,1,0.5,1,0.5,0.5,0.5,0.5,1,0.5,4
+"13",",BORODULIN Artem","RUS",13,72.24,39.94,32.3,NA,"ee","CSSp4",3,0,0.1,NA,0,0,0,-0.3,0,0,0,0.5,0.5,3.1
+"13",",BORODULIN Artem","RUS",13,72.24,39.94,32.3,NA,"pc","Skating Skills",NA,NA,NA,1,6.75,6,6.75,6,7,6.25,6.25,6.25,6.75,6.5
+"13",",BORODULIN Artem","RUS",13,72.24,39.94,32.3,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,5.75,5.75,6.25,5.5,6.5,5.5,5.75,6,6,5.95
+"13",",BORODULIN Artem","RUS",13,72.24,39.94,32.3,NA,"pc","Performance / Execution",NA,NA,NA,1,7.5,6.75,6.5,6,7,6.25,6.25,6.5,6.75,6.7
+"13",",BORODULIN Artem","RUS",13,72.24,39.94,32.3,NA,"pc","Choreography / Composition",NA,NA,NA,1,7,6,6.75,5.25,6.5,5.75,6.25,6.5,7,6.55
+"13",",BORODULIN Artem","RUS",13,72.24,39.94,32.3,NA,"pc","Interpretation",NA,NA,NA,1,7.5,5.75,6.5,5.5,6.5,6.25,6.5,7.25,7,6.6
+"13",",BORODULIN Artem","RUS",13,72.24,39.94,32.3,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14",",CONTESTI Samuel","ITA",23,70.6,36.6,35,NA,"ee","3Lz+3T",10,0,0.4,NA,0,1,0,0,0,1,1,1,0,10.4
+"14",",CONTESTI Samuel","ITA",23,70.6,36.6,35,NA,"ee","3A",8.2,0,-1.4,NA,-1.4,0,-1.4,-1.4,-1.4,-1.4,0,-1.4,-1.4,6.8
+"14",",CONTESTI Samuel","ITA",23,70.6,36.6,35,NA,"ee","3F",5.5,0,-3,NA,-3,-3,-3,-3,-3,-3,-3,-3,-3,2.5
+"14",",CONTESTI Samuel","ITA",23,70.6,36.6,35,NA,"ee","CSSp2",2.3,0,0.2,NA,0.5,0,-0.3,-0.3,0.5,0.5,0,0,0,2.5
+"14",",CONTESTI Samuel","ITA",23,70.6,36.6,35,NA,"ee","CiSt3",3.3,0,0.3,NA,0,0,0.5,0.5,0.5,0,0.5,0,0.5,3.6
+"14",",CONTESTI Samuel","ITA",23,70.6,36.6,35,NA,"ee","FSSp4",3,0,0.6,NA,0.5,0.5,0,0.5,1,1,0.5,0.5,0.5,3.6
+"14",",CONTESTI Samuel","ITA",23,70.6,36.6,35,NA,"ee","SlSt3",3.3,0,0.4,NA,0,0,0.5,0.5,0.5,0.5,0.5,0.5,0,3.7
+"14",",CONTESTI Samuel","ITA",23,70.6,36.6,35,NA,"ee","CCoSp4",3.5,0,0,NA,0,0,0,0.5,0.5,0,0,0,0,3.5
+"14",",CONTESTI Samuel","ITA",23,70.6,36.6,35,NA,"pc","Skating Skills",NA,NA,NA,1,6.5,7.25,6.25,7.75,7.75,7.25,7.75,6.75,7.5,7.15
+"14",",CONTESTI Samuel","ITA",23,70.6,36.6,35,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,6,6.75,6,7.25,7.5,5.5,7.75,6.5,7,6.6
+"14",",CONTESTI Samuel","ITA",23,70.6,36.6,35,NA,"pc","Performance / Execution",NA,NA,NA,1,5.75,7.25,7,7.5,7.75,6.75,7.75,6.75,7.25,7.1
+"14",",CONTESTI Samuel","ITA",23,70.6,36.6,35,NA,"pc","Choreography / Composition",NA,NA,NA,1,6.25,7,6,7.5,8,7,8,6.75,7,7
+"14",",CONTESTI Samuel","ITA",23,70.6,36.6,35,NA,"pc","Interpretation",NA,NA,NA,1,6,7.25,6,7.5,8.25,7.5,8,7,7.25,7.15
+"14",",CONTESTI Samuel","ITA",23,70.6,36.6,35,-1,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15",",ABBOTT Jeremy","USA",29,69.4,30.7,38.7,NA,"ee","3F+3T",9.5,0,1.4,NA,1,2,1,2,2,1,1,2,0,10.9
+"15",",ABBOTT Jeremy","USA",29,69.4,30.7,38.7,NA,"ee","1A",0.8,0,-0.5,NA,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,0.5,-0.5,0.3
+"15",",ABBOTT Jeremy","USA",29,69.4,30.7,38.7,NA,"ee","CSSp4",3,0,0.6,NA,0.5,1,0.5,0,0.5,1,0.5,1,0.5,3.6
+"15",",ABBOTT Jeremy","USA",29,69.4,30.7,38.7,NA,"ee","2Lz",1.9,0,-1,NA,-1,-1,-1,-1,-1,-1,-1,-1,-1,0.9
+"15",",ABBOTT Jeremy","USA",29,69.4,30.7,38.7,NA,"ee","CiSt3",3.3,0,0.8,NA,0.5,1.5,1.5,0,1,1,1,1,0.5,4.1
+"15",",ABBOTT Jeremy","USA",29,69.4,30.7,38.7,NA,"ee","CCoSp4",3.5,0,0.5,NA,0.5,1,1.5,0.5,0.5,0.5,0.5,0.5,0.5,4
+"15",",ABBOTT Jeremy","USA",29,69.4,30.7,38.7,NA,"ee","SlSt3",3.3,0,0.4,NA,0.5,1,0.5,0,0.5,0.5,0.5,0.5,0,3.7
+"15",",ABBOTT Jeremy","USA",29,69.4,30.7,38.7,NA,"ee","FSSp3",2.6,0,0.6,NA,0.5,0.5,-0.3,0.5,1,1,1,0.5,0.5,3.2
+"15",",ABBOTT Jeremy","USA",29,69.4,30.7,38.7,NA,"pc","Skating Skills",NA,NA,NA,1,8.5,7.75,7.75,7.75,8,8,7.75,8,7.25,7.9
+"15",",ABBOTT Jeremy","USA",29,69.4,30.7,38.7,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,8,7.75,8,7.75,7.25,8.5,7.5,7.75,6.75,7.75
+"15",",ABBOTT Jeremy","USA",29,69.4,30.7,38.7,NA,"pc","Performance / Execution",NA,NA,NA,1,8,7.25,7.5,7.5,7,7,7.5,7.5,7,7.3
+"15",",ABBOTT Jeremy","USA",29,69.4,30.7,38.7,NA,"pc","Choreography / Composition",NA,NA,NA,1,8,8,8.5,7.5,7.75,8.25,7.75,7.75,7.25,7.85
+"15",",ABBOTT Jeremy","USA",29,69.4,30.7,38.7,NA,"pc","Interpretation",NA,NA,NA,1,8,8.25,8,7.75,8,8.5,7.75,7.75,7.5,7.9
+"15",",ABBOTT Jeremy","USA",29,69.4,30.7,38.7,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16",",FERNANDEZ Javier","ESP",15,68.69,37.64,31.05,NA,"ee","3A",8.2,0,1.2,NA,2,2,1,1,1,1,1,2,1,9.4
+"16",",FERNANDEZ Javier","ESP",15,68.69,37.64,31.05,NA,"ee","3T+3T",8,0,-1.8,NA,-1,-1,-2,-2,-2,-2,-2,-2,-2,6.2
+"16",",FERNANDEZ Javier","ESP",15,68.69,37.64,31.05,NA,"ee","3F",5.5,0,-0.4,NA,0,0,-1,-1,-1,0,0,0,0,5.1
+"16",",FERNANDEZ Javier","ESP",15,68.69,37.64,31.05,NA,"ee","FSSp3",2.6,0,-0.06,NA,0,-0.3,0,0,0,-0.3,0,0,0,2.54
+"16",",FERNANDEZ Javier","ESP",15,68.69,37.64,31.05,NA,"ee","CiSt3",3.3,0,0.4,NA,0.5,0.5,0,0,0.5,0.5,0.5,1,0.5,3.7
+"16",",FERNANDEZ Javier","ESP",15,68.69,37.64,31.05,NA,"ee","CCoSp4",3.5,0,0.2,NA,0,0.5,0,0,0.5,0,0.5,0.5,0,3.7
+"16",",FERNANDEZ Javier","ESP",15,68.69,37.64,31.05,NA,"ee","SlSt3",3.3,0,0.5,NA,0.5,0.5,0.5,0.5,0,1,0.5,1,0.5,3.8
+"16",",FERNANDEZ Javier","ESP",15,68.69,37.64,31.05,NA,"ee","CSSp4",3,0,0.2,NA,0.5,1,0,0.5,0,-0.6,0,0.5,0,3.2
+"16",",FERNANDEZ Javier","ESP",15,68.69,37.64,31.05,NA,"pc","Skating Skills",NA,NA,NA,1,6.5,7.25,6.25,5.75,6.25,6.5,5.75,6.75,6.25,6.25
+"16",",FERNANDEZ Javier","ESP",15,68.69,37.64,31.05,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,6,6.75,5.75,5.5,6,5.75,5.75,6.5,6,5.85
+"16",",FERNANDEZ Javier","ESP",15,68.69,37.64,31.05,NA,"pc","Performance / Execution",NA,NA,NA,1,6.25,7,6,6,6.5,6.5,6.25,7,6.25,6.3
+"16",",FERNANDEZ Javier","ESP",15,68.69,37.64,31.05,NA,"pc","Choreography / Composition",NA,NA,NA,1,6.25,6.25,6,6.25,6.5,6,6,7,6,6.15
+"16",",FERNANDEZ Javier","ESP",15,68.69,37.64,31.05,NA,"pc","Interpretation",NA,NA,NA,1,6.25,6.75,6,6.5,6.5,7,6.5,7,6.5,6.5
+"16",",FERNANDEZ Javier","ESP",15,68.69,37.64,31.05,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17",",LINDEMANN Stefan","GER",14,68.5,37.7,30.8,NA,"ee","3A",8.2,0,0.6,NA,1,0,1,0,0,1,0,1,0,8.8
+"17",",LINDEMANN Stefan","GER",14,68.5,37.7,30.8,NA,"ee","3Lz",6,0,0.8,NA,0,0,0,1,1,1,2,2,1,6.8
+"17",",LINDEMANN Stefan","GER",14,68.5,37.7,30.8,NA,"ee","3T+3T",8,0,0.4,NA,0,0,0,0,0,1,1,1,0,8.4
+"17",",LINDEMANN Stefan","GER",14,68.5,37.7,30.8,NA,"ee","CCoSp3",3,0,0.3,NA,0,0.5,0.5,0,0.5,0,0.5,0.5,0,3.3
+"17",",LINDEMANN Stefan","GER",14,68.5,37.7,30.8,NA,"ee","SlSt2",2.3,0,0.1,NA,0,0,0,0,0.5,0.5,0,0.5,0.5,2.4
+"17",",LINDEMANN Stefan","GER",14,68.5,37.7,30.8,NA,"ee","FSSp3",2.6,0,0.1,NA,0,0,0,0.5,-0.3,0,0,0.5,0,2.7
+"17",",LINDEMANN Stefan","GER",14,68.5,37.7,30.8,NA,"ee","CiSt2",2.3,0,0.1,NA,0,0,0.5,0,0.5,0,0,0.5,0,2.4
+"17",",LINDEMANN Stefan","GER",14,68.5,37.7,30.8,NA,"ee","CSSp3",2.6,0,0.3,NA,0,0,0.5,0,0,0.5,0.5,0.5,0,2.9
+"17",",LINDEMANN Stefan","GER",14,68.5,37.7,30.8,NA,"pc","Skating Skills",NA,NA,NA,1,5.75,6.5,6.25,7,6.75,6.5,6.25,6.5,6.5,6.4
+"17",",LINDEMANN Stefan","GER",14,68.5,37.7,30.8,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,5.25,6,6,5.75,6,5.75,5.75,6.25,6,5.85
+"17",",LINDEMANN Stefan","GER",14,68.5,37.7,30.8,NA,"pc","Performance / Execution",NA,NA,NA,1,5.75,6.25,6.5,7.25,6.75,6.25,6,6.5,6.25,6.3
+"17",",LINDEMANN Stefan","GER",14,68.5,37.7,30.8,NA,"pc","Choreography / Composition",NA,NA,NA,1,5.25,5.75,6.5,6,6.5,6,6,6.5,6,6.05
+"17",",LINDEMANN Stefan","GER",14,68.5,37.7,30.8,NA,"pc","Interpretation",NA,NA,NA,1,5.75,6,6.75,6,6.5,6.5,5.75,6.75,6.5,6.2
+"17",",LINDEMANN Stefan","GER",14,68.5,37.7,30.8,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18",",JOUBERT Brian","FRA",21,68,31.9,37.1,NA,"ee","4T+COMBO",9.8,0,-4.8,NA,-4.8,-4.8,-4.8,-4.8,-4.8,-4.8,-4.8,-4.8,-4.8,5
+"18",",JOUBERT Brian","FRA",21,68,31.9,37.1,NA,"ee","3A",8.2,0,1.2,NA,2,0,1,1,1,1,1,1,2,9.4
+"18",",JOUBERT Brian","FRA",21,68,31.9,37.1,NA,"ee","3Lz<",1.9,0,-1,NA,-1,-1,-1,-1,-1,-1,-1,-1,-1,0.9
+"18",",JOUBERT Brian","FRA",21,68,31.9,37.1,NA,"ee","FSSp4",3,0,0.5,NA,0.5,0.5,0,0.5,0.5,0.5,0.5,0,0.5,3.5
+"18",",JOUBERT Brian","FRA",21,68,31.9,37.1,NA,"ee","CiSt2",2.3,0,0.5,NA,0.5,0.5,0.5,0,0.5,0.5,0.5,0.5,1,2.8
+"18",",JOUBERT Brian","FRA",21,68,31.9,37.1,NA,"ee","CCoSp3",3,0,0.3,NA,0,0,0.5,0,0.5,0.5,0.5,0,0.5,3.3
+"18",",JOUBERT Brian","FRA",21,68,31.9,37.1,NA,"ee","SlSt3",3.3,0,0.5,NA,0.5,0.5,0.5,0.5,0.5,1,0.5,0.5,1,3.8
+"18",",JOUBERT Brian","FRA",21,68,31.9,37.1,NA,"ee","CSSp4",3,0,0.2,NA,0,0,0.5,0,0.5,0,0,0.5,0.5,3.2
+"18",",JOUBERT Brian","FRA",21,68,31.9,37.1,NA,"pc","Skating Skills",NA,NA,NA,1,6.5,8,8,8,8,8,7.5,8,8,7.9
+"18",",JOUBERT Brian","FRA",21,68,31.9,37.1,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,5.75,7.75,7.25,7.5,5.5,7.5,5.75,7.25,7.75,6.8
+"18",",JOUBERT Brian","FRA",21,68,31.9,37.1,NA,"pc","Performance / Execution",NA,NA,NA,1,6,7.75,7.75,8,7.25,7.5,6.75,7.75,7.75,7.45
+"18",",JOUBERT Brian","FRA",21,68,31.9,37.1,NA,"pc","Choreography / Composition",NA,NA,NA,1,5.75,8,7.75,8,6.5,7.5,6.5,8,8,7.35
+"18",",JOUBERT Brian","FRA",21,68,31.9,37.1,NA,"pc","Interpretation",NA,NA,NA,1,6.25,7.75,8,7.75,7.75,7.75,6.75,7.75,8,7.6
+"18",",JOUBERT Brian","FRA",21,68,31.9,37.1,-1,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19",",VERNER Tomas","CZE",27,65.32,30.02,36.3,NA,"ee","2T",1.3,0,-1,NA,-1,-1,-1,-1,-1,-1,-1,-1,-1,0.3
+"19",",VERNER Tomas","CZE",27,65.32,30.02,36.3,NA,"ee","3A",8.2,0,-4.2,NA,-4.2,-4.2,-4.2,-4.2,-4.2,-4.2,-4.2,-4.2,-4.2,4
+"19",",VERNER Tomas","CZE",27,65.32,30.02,36.3,NA,"ee","3Lz+3T",10,0,-0.6,NA,-1,1,-1,-1,-1,0,-1,0,-1,9.4
+"19",",VERNER Tomas","CZE",27,65.32,30.02,36.3,NA,"ee","CSSp4",3,0,0,NA,0,0,0.5,0,-0.3,0,0.5,0,0,3
+"19",",VERNER Tomas","CZE",27,65.32,30.02,36.3,NA,"ee","SlSt3",3.3,0,0.6,NA,0.5,0.5,0.5,0.5,0.5,0,1.5,1,0.5,3.9
+"19",",VERNER Tomas","CZE",27,65.32,30.02,36.3,NA,"ee","FSSp2",2.3,0,-0.18,NA,0,0,-0.3,0,-0.3,-0.3,0,-0.3,-0.3,2.12
+"19",",VERNER Tomas","CZE",27,65.32,30.02,36.3,NA,"ee","CiSt3",3.3,0,0.5,NA,0.5,1,0,0.5,0,0.5,0,1,0.5,3.8
+"19",",VERNER Tomas","CZE",27,65.32,30.02,36.3,NA,"ee","CCoSp4",3.5,0,0,NA,0,0,0,0.5,0,0,0.5,-0.3,0,3.5
+"19",",VERNER Tomas","CZE",27,65.32,30.02,36.3,NA,"pc","Skating Skills",NA,NA,NA,1,7.5,7.5,7.75,7.5,7,8,7.5,7.5,7.5,7.5
+"19",",VERNER Tomas","CZE",27,65.32,30.02,36.3,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,7.25,7,7.5,7.25,6,7.5,7,7,7,7.05
+"19",",VERNER Tomas","CZE",27,65.32,30.02,36.3,NA,"pc","Performance / Execution",NA,NA,NA,1,7.5,6.75,7.25,6.75,6.5,7.5,7.75,7.25,7,7.2
+"19",",VERNER Tomas","CZE",27,65.32,30.02,36.3,NA,"pc","Choreography / Composition",NA,NA,NA,1,7.5,7.25,7.5,7.75,6.75,8,7,7.5,7.25,7.3
+"19",",VERNER Tomas","CZE",27,65.32,30.02,36.3,NA,"pc","Interpretation",NA,NA,NA,1,7.25,6.75,7.5,7.75,7,7,8,7.5,7.5,7.25
+"19",",VERNER Tomas","CZE",27,65.32,30.02,36.3,-1,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20",",BACCHINI Paolo","ITA",11,64.42,34.82,29.6,NA,"ee","2A",3.5,0,-0.48,NA,-0.8,0,-0.8,0,0,0,-0.8,-0.8,-1.6,3.02
+"20",",BACCHINI Paolo","ITA",11,64.42,34.82,29.6,NA,"ee","3Lz+3T",10,0,0.8,NA,1,2,2,0,1,0,1,1,0,10.8
+"20",",BACCHINI Paolo","ITA",11,64.42,34.82,29.6,NA,"ee","3F",5.5,0,-0.8,NA,-1,0,0,-1,-1,-1,0,-1,-1,4.7
+"20",",BACCHINI Paolo","ITA",11,64.42,34.82,29.6,NA,"ee","CSSp4",3,0,0.5,NA,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0,3.5
+"20",",BACCHINI Paolo","ITA",11,64.42,34.82,29.6,NA,"ee","CiSt3",3.3,0,0.5,NA,0.5,0.5,1,0.5,0.5,0.5,0.5,1,0.5,3.8
+"20",",BACCHINI Paolo","ITA",11,64.42,34.82,29.6,NA,"ee","CCoSp1",2,0,0.1,NA,0,0.5,0.5,-0.3,0,0,0.5,0,0,2.1
+"20",",BACCHINI Paolo","ITA",11,64.42,34.82,29.6,NA,"ee","SlSt3",3.3,0,0.5,NA,0.5,0.5,1,0.5,0.5,0.5,0.5,0.5,0,3.8
+"20",",BACCHINI Paolo","ITA",11,64.42,34.82,29.6,NA,"ee","FSSp4",3,0,0.1,NA,1,0,0.5,0,0,0,0,-0.3,0.5,3.1
+"20",",BACCHINI Paolo","ITA",11,64.42,34.82,29.6,NA,"pc","Skating Skills",NA,NA,NA,1,5.75,6.5,6.5,5.75,6,5.5,5.75,6.25,5.75,5.9
+"20",",BACCHINI Paolo","ITA",11,64.42,34.82,29.6,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,4.75,5.75,6.5,5.25,6,5.25,5.75,5.5,5.5,5.55
+"20",",BACCHINI Paolo","ITA",11,64.42,34.82,29.6,NA,"pc","Performance / Execution",NA,NA,NA,1,6,6.25,6.75,5.75,6,5.5,6,6.75,5.75,6
+"20",",BACCHINI Paolo","ITA",11,64.42,34.82,29.6,NA,"pc","Choreography / Composition",NA,NA,NA,1,5.25,6,7,5.5,6,6,6,6.5,6,6
+"20",",BACCHINI Paolo","ITA",11,64.42,34.82,29.6,NA,"pc","Interpretation",NA,NA,NA,1,6,7,7,5.75,6,6.25,6.25,6.25,6,6.15
+"20",",BACCHINI Paolo","ITA",11,64.42,34.82,29.6,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21",",KOVALEVSKI Anton","UKR",2,63.81,36.66,27.15,NA,"ee","3A",8.2,0,0.6,NA,1,1,0,0,0,0,1,0,1,8.8
+"21",",KOVALEVSKI Anton","UKR",2,63.81,36.66,27.15,NA,"ee","3Lz+3T",10,0,0.2,NA,1,0,0,0,0,0,0,0,1,10.2
+"21",",KOVALEVSKI Anton","UKR",2,63.81,36.66,27.15,NA,"ee","3F",5.5,0,-2,NA,-2,-1,-2,-2,-2,-2,-2,-2,-2,3.5
+"21",",KOVALEVSKI Anton","UKR",2,63.81,36.66,27.15,NA,"ee","FSSp4",3,0,-0.3,NA,-0.3,0,-0.6,-0.6,-0.6,-0.3,0,0,-0.3,2.7
+"21",",KOVALEVSKI Anton","UKR",2,63.81,36.66,27.15,NA,"ee","SlSt2",2.3,0,0.2,NA,0.5,0.5,0,0,0.5,0,0.5,0.5,0,2.5
+"21",",KOVALEVSKI Anton","UKR",2,63.81,36.66,27.15,NA,"ee","CSSp4",3,0,0.1,NA,0,0.5,0,0.5,0,0,0,0,0,3.1
+"21",",KOVALEVSKI Anton","UKR",2,63.81,36.66,27.15,NA,"ee","CiSt3",3.3,0,0.3,NA,0,0.5,0.5,0.5,0.5,0,0,1,0.5,3.6
+"21",",KOVALEVSKI Anton","UKR",2,63.81,36.66,27.15,NA,"ee","CCoSp2",2.5,0,-0.24,NA,-0.3,0.5,-0.3,-0.6,-0.6,-0.3,0,0,-0.3,2.26
+"21",",KOVALEVSKI Anton","UKR",2,63.81,36.66,27.15,NA,"pc","Skating Skills",NA,NA,NA,1,5.5,6.5,4.75,5.75,6.25,5.25,6,6,5.5,5.6
+"21",",KOVALEVSKI Anton","UKR",2,63.81,36.66,27.15,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,5,6.25,4.5,4.5,5.75,4.75,5.25,5.5,5,4.9
+"21",",KOVALEVSKI Anton","UKR",2,63.81,36.66,27.15,NA,"pc","Performance / Execution",NA,NA,NA,1,5.25,6.5,4.5,5.5,6,5.25,5.75,6,6.25,5.6
+"21",",KOVALEVSKI Anton","UKR",2,63.81,36.66,27.15,NA,"pc","Choreography / Composition",NA,NA,NA,1,5.25,6.5,4.75,5,6,5,6.25,5.75,5.5,5.4
+"21",",KOVALEVSKI Anton","UKR",2,63.81,36.66,27.15,NA,"pc","Interpretation",NA,NA,NA,1,5.25,6.75,5,5.5,6.25,5.25,6.5,6,5.75,5.65
+"21",",KOVALEVSKI Anton","UKR",2,63.81,36.66,27.15,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22",",SCHULTHEISS Adrian","SWE",18,63.13,32.78,30.35,NA,"ee","4T+1T",10.2,0,-4.8,NA,-4.8,-4.8,-4.8,-4.8,-4.8,-4.8,-4.8,-4.8,-3.2,5.4
+"22",",SCHULTHEISS Adrian","SWE",18,63.13,32.78,30.35,NA,"ee","3A",8.2,0,-2.52,NA,-2.8,-1.4,-2.8,-2.8,-1.4,-1.4,-2.8,-2.8,-2.8,5.68
+"22",",SCHULTHEISS Adrian","SWE",18,63.13,32.78,30.35,NA,"ee","CCoSp4",3.5,0,0.5,NA,0,0.5,0,0.5,0.5,0.5,0.5,0.5,0.5,4
+"22",",SCHULTHEISS Adrian","SWE",18,63.13,32.78,30.35,NA,"ee","CiSt3",3.3,0,0.1,NA,0.5,0,0.5,0,0.5,0.5,0,0,0,3.4
+"22",",SCHULTHEISS Adrian","SWE",18,63.13,32.78,30.35,NA,"ee","3F",5.5,0,-0.4,NA,0,-1,-1,-1,-1,1,0,0,0,5.1
+"22",",SCHULTHEISS Adrian","SWE",18,63.13,32.78,30.35,NA,"ee","CSSp4",3,0,0.5,NA,0,0.5,0.5,0.5,0.5,0.5,0.5,0,0.5,3.5
+"22",",SCHULTHEISS Adrian","SWE",18,63.13,32.78,30.35,NA,"ee","SlSt3",3.3,0,0.1,NA,0,0,0.5,0,0.5,0,0,0.5,0,3.4
+"22",",SCHULTHEISS Adrian","SWE",18,63.13,32.78,30.35,NA,"ee","FSSp2",2.3,0,0,NA,0,0,-0.3,0,0.5,0,0.5,0,0,2.3
+"22",",SCHULTHEISS Adrian","SWE",18,63.13,32.78,30.35,NA,"pc","Skating Skills",NA,NA,NA,1,6.75,6.25,5.75,6.25,6.75,6.25,7,6.75,5.75,6.25
+"22",",SCHULTHEISS Adrian","SWE",18,63.13,32.78,30.35,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,6.5,6,5.75,6,6.5,6,5.5,6.25,5.5,5.85
+"22",",SCHULTHEISS Adrian","SWE",18,63.13,32.78,30.35,NA,"pc","Performance / Execution",NA,NA,NA,1,6.5,6.25,6.25,6.25,6.75,6.25,6.25,6.75,5.75,6.25
+"22",",SCHULTHEISS Adrian","SWE",18,63.13,32.78,30.35,NA,"pc","Choreography / Composition",NA,NA,NA,1,6.75,6,6,6,6.75,5.75,6.25,6.5,5.75,6
+"22",",SCHULTHEISS Adrian","SWE",18,63.13,32.78,30.35,NA,"pc","Interpretation",NA,NA,NA,1,6.75,6,5.75,6,7,6,6.25,6.5,5.75,6
+"22",",SCHULTHEISS Adrian","SWE",18,63.13,32.78,30.35,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23",",PFEIFER Viktor","AUT",5,60.88,34.08,26.8,NA,"ee","3Lz+3T",10,0,0,NA,0,0,0,0,0,0,-1,0,0,10
+"23",",PFEIFER Viktor","AUT",5,60.88,34.08,26.8,NA,"ee","2A",3.5,0,0,NA,0,1,1,0,0,1,0,0,0,3.5
+"23",",PFEIFER Viktor","AUT",5,60.88,34.08,26.8,NA,"ee","3F",5.5,0,-0.6,NA,-1,0,-1,0,-1,0,-1,-1,0,4.9
+"23",",PFEIFER Viktor","AUT",5,60.88,34.08,26.8,NA,"ee","FSSp4",3,0,0.3,NA,0,0,0,0.5,0.5,0.5,0,0,0.5,3.3
+"23",",PFEIFER Viktor","AUT",5,60.88,34.08,26.8,NA,"ee","CiSt3",3.3,0,0.3,NA,0.5,0.5,0.5,0.5,0,0.5,0,0.5,0,3.6
+"23",",PFEIFER Viktor","AUT",5,60.88,34.08,26.8,NA,"ee","CSSp3",2.6,0,-0.42,NA,0,-0.3,-0.6,-0.3,-0.3,-0.6,-0.6,-0.3,-0.6,2.18
+"23",",PFEIFER Viktor","AUT",5,60.88,34.08,26.8,NA,"ee","SlSt3",3.3,0,0,NA,0.5,0,0,0,0,0,0,0,0,3.3
+"23",",PFEIFER Viktor","AUT",5,60.88,34.08,26.8,NA,"ee","CCoSp3",3,0,0.3,NA,0.5,0,0,0.5,0.5,0.5,0,0,0,3.3
+"23",",PFEIFER Viktor","AUT",5,60.88,34.08,26.8,NA,"pc","Skating Skills",NA,NA,NA,1,6,5.75,6,5.5,5.5,5.75,4.75,5.25,5.25,5.45
+"23",",PFEIFER Viktor","AUT",5,60.88,34.08,26.8,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,5.25,5.5,5.75,5,5.25,5.5,4.5,5,4.75,5.05
+"23",",PFEIFER Viktor","AUT",5,60.88,34.08,26.8,NA,"pc","Performance / Execution",NA,NA,NA,1,6.25,5.75,5.75,5.5,5.5,6,4.5,5.25,5.25,5.5
+"23",",PFEIFER Viktor","AUT",5,60.88,34.08,26.8,NA,"pc","Choreography / Composition",NA,NA,NA,1,5.75,5.5,6,5.25,5.5,5.75,4.5,5,4.75,5.25
+"23",",PFEIFER Viktor","AUT",5,60.88,34.08,26.8,NA,"pc","Interpretation",NA,NA,NA,1,6.5,5.75,6,5.75,5.5,5.75,4.75,5.5,5.25,5.55
+"23",",PFEIFER Viktor","AUT",5,60.88,34.08,26.8,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24",",CHIPEUR Vaughn","CAN",9,57.22,30.22,27,NA,"ee","3A",8.2,0,-3.08,NA,-2.8,-2.8,-2.8,-4.2,-2.8,-4.2,-2.8,-2.8,-2.8,5.12
+"24",",CHIPEUR Vaughn","CAN",9,57.22,30.22,27,NA,"ee","3F+2T",6.8,0,-2,NA,-2,-2,-2,-2,-1,-2,-2,-2,-2,4.8
+"24",",CHIPEUR Vaughn","CAN",9,57.22,30.22,27,NA,"ee","3Lz",6,0,0.4,NA,1,0,0,1,2,0,0,1,1,6.4
+"24",",CHIPEUR Vaughn","CAN",9,57.22,30.22,27,NA,"ee","CCoSp3",3,0,0.3,NA,0.5,0,0,0.5,0.5,0,0.5,0,0,3.3
+"24",",CHIPEUR Vaughn","CAN",9,57.22,30.22,27,NA,"ee","FSSp4",3,0,0.2,NA,0.5,0.5,0,-0.3,0.5,0,0,0,0.5,3.2
+"24",",CHIPEUR Vaughn","CAN",9,57.22,30.22,27,NA,"ee","SeSt2",2.3,0,-0.3,NA,-0.3,-0.6,-0.3,-0.3,-0.3,0.5,-0.3,-0.3,-0.3,2
+"24",",CHIPEUR Vaughn","CAN",9,57.22,30.22,27,NA,"ee","CiSt2",2.3,0,0,NA,0,0,0,0,0.5,0,0,0,0.5,2.3
+"24",",CHIPEUR Vaughn","CAN",9,57.22,30.22,27,NA,"ee","CSSp4",3,0,0.1,NA,0,0.5,-0.3,0,0,0,0.5,0,0,3.1
+"24",",CHIPEUR Vaughn","CAN",9,57.22,30.22,27,NA,"pc","Skating Skills",NA,NA,NA,1,5.5,5.25,4.75,6.25,6.25,5.75,6.25,6.25,6,5.8
+"24",",CHIPEUR Vaughn","CAN",9,57.22,30.22,27,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,4,4.5,4.5,5.5,5.75,5.25,5.5,5.5,5.5,5.05
+"24",",CHIPEUR Vaughn","CAN",9,57.22,30.22,27,NA,"pc","Performance / Execution",NA,NA,NA,1,5,4.5,4.75,6,6,5.5,5.5,5.5,6,5.35
+"24",",CHIPEUR Vaughn","CAN",9,57.22,30.22,27,NA,"pc","Choreography / Composition",NA,NA,NA,1,4.75,5,4.75,6.25,6,5.75,5.5,5.75,5.75,5.4
+"24",",CHIPEUR Vaughn","CAN",9,57.22,30.22,27,NA,"pc","Interpretation",NA,NA,NA,1,5,4.75,4.75,6.5,6,5.75,5.5,5.75,6,5.4
+"24",",CHIPEUR Vaughn","CAN",9,57.22,30.22,27,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25",",RI Song Chol","PRK",1,56.6,33.4,23.2,NA,"ee","3A",8.2,0,0.2,NA,1,0,0,0,0,0,1,0,0,8.4
+"25",",RI Song Chol","PRK",1,56.6,33.4,23.2,NA,"ee","3F+3T",9.5,0,-2,NA,-2,-2,-3,-3,-2,-2,-1,-2,-2,7.5
+"25",",RI Song Chol","PRK",1,56.6,33.4,23.2,NA,"ee","SlSt2",2.3,0,0,NA,0,0,0,0,0,0,0,0,0,2.3
+"25",",RI Song Chol","PRK",1,56.6,33.4,23.2,NA,"ee","3Lz",6,0,-0.2,NA,-1,0,0,0,0,0,1,0,-1,5.8
+"25",",RI Song Chol","PRK",1,56.6,33.4,23.2,NA,"ee","CCoSp3",3,0,0,NA,0.5,-0.3,-0.3,0,0,-0.3,0,0,0,3
+"25",",RI Song Chol","PRK",1,56.6,33.4,23.2,NA,"ee","FSSp2",2.3,0,-0.18,NA,-0.3,-0.3,-0.3,0,-0.3,0,-0.3,0,0,2.12
+"25",",RI Song Chol","PRK",1,56.6,33.4,23.2,NA,"ee","CiSt1",1.8,0,0,NA,0,0,0,0,0,0,0,0.5,0,1.8
+"25",",RI Song Chol","PRK",1,56.6,33.4,23.2,NA,"ee","CSSp3",2.6,0,-0.12,NA,-0.3,-0.3,-0.3,0,0,-0.3,-0.3,0,0,2.48
+"25",",RI Song Chol","PRK",1,56.6,33.4,23.2,NA,"pc","Skating Skills",NA,NA,NA,1,5.25,4.5,5.75,5.25,4.75,5.5,5.5,5.25,5.25,5.15
+"25",",RI Song Chol","PRK",1,56.6,33.4,23.2,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,4.75,4.25,4.5,4,4,4.75,3.75,4.5,4,4.15
+"25",",RI Song Chol","PRK",1,56.6,33.4,23.2,NA,"pc","Performance / Execution",NA,NA,NA,1,5.25,4.25,5.5,4.75,4.25,5,5.5,4.75,5,4.8
+"25",",RI Song Chol","PRK",1,56.6,33.4,23.2,NA,"pc","Choreography / Composition",NA,NA,NA,1,5,4.25,5.25,4.25,4,4.75,4.75,5,4.75,4.6
+"25",",RI Song Chol","PRK",1,56.6,33.4,23.2,NA,"pc","Interpretation",NA,NA,NA,1,5,4,5.5,4.25,4.25,5,4.5,4.75,4.75,4.5
+"25",",RI Song Chol","PRK",1,56.6,33.4,23.2,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26",",RAKIMGALIEV Abzal","KAZ",6,55.88,32.48,23.4,NA,"ee","3A",8.2,0,-3.36,NA,-2.8,-4.2,-4.2,-2.8,-4.2,-2.8,-2.8,-2.8,-4.2,4.84
+"26",",RAKIMGALIEV Abzal","KAZ",6,55.88,32.48,23.4,NA,"ee","3F+3T",9.5,0,0,NA,0,1,0,0,0,-1,1,-1,0,9.5
+"26",",RAKIMGALIEV Abzal","KAZ",6,55.88,32.48,23.4,NA,"ee","3Lz",6,0,-1.4,NA,-1,-3,-2,0,-1,-1,0,-1,-2,4.6
+"26",",RAKIMGALIEV Abzal","KAZ",6,55.88,32.48,23.4,NA,"ee","CSSp3",2.6,0,-0.06,NA,0,0,0,-0.3,-0.3,0,-0.3,-0.3,0,2.54
+"26",",RAKIMGALIEV Abzal","KAZ",6,55.88,32.48,23.4,NA,"ee","CiSt2",2.3,0,0,NA,0,0,0,0,0,0,0,0,0,2.3
+"26",",RAKIMGALIEV Abzal","KAZ",6,55.88,32.48,23.4,NA,"ee","CCoSp4",3.5,0,0.3,NA,0,0.5,0,0,0,0.5,0.5,0.5,0,3.8
+"26",",RAKIMGALIEV Abzal","KAZ",6,55.88,32.48,23.4,NA,"ee","SlSt2",2.3,0,0,NA,0,0,0,0,0,0,0,0,-0.3,2.3
+"26",",RAKIMGALIEV Abzal","KAZ",6,55.88,32.48,23.4,NA,"ee","FSSp3",2.6,0,0,NA,0,0.5,0,0,0,-0.3,0,0,0,2.6
+"26",",RAKIMGALIEV Abzal","KAZ",6,55.88,32.48,23.4,NA,"pc","Skating Skills",NA,NA,NA,1,5,5.5,5.5,5.5,5.5,4.5,5.25,4.75,4.75,5.05
+"26",",RAKIMGALIEV Abzal","KAZ",6,55.88,32.48,23.4,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,4.75,4.5,4.5,5.25,4.75,4.25,4.75,4.25,4,4.45
+"26",",RAKIMGALIEV Abzal","KAZ",6,55.88,32.48,23.4,NA,"pc","Performance / Execution",NA,NA,NA,1,4.75,5,4.75,5.5,5,4.5,5,5.25,4.5,4.8
+"26",",RAKIMGALIEV Abzal","KAZ",6,55.88,32.48,23.4,NA,"pc","Choreography / Composition",NA,NA,NA,1,4.5,4.75,4,5.25,5.25,4.5,4.75,4.75,4,4.5
+"26",",RAKIMGALIEV Abzal","KAZ",6,55.88,32.48,23.4,NA,"pc","Interpretation",NA,NA,NA,1,4.5,4.75,4.25,5.5,5,4.75,5,4.75,4,4.6
+"26",",RAKIMGALIEV Abzal","KAZ",6,55.88,32.48,23.4,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27",",URBAS Gregor","SLO",3,53.02,28.92,24.1,NA,"ee","3Lz+3T",10,0,0,NA,-1,0,0,0,0,0,0,0,0,10
+"27",",URBAS Gregor","SLO",3,53.02,28.92,24.1,NA,"ee","3A<",3.5,0,-2.14,NA,-2.5,-2.5,-1.6,-1.6,-2.5,-2.5,-1.6,-2.5,-2.5,1.36
+"27",",URBAS Gregor","SLO",3,53.02,28.92,24.1,NA,"ee","CSSp3",2.6,0,0,NA,0,0,0,-0.3,0,0,0,0,0,2.6
+"27",",URBAS Gregor","SLO",3,53.02,28.92,24.1,NA,"ee","CiSt2",2.3,0,0,NA,0,0,0,0,0,0,0,0,0,2.3
+"27",",URBAS Gregor","SLO",3,53.02,28.92,24.1,NA,"ee","3Lo",5,0,0,NA,1,0,0,0,0,0,0,1,0,5
+"27",",URBAS Gregor","SLO",3,53.02,28.92,24.1,NA,"ee","CCoSp3",3,0,-0.24,NA,-0.3,-0.3,0,-0.3,0,0,-0.3,-0.6,-0.6,2.76
+"27",",URBAS Gregor","SLO",3,53.02,28.92,24.1,NA,"ee","SlSt2",2.3,0,0,NA,0,0,0,0,0,-0.3,0,0,0,2.3
+"27",",URBAS Gregor","SLO",3,53.02,28.92,24.1,NA,"ee","FSSp3",2.6,0,0,NA,-0.3,0,0,-0.3,0,0,0,0,0,2.6
+"27",",URBAS Gregor","SLO",3,53.02,28.92,24.1,NA,"pc","Skating Skills",NA,NA,NA,1,5.75,5,5.5,5,4.75,5.25,4.5,5,5.5,5.1
+"27",",URBAS Gregor","SLO",3,53.02,28.92,24.1,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,5.25,4.5,5.25,4.5,4.5,4.5,4.25,4.25,4.5,4.45
+"27",",URBAS Gregor","SLO",3,53.02,28.92,24.1,NA,"pc","Performance / Execution",NA,NA,NA,1,5.5,4.5,5.25,5,4.75,5,4.5,4.5,5,4.85
+"27",",URBAS Gregor","SLO",3,53.02,28.92,24.1,NA,"pc","Choreography / Composition",NA,NA,NA,1,5.25,4.75,5.25,5,4.75,5,4.5,4,5.25,4.9
+"27",",URBAS Gregor","SLO",3,53.02,28.92,24.1,NA,"pc","Interpretation",NA,NA,NA,1,5.5,5,5,5.5,4.75,4.75,4.5,4.75,4.75,4.8
+"27",",URBAS Gregor","SLO",3,53.02,28.92,24.1,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28",",DOMANSKI Przemyslaw","POL",7,52.14,28.44,23.7,NA,"ee","3Lz",6,0,-1.6,NA,0,-2,-2,-3,-1,-2,-1,-2,0,4.4
+"28",",DOMANSKI Przemyslaw","POL",7,52.14,28.44,23.7,NA,"ee","2A",3.5,0,0,NA,0,1,1,0,0,0,0,0,0,3.5
+"28",",DOMANSKI Przemyslaw","POL",7,52.14,28.44,23.7,NA,"ee","3F+2T",6.8,0,0,NA,0,0,0,0,0,0,0,0,0,6.8
+"28",",DOMANSKI Przemyslaw","POL",7,52.14,28.44,23.7,NA,"ee","CCoSp3",3,0,0,NA,0,-0.3,0,0,0,0,0,0,0,3
+"28",",DOMANSKI Przemyslaw","POL",7,52.14,28.44,23.7,NA,"ee","CiSt2",2.3,0,0,NA,0,0,0,0.5,-0.3,0,0,0,0,2.3
+"28",",DOMANSKI Przemyslaw","POL",7,52.14,28.44,23.7,NA,"ee","CSSp4",3,0,0.2,NA,0,0,0.5,0.5,0,0,0.5,0,0,3.2
+"28",",DOMANSKI Przemyslaw","POL",7,52.14,28.44,23.7,NA,"ee","SlSt2",2.3,0,-0.06,NA,0,0,-0.3,0,-0.3,0,0,0,0,2.24
+"28",",DOMANSKI Przemyslaw","POL",7,52.14,28.44,23.7,NA,"ee","FSSp4",3,0,0,NA,0,0,0,0,0,0,0,0,0.5,3
+"28",",DOMANSKI Przemyslaw","POL",7,52.14,28.44,23.7,NA,"pc","Skating Skills",NA,NA,NA,1,5.25,5.5,4.25,5.5,4.75,4.75,4.75,5,4.75,4.8
+"28",",DOMANSKI Przemyslaw","POL",7,52.14,28.44,23.7,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,5,5,3.75,5.5,4.75,4.75,4.5,4.5,4.5,4.6
+"28",",DOMANSKI Przemyslaw","POL",7,52.14,28.44,23.7,NA,"pc","Performance / Execution",NA,NA,NA,1,4.75,5.5,4.25,5.75,5,5,4.5,5,4.5,4.8
+"28",",DOMANSKI Przemyslaw","POL",7,52.14,28.44,23.7,NA,"pc","Choreography / Composition",NA,NA,NA,1,5,5.25,4,6,4.75,4.5,4.75,5.25,4.75,4.8
+"28",",DOMANSKI Przemyslaw","POL",7,52.14,28.44,23.7,NA,"pc","Interpretation",NA,NA,NA,1,5.25,5.25,3.75,6.25,4.75,4.5,4.75,5,4.5,4.7
+"28",",DOMANSKI Przemyslaw","POL",7,52.14,28.44,23.7,0,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29",",KELEMEN Zoltan","ROU",12,51.95,27.4,25.55,NA,"ee","3A",8.2,0,0,NA,-1.4,0,0,0,0,0,0,0,0,8.2
+"29",",KELEMEN Zoltan","ROU",12,51.95,27.4,25.55,NA,"ee","2Lz+2T",3.2,0,-1,NA,-1,-1,-1,-1,-1,-1,-1,-1,-1,2.2
+"29",",KELEMEN Zoltan","ROU",12,51.95,27.4,25.55,NA,"ee","3F",5.5,0,-1.4,NA,-1,-1,-1,-2,-2,-1,-1,-1,-2,4.1
+"29",",KELEMEN Zoltan","ROU",12,51.95,27.4,25.55,NA,"ee","CSSp2",2.3,0,-0.06,NA,0,0,0,0,-0.6,0,-0.3,0,0,2.24
+"29",",KELEMEN Zoltan","ROU",12,51.95,27.4,25.55,NA,"ee","CiSt3",3.3,0,0,NA,0,0,0,0,0,0.5,0,0,0,3.3
+"29",",KELEMEN Zoltan","ROU",12,51.95,27.4,25.55,NA,"ee","CCoSp3",3,0,0,NA,0,0,0,0,0,0,0,0,0,3
+"29",",KELEMEN Zoltan","ROU",12,51.95,27.4,25.55,NA,"ee","FSSp2",2.3,0,-0.24,NA,-0.3,0,0,0,-0.3,-0.3,-0.3,-0.3,-0.3,2.06
+"29",",KELEMEN Zoltan","ROU",12,51.95,27.4,25.55,NA,"ee","SlSt2",2.3,0,0,NA,0,0,0,0,0,0,0,0,0,2.3
+"29",",KELEMEN Zoltan","ROU",12,51.95,27.4,25.55,NA,"pc","Skating Skills",NA,NA,NA,1,5.5,5.75,4.75,5.75,5,5.5,5,5,4.5,5.25
+"29",",KELEMEN Zoltan","ROU",12,51.95,27.4,25.55,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,5.25,5.25,4.5,5,4.25,4.75,4.75,4.75,4.5,4.75
+"29",",KELEMEN Zoltan","ROU",12,51.95,27.4,25.55,NA,"pc","Performance / Execution",NA,NA,NA,1,5.5,5.5,4.75,5.75,5,5.25,4.75,5.25,5.25,5.25
+"29",",KELEMEN Zoltan","ROU",12,51.95,27.4,25.55,NA,"pc","Choreography / Composition",NA,NA,NA,1,5.5,5.5,4.75,5.5,4.75,5,4.75,5.25,5,5.1
+"29",",KELEMEN Zoltan","ROU",12,51.95,27.4,25.55,NA,"pc","Interpretation",NA,NA,NA,1,5.25,5.75,4.5,5,5,5.25,5,5.5,5.25,5.2
+"29",",KELEMEN Zoltan","ROU",12,51.95,27.4,25.55,-1,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30",",NURMENKARI Ari-Pekka","FIN",8,44.62,22.72,22.9,NA,"ee","3A",8.2,0,-4.2,NA,-4.2,-4.2,-4.2,-4.2,-4.2,-4.2,-4.2,-4.2,-4.2,4
+"30",",NURMENKARI Ari-Pekka","FIN",8,44.62,22.72,22.9,NA,"ee","3F+COMBO",5.5,0,-2.6,NA,-2,-3,-3,-3,-2,-3,-2,-2,-3,2.9
+"30",",NURMENKARI Ari-Pekka","FIN",8,44.62,22.72,22.9,NA,"ee","3Lz",6,0,-2.2,NA,-3,-3,-2,-2,-3,-2,-2,-2,-2,3.8
+"30",",NURMENKARI Ari-Pekka","FIN",8,44.62,22.72,22.9,NA,"ee","CSSp3",2.6,0,0,NA,0,0,0,0,0,0,0,0,-0.3,2.6
+"30",",NURMENKARI Ari-Pekka","FIN",8,44.62,22.72,22.9,NA,"ee","CiSt3",3.3,0,0,NA,0,0.5,0,0,0,0,0,0,-0.7,3.3
+"30",",NURMENKARI Ari-Pekka","FIN",8,44.62,22.72,22.9,NA,"ee","FSSp3",2.6,0,-0.36,NA,-0.3,-0.3,-0.3,0,-0.3,-0.6,-0.6,0,-0.3,2.24
+"30",",NURMENKARI Ari-Pekka","FIN",8,44.62,22.72,22.9,NA,"ee","SlSt2",2.3,0,0,NA,0,0,0,0,0.5,0,0,0,0,2.3
+"30",",NURMENKARI Ari-Pekka","FIN",8,44.62,22.72,22.9,NA,"ee","CCoSp1",2,0,-0.42,NA,-0.6,-0.6,-0.6,-0.6,-0.3,-0.3,-0.6,0,0,1.58
+"30",",NURMENKARI Ari-Pekka","FIN",8,44.62,22.72,22.9,NA,"pc","Skating Skills",NA,NA,NA,1,5.5,5,5.5,4.75,5.5,4.25,4.75,4.5,5.25,5
+"30",",NURMENKARI Ari-Pekka","FIN",8,44.62,22.72,22.9,NA,"pc","Transitions / Linking Footwork",NA,NA,NA,1,4.25,4.25,4.25,4.5,4.75,4,4.5,4.25,5,4.3
+"30",",NURMENKARI Ari-Pekka","FIN",8,44.62,22.72,22.9,NA,"pc","Performance / Execution",NA,NA,NA,1,4.5,4.5,5,4.5,4.75,4,4.5,4.25,4.75,4.5
+"30",",NURMENKARI Ari-Pekka","FIN",8,44.62,22.72,22.9,NA,"pc","Choreography / Composition",NA,NA,NA,1,5,4.75,4.75,4.75,5,4,4.75,4.5,4.75,4.7
+"30",",NURMENKARI Ari-Pekka","FIN",8,44.62,22.72,22.9,NA,"pc","Interpretation",NA,NA,NA,1,4.25,4.5,5.25,4.75,5,4.25,4.5,4.5,4.25,4.4
+"30",",NURMENKARI Ari-Pekka","FIN",8,44.62,22.72,22.9,-1,"ded",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
