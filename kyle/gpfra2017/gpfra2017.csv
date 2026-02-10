@@ -1,0 +1,876 @@
+rank,name,noc,starting_number,tss,tes,tpcs,deductions,base_value,element,element_no,event,extra_points,factor,final_score,goe,info,is_element,program_component,year,J1,J2,J3,J4,J5,J6,J7,J8,J9,is_short_program,category,event_type
+1,Evgenia Tarasova / Vladimir Morozov,RUS,8,77.84,41.9,36.94,1.0,6.2,3Tw3,1.0,gpfra2017,0.0,,7.2,1.0,,1,,1718,2.0,3.0,2.0,3.0,1.0,0.0,0.0,2.0,0.0,1,pairs,individual
+1,Evgenia Tarasova / Vladimir Morozov,RUS,8,77.84,41.9,36.94,1.0,4.3,3T,2.0,gpfra2017,0.0,,5.4,1.1,,1,,1718,1.0,3.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,1,pairs,individual
+1,Evgenia Tarasova / Vladimir Morozov,RUS,8,77.84,41.9,36.94,1.0,5.0,3LoTh,3.0,gpfra2017,0.0,,6.9,1.9,,1,,1718,3.0,3.0,2.0,3.0,2.0,3.0,1.0,3.0,3.0,1,pairs,individual
+1,Evgenia Tarasova / Vladimir Morozov,RUS,8,77.84,41.9,36.94,1.0,3.5,FiDs4,4.0,gpfra2017,0.0,,4.9,1.4,,1,,1718,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,1,pairs,individual
+1,Evgenia Tarasova / Vladimir Morozov,RUS,8,77.84,41.9,36.94,1.0,4.5,PCoSp4,5.0,gpfra2017,0.0,,5.5,1.0,,1,,1718,3.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1,pairs,individual
+1,Evgenia Tarasova / Vladimir Morozov,RUS,8,77.84,41.9,36.94,1.0,4.5,3Li4,6.0,gpfra2017,0.0,,5.5,1.0,,1,,1718,2.0,3.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,1,pairs,individual
+1,Evgenia Tarasova / Vladimir Morozov,RUS,8,77.84,41.9,36.94,1.0,3.9,StSq4,7.0,gpfra2017,0.0,,5.0,1.1,,1,,1718,2.0,1.0,1.0,1.0,2.0,2.0,1.0,2.0,2.0,1,pairs,individual
+1,Evgenia Tarasova / Vladimir Morozov,RUS,8,77.84,41.9,36.94,1.0,,,,gpfra2017,,0.8,9.29,,,0,Composition,1718,9.75,9.5,8.75,9.0,9.0,9.75,8.25,9.5,9.5,1,pairs,individual
+1,Evgenia Tarasova / Vladimir Morozov,RUS,8,77.84,41.9,36.94,1.0,,,,gpfra2017,,0.8,9.14,,,0,Interpretation of the Music,1718,9.5,9.25,8.75,9.0,9.0,9.5,8.0,9.25,9.25,1,pairs,individual
+1,Evgenia Tarasova / Vladimir Morozov,RUS,8,77.84,41.9,36.94,1.0,,,,gpfra2017,,0.8,9.43,,,0,Performance,1718,9.75,9.75,9.0,9.25,9.5,9.5,8.5,9.5,9.5,1,pairs,individual
+1,Evgenia Tarasova / Vladimir Morozov,RUS,8,77.84,41.9,36.94,1.0,,,,gpfra2017,,0.8,9.32,,,0,Skating Skills,1718,9.5,9.25,9.0,9.25,9.5,9.5,8.5,9.5,9.25,1,pairs,individual
+1,Evgenia Tarasova / Vladimir Morozov,RUS,8,77.84,41.9,36.94,1.0,,,,gpfra2017,,0.8,9.0,,,0,Transitions,1718,9.25,8.75,8.5,9.0,9.0,9.5,8.0,9.25,9.25,1,pairs,individual
+2,Vanessa James / Morgan Cipres,FRA,7,73.18,38.47,34.71,0.0,4.4,3S,1.0,gpfra2017,0.0,,5.3,0.9,,1,,1718,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0.0,1.0,1,pairs,individual
+2,Vanessa James / Morgan Cipres,FRA,7,73.18,38.47,34.71,0.0,4.4,3S,2.0,gpfra2017,0.0,,5.6,1.2,,1,,1718,2.0,3.0,2.0,3.0,1.0,1.0,1.0,1.0,2.0,1,pairs,individual
+2,Vanessa James / Morgan Cipres,FRA,7,73.18,38.47,34.71,0.0,4.5,3Li4,3.0,gpfra2017,0.0,,5.64,1.14,,1,,1718,3.0,3.0,2.0,2.0,1.0,2.0,3.0,2.0,2.0,1,pairs,individual
+2,Vanessa James / Morgan Cipres,FRA,7,73.18,38.47,34.71,0.0,5.5,3LzTh,4.0,gpfra2017,0.0,,5.7,0.2,,1,,1718,1.0,1.0,0.0,2.0,0.0,-2.0,-1.0,1.0,0.0,1,pairs,individual
+2,Vanessa James / Morgan Cipres,FRA,7,73.18,38.47,34.71,0.0,3.2,FiDs3,5.0,gpfra2017,0.0,,4.1,0.9,,1,,1718,2.0,2.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,1,pairs,individual
+2,Vanessa James / Morgan Cipres,FRA,7,73.18,38.47,34.71,0.0,3.9,StSq4,6.0,gpfra2017,0.0,,5.3,1.4,,1,,1718,3.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,1,pairs,individual
+2,Vanessa James / Morgan Cipres,FRA,7,73.18,38.47,34.71,0.0,4.0,PCoSp3,7.0,gpfra2017,0.0,,4.93,0.93,,1,,1718,2.0,2.0,3.0,2.0,2.0,1.0,1.0,2.0,2.0,1,pairs,individual
+2,Vanessa James / Morgan Cipres,FRA,7,73.18,38.47,34.71,0.0,,,,gpfra2017,,0.8,8.75,,,0,Composition,1718,9.5,9.5,8.5,9.25,8.25,8.5,7.5,8.5,8.75,1,pairs,individual
+2,Vanessa James / Morgan Cipres,FRA,7,73.18,38.47,34.71,0.0,,,,gpfra2017,,0.8,8.64,,,0,Interpretation of the Music,1718,9.5,9.0,8.5,9.25,8.25,8.25,8.0,8.5,8.75,1,pairs,individual
+2,Vanessa James / Morgan Cipres,FRA,7,73.18,38.47,34.71,0.0,,,,gpfra2017,,0.8,8.86,,,0,Performance,1718,9.5,9.25,8.75,9.25,8.75,8.5,7.5,8.75,8.75,1,pairs,individual
+2,Vanessa James / Morgan Cipres,FRA,7,73.18,38.47,34.71,0.0,,,,gpfra2017,,0.8,8.64,,,0,Skating Skills,1718,9.25,9.0,8.5,9.0,8.25,8.5,7.5,8.75,8.5,1,pairs,individual
+2,Vanessa James / Morgan Cipres,FRA,7,73.18,38.47,34.71,0.0,,,,gpfra2017,,0.8,8.5,,,0,Transitions,1718,9.25,8.75,8.25,9.0,8.5,8.0,8.0,8.5,8.5,1,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,70.65,38.5,32.15,0.0,6.2,3Tw3,1.0,gpfra2017,0.0,,7.3,1.1,,1,,1718,2.0,1.0,1.0,2.0,2.0,1.0,2.0,2.0,0.0,1,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,70.65,38.5,32.15,0.0,6.2,3Tw3,2.0,gpfra2017,0.0,,7.1,0.9,,1,,1718,2.0,2.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,1,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,70.65,38.5,32.15,0.0,5.0,3LoTh,3.0,gpfra2017,0.0,,5.6,0.6,,1,,1718,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,0.0,1,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,70.65,38.5,32.15,0.0,4.5,3Li4,4.0,gpfra2017,0.0,,5.57,1.07,,1,,1718,3.0,2.0,2.0,2.0,2.0,2.0,3.0,2.0,1.0,1,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,70.65,38.5,32.15,0.0,3.5,FiDs4,5.0,gpfra2017,0.0,,4.6,1.1,,1,,1718,2.0,2.0,2.0,1.0,1.0,2.0,2.0,1.0,1.0,1,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,70.65,38.5,32.15,0.0,3.9,StSq4,6.0,gpfra2017,0.0,,4.9,1.0,,1,,1718,2.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,1.0,1,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,70.65,38.5,32.15,0.0,4.5,PCoSp4,7.0,gpfra2017,0.0,,5.43,0.93,,1,,1718,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,1,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,70.65,38.5,32.15,0.0,,,,gpfra2017,,0.8,8.11,,,0,Composition,1718,8.75,8.0,8.0,8.25,7.5,8.5,7.5,8.25,8.25,1,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,70.65,38.5,32.15,0.0,,,,gpfra2017,,0.8,8.11,,,0,Interpretation of the Music,1718,9.0,7.5,8.0,8.25,7.75,8.5,8.0,8.0,8.25,1,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,70.65,38.5,32.15,0.0,,,,gpfra2017,,0.8,8.14,,,0,Performance,1718,8.75,8.0,8.25,8.0,7.75,8.5,7.75,8.25,8.25,1,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,70.65,38.5,32.15,0.0,,,,gpfra2017,,0.8,8.0,,,0,Skating Skills,1718,8.5,7.25,7.75,8.25,7.75,8.5,7.5,8.0,8.25,1,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,70.65,38.5,32.15,0.0,,,,gpfra2017,,0.8,7.82,,,0,Transitions,1718,8.75,7.5,7.75,7.75,7.5,8.25,7.5,8.0,8.0,1,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,66.36,34.99,31.37,0.0,1.3,2T,1.0,gpfra2017,0.0,,0.9,-0.4,,1,,1718,-2.0,-2.0,-2.0,-2.0,-3.0,-2.0,-2.0,-2.0,-2.0,1,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,66.36,34.99,31.37,0.0,4.3,3T,2.0,gpfra2017,0.0,,2.9,-1.4,,1,,1718,-2.0,-2.0,-2.0,-2.0,-1.0,-2.0,-2.0,-3.0,-2.0,1,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,66.36,34.99,31.37,0.0,5.5,3LzTh,3.0,gpfra2017,0.0,,4.8,-0.7,,1,,1718,-1.0,-1.0,-1.0,-1.0,0.0,-1.0,-1.0,-1.0,-1.0,1,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,66.36,34.99,31.37,0.0,3.5,FiDs4,4.0,gpfra2017,0.0,,4.8,1.3,,1,,1718,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,66.36,34.99,31.37,0.0,4.5,PCoSp4,5.0,gpfra2017,0.0,,4.93,0.43,,1,,1718,1.0,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,66.36,34.99,31.37,0.0,3.9,StSq4,6.0,gpfra2017,0.0,,4.9,1.0,,1,,1718,2.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,2.0,1,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,66.36,34.99,31.37,0.0,4.5,3Li4,7.0,gpfra2017,0.0,,5.36,0.86,,1,,1718,2.0,2.0,2.0,1.0,2.0,1.0,0.0,2.0,2.0,1,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,66.36,34.99,31.37,0.0,,,,gpfra2017,,0.8,7.89,,,0,Composition,1718,8.75,7.75,7.25,8.0,8.0,8.0,7.75,8.25,7.5,1,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,66.36,34.99,31.37,0.0,,,,gpfra2017,,0.8,7.93,,,0,Interpretation of the Music,1718,8.75,7.75,7.25,8.0,8.0,7.75,8.0,8.25,7.75,1,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,66.36,34.99,31.37,0.0,,,,gpfra2017,,0.8,7.86,,,0,Performance,1718,8.5,7.25,7.0,8.25,7.75,8.0,8.0,8.0,7.75,1,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,66.36,34.99,31.37,0.0,,,,gpfra2017,,0.8,7.86,,,0,Skating Skills,1718,8.5,7.5,7.25,8.0,7.75,8.25,7.75,8.25,7.5,1,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,66.36,34.99,31.37,0.0,,,,gpfra2017,,0.8,7.68,,,0,Transitions,1718,8.5,7.5,7.25,7.75,8.0,7.75,7.5,8.0,7.25,1,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,3,62.4,33.17,29.23,0.0,5.8,3Tw2,1.0,gpfra2017,0.0,,6.0,0.2,,1,,1718,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,-2.0,1,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,3,62.4,33.17,29.23,0.0,5.0,3LoTh,2.0,gpfra2017,0.0,,6.2,1.2,,1,,1718,2.0,3.0,1.0,1.0,2.0,2.0,2.0,2.0,1.0,1,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,3,62.4,33.17,29.23,0.0,6.2,3Tw3,3.0,gpfra2017,0.0,,7.0,0.8,,1,,1718,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,3,62.4,33.17,29.23,0.0,3.5,FiDs4,4.0,gpfra2017,0.0,,4.7,1.2,,1,,1718,2.0,2.0,2.0,1.0,2.0,-1.0,2.0,2.0,1.0,1,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,3,62.4,33.17,29.23,0.0,4.5,PCoSp4,5.0,gpfra2017,0.0,,5.14,0.64,,1,,1718,2.0,2.0,1.0,1.0,1.0,1.0,2.0,0.0,1.0,1,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,3,62.4,33.17,29.23,0.0,4.5,3Li4,6.0,gpfra2017,0.0,,5.36,0.86,,1,,1718,2.0,2.0,2.0,1.0,1.0,2.0,3.0,2.0,1.0,1,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,3,62.4,33.17,29.23,0.0,3.3,StSq3,7.0,gpfra2017,0.0,,3.87,0.57,,1,,1718,2.0,2.0,1.0,0.0,0.0,1.0,2.0,1.0,1.0,1,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,3,62.4,33.17,29.23,0.0,,,,gpfra2017,,0.8,7.32,,,0,Composition,1718,7.75,7.0,7.25,7.0,7.25,7.75,7.0,7.5,7.5,1,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,3,62.4,33.17,29.23,0.0,,,,gpfra2017,,0.8,7.21,,,0,Interpretation of the Music,1718,7.5,6.25,7.0,6.75,7.0,7.5,7.5,7.25,7.75,1,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,3,62.4,33.17,29.23,0.0,,,,gpfra2017,,0.8,7.36,,,0,Performance,1718,7.75,6.75,7.25,6.75,7.25,7.5,7.5,7.5,7.75,1,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,3,62.4,33.17,29.23,0.0,,,,gpfra2017,,0.8,7.46,,,0,Skating Skills,1718,7.5,6.5,7.5,7.25,7.5,7.75,7.25,7.75,7.5,1,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,3,62.4,33.17,29.23,0.0,,,,gpfra2017,,0.8,7.18,,,0,Transitions,1718,7.75,6.75,7.0,6.75,7.25,7.25,7.0,7.75,7.25,1,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,4,58.99,29.51,29.48,0.0,1.8,2Lo,1.0,gpfra2017,0.0,,1.16,-0.64,,1,,1718,-2.0,-2.0,-2.0,-2.0,-3.0,-2.0,-2.0,-2.0,-3.0,1,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,4,58.99,29.51,29.48,0.0,1.3,3T<<,2.0,gpfra2017,0.0,,0.7,-0.6,<<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-2.0,-3.0,-3.0,-3.0,1,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,4,58.99,29.51,29.48,0.0,4.5,3Li4,3.0,gpfra2017,0.0,,5.21,0.71,,1,,1718,2.0,2.0,1.0,1.0,2.0,1.0,0.0,1.0,2.0,1,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,4,58.99,29.51,29.48,0.0,4.5,PCoSp4,4.0,gpfra2017,0.0,,5.0,0.5,,1,,1718,1.0,1.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0,1,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,4,58.99,29.51,29.48,0.0,3.9,StSq4,5.0,gpfra2017,0.0,,4.7,0.8,,1,,1718,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,4,58.99,29.51,29.48,0.0,4.5,3STh,6.0,gpfra2017,0.0,,3.8,-0.7,,1,,1718,-1.0,-1.0,-1.0,-1.0,0.0,-1.0,-1.0,-1.0,-1.0,1,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,4,58.99,29.51,29.48,0.0,3.5,FiDs4,7.0,gpfra2017,0.0,,4.1,0.6,,1,,1718,1.0,2.0,1.0,1.0,1.0,0.0,-1.0,1.0,1.0,1,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,4,58.99,29.51,29.48,0.0,,,,gpfra2017,,0.8,7.46,,,0,Composition,1718,7.5,7.5,7.25,7.5,7.5,7.5,7.25,7.75,7.5,1,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,4,58.99,29.51,29.48,0.0,,,,gpfra2017,,0.8,7.46,,,0,Interpretation of the Music,1718,7.75,7.5,7.25,7.5,7.5,7.25,7.5,7.5,7.5,1,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,4,58.99,29.51,29.48,0.0,,,,gpfra2017,,0.8,7.32,,,0,Performance,1718,7.5,7.0,7.25,7.25,7.5,7.25,7.0,7.5,7.5,1,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,4,58.99,29.51,29.48,0.0,,,,gpfra2017,,0.8,7.46,,,0,Skating Skills,1718,7.25,7.75,7.75,7.25,7.5,7.5,7.25,7.75,7.25,1,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,4,58.99,29.51,29.48,0.0,,,,gpfra2017,,0.8,7.14,,,0,Transitions,1718,7.25,7.0,7.0,7.0,7.75,7.0,7.0,7.5,7.25,1,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,2,51.9,26.99,24.91,0.0,3.4,2Tw2,1.0,gpfra2017,0.0,,3.57,0.17,,1,,1718,1.0,1.0,0.0,1.0,0.0,0.0,2.0,1.0,0.0,1,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,2,51.9,26.99,24.91,0.0,6.2,3Tw3,2.0,gpfra2017,0.0,,5.3,-0.9,,1,,1718,-2.0,-2.0,0.0,0.0,-2.0,-1.0,-1.0,-1.0,-2.0,1,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,2,51.9,26.99,24.91,0.0,5.5,3LzTh,3.0,gpfra2017,0.0,,4.0,-1.5,,1,,1718,-3.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-3.0,-2.0,1,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,2,51.9,26.99,24.91,0.0,3.2,FiDs3,4.0,gpfra2017,0.0,,3.8,0.6,,1,,1718,1.0,2.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,2,51.9,26.99,24.91,0.0,3.3,StSq3,5.0,gpfra2017,0.0,,3.73,0.43,,1,,1718,1.0,1.0,0.0,1.0,0.0,1.0,2.0,1.0,1.0,1,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,2,51.9,26.99,24.91,0.0,4.0,3Li3,6.0,gpfra2017,0.0,,4.43,0.43,,1,,1718,1.0,2.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,2,51.9,26.99,24.91,0.0,4.0,PCoSp3,7.0,gpfra2017,0.0,,4.57,0.57,,1,,1718,1.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,1,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,2,51.9,26.99,24.91,0.0,,,,gpfra2017,,0.8,6.39,,,0,Composition,1718,6.5,6.5,6.5,6.5,6.0,6.5,6.5,5.75,6.25,1,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,2,51.9,26.99,24.91,0.0,,,,gpfra2017,,0.8,6.32,,,0,Interpretation of the Music,1718,6.75,6.0,6.25,6.25,6.25,6.75,6.75,5.5,6.0,1,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,2,51.9,26.99,24.91,0.0,,,,gpfra2017,,0.8,6.14,,,0,Performance,1718,6.5,6.0,6.25,6.0,6.25,6.25,6.0,5.75,6.25,1,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,2,51.9,26.99,24.91,0.0,,,,gpfra2017,,0.8,6.29,,,0,Skating Skills,1718,6.75,6.25,6.5,6.0,6.25,6.5,6.5,6.0,6.0,1,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,2,51.9,26.99,24.91,0.0,,,,gpfra2017,,0.8,6.0,,,0,Transitions,1718,6.25,6.0,6.0,5.75,6.0,6.5,6.25,5.5,5.75,1,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,1,44.59,23.78,22.81,2.0,4.3,3T,2.0,gpfra2017,0.0,,2.2,-2.1,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,1,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,1,44.59,23.78,22.81,2.0,4.0,3Li3,3.0,gpfra2017,0.0,,3.5,-0.5,,1,,1718,-1.0,-1.0,-1.0,-1.0,-2.0,-1.0,-1.0,-1.0,-1.0,1,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,1,44.59,23.78,22.81,2.0,5.5,3LzTh,4.0,gpfra2017,0.0,,3.8,-1.7,,1,,1718,-3.0,-2.0,-2.0,-3.0,-2.0,-2.0,-3.0,-3.0,-2.0,1,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,1,44.59,23.78,22.81,2.0,3.0,FiDs2,5.0,gpfra2017,0.0,,3.0,0.0,,1,,1718,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,1,44.59,23.78,22.81,2.0,3.3,StSq3,6.0,gpfra2017,0.0,,3.3,0.0,,1,,1718,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,1.0,1,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,1,44.59,23.78,22.81,2.0,4.5,PCoSp4,7.0,gpfra2017,0.0,,4.41,-0.09,,1,,1718,0.0,0.0,0.0,-1.0,0.0,-1.0,-1.0,0.0,0.0,1,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,1,44.59,23.78,22.81,2.0,,,,gpfra2017,,0.8,5.82,,,0,Composition,1718,5.75,6.0,6.0,5.5,6.25,5.5,6.0,5.75,5.75,1,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,1,44.59,23.78,22.81,2.0,,,,gpfra2017,,0.8,5.75,,,0,Interpretation of the Music,1718,5.5,5.75,6.0,5.25,6.0,5.75,6.25,5.5,5.75,1,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,1,44.59,23.78,22.81,2.0,,,,gpfra2017,,0.8,5.57,,,0,Performance,1718,5.75,5.5,5.75,5.0,6.0,5.25,5.75,5.5,5.5,1,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,1,44.59,23.78,22.81,2.0,,,,gpfra2017,,0.8,5.82,,,0,Skating Skills,1718,6.0,5.75,6.0,5.25,6.0,5.75,6.25,5.75,5.5,1,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,1,44.59,23.78,22.81,2.0,,,,gpfra2017,,0.8,5.54,,,0,Transitions,1718,5.5,5.75,5.75,5.25,6.25,5.5,5.75,5.25,5.25,1,pairs,individual
+1,Javier Fernandez,ESP,10,107.86,60.0,47.86,0.0,8.6,4F<,1.0,gpfra2017,0.0,,4.6,-4.0,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,1,men,individual
+1,Javier Fernandez,ESP,10,107.86,60.0,47.86,0.0,10.5,4S,2.0,gpfra2017,0.0,,12.79,2.29,,1,,1718,3.0,3.0,2.0,2.0,1.0,3.0,2.0,2.0,2.0,1,men,individual
+1,Javier Fernandez,ESP,10,107.86,60.0,47.86,0.0,2.9,FUSp4,3.0,gpfra2017,0.0,,3.97,1.07,,1,,1718,2.0,2.0,2.0,1.0,1.0,3.0,3.0,3.0,2.0,1,men,individual
+1,Javier Fernandez,ESP,10,107.86,60.0,47.86,0.0,9.35,3A,4.0,gpfra2017,1.0,,11.78,2.43,,1,,1718,3.0,2.0,2.0,3.0,2.0,2.0,3.0,3.0,2.0,1,men,individual
+1,Javier Fernandez,ESP,10,107.86,60.0,47.86,0.0,3.0,CSSp4,5.0,gpfra2017,0.0,,4.0,1.0,,1,,1718,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,3.0,1,men,individual
+1,Javier Fernandez,ESP,10,107.86,60.0,47.86,0.0,3.9,StSq4,6.0,gpfra2017,0.0,,6.0,2.1,,1,,1718,3.0,3.0,2.0,3.0,3.0,3.0,3.0,3.0,3.0,1,men,individual
+1,Javier Fernandez,ESP,10,107.86,60.0,47.86,0.0,3.5,CCoSp4,7.0,gpfra2017,0.0,,4.43,0.93,,1,,1718,2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,2.0,1,men,individual
+1,Javier Fernandez,ESP,10,107.86,60.0,47.86,0.0,,,,gpfra2017,,1.0,9.61,,,0,Composition,1718,10.0,9.5,9.75,9.5,9.25,9.5,9.75,9.5,9.75,1,men,individual
+1,Javier Fernandez,ESP,10,107.86,60.0,47.86,0.0,,,,gpfra2017,,1.0,9.71,,,0,Interpretation of the Music,1718,10.0,9.75,9.75,9.5,9.5,9.75,9.75,9.75,9.75,1,men,individual
+1,Javier Fernandez,ESP,10,107.86,60.0,47.86,0.0,,,,gpfra2017,,1.0,9.79,,,0,Performance,1718,10.0,9.75,9.75,9.5,9.25,9.75,10.0,9.75,10.0,1,men,individual
+1,Javier Fernandez,ESP,10,107.86,60.0,47.86,0.0,,,,gpfra2017,,1.0,9.46,,,0,Skating Skills,1718,9.75,9.25,9.5,9.25,9.25,9.5,9.75,9.75,9.25,1,men,individual
+1,Javier Fernandez,ESP,10,107.86,60.0,47.86,0.0,,,,gpfra2017,,1.0,9.29,,,0,Transitions,1718,9.75,9.0,9.0,9.25,9.0,9.5,9.75,9.25,9.25,1,men,individual
+2,Shoma Uno,JPN,11,93.92,48.91,46.01,1.0,13.8,4Lz<+3T,1.0,gpfra2017,0.0,,13.11,-0.69,<,1,,1718,-1.0,-1.0,0.0,-1.0,-1.0,0.0,0.0,0.0,-1.0,1,men,individual
+2,Shoma Uno,JPN,11,93.92,48.91,46.01,1.0,3.2,FCSp4,2.0,gpfra2017,0.0,,4.13,0.93,,1,,1718,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,1,men,individual
+2,Shoma Uno,JPN,11,93.92,48.91,46.01,1.0,3.9,StSq4,3.0,gpfra2017,0.0,,5.4,1.5,,1,,1718,2.0,2.0,3.0,2.0,2.0,3.0,2.0,2.0,2.0,1,men,individual
+2,Shoma Uno,JPN,11,93.92,48.91,46.01,1.0,16.06,4T+3T,4.0,gpfra2017,1.0,,17.77,1.71,,1,,1718,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,1,men,individual
+2,Shoma Uno,JPN,11,93.92,48.91,46.01,1.0,9.35,3A,5.0,gpfra2017,1.0,,9.21,-0.14,,1,,1718,-1.0,1.0,0.0,-1.0,0.0,-1.0,0.0,0.0,1.0,1,men,individual
+2,Shoma Uno,JPN,11,93.92,48.91,46.01,1.0,3.0,CSSp4,6.0,gpfra2017,0.0,,3.37,0.37,,1,,1718,-1.0,-1.0,2.0,-2.0,-1.0,2.0,2.0,2.0,1.0,1,men,individual
+2,Shoma Uno,JPN,11,93.92,48.91,46.01,1.0,3.5,CCoSp4,7.0,gpfra2017,0.0,,4.43,0.93,,1,,1718,2.0,2.0,2.0,1.0,1.0,2.0,2.0,3.0,2.0,1,men,individual
+2,Shoma Uno,JPN,11,93.92,48.91,46.01,1.0,,,,gpfra2017,,1.0,9.32,,,0,Composition,1718,9.25,9.0,9.25,9.25,9.25,9.5,9.25,9.5,9.5,1,men,individual
+2,Shoma Uno,JPN,11,93.92,48.91,46.01,1.0,,,,gpfra2017,,1.0,9.29,,,0,Interpretation of the Music,1718,8.75,9.25,9.5,9.0,9.25,9.25,9.25,9.5,9.5,1,men,individual
+2,Shoma Uno,JPN,11,93.92,48.91,46.01,1.0,,,,gpfra2017,,1.0,9.07,,,0,Performance,1718,8.75,9.0,8.75,9.0,9.0,9.25,9.25,9.25,9.25,1,men,individual
+2,Shoma Uno,JPN,11,93.92,48.91,46.01,1.0,,,,gpfra2017,,1.0,9.29,,,0,Skating Skills,1718,9.0,9.0,9.5,9.0,9.25,9.5,9.25,9.5,9.5,1,men,individual
+2,Shoma Uno,JPN,11,93.92,48.91,46.01,1.0,,,,gpfra2017,,1.0,9.04,,,0,Transitions,1718,8.75,8.5,9.25,8.75,9.0,9.25,9.0,9.25,9.5,1,men,individual
+3,Alexander Samarin,RUS,8,91.51,50.98,40.53,0.0,8.5,3A,1.0,gpfra2017,0.0,,10.5,2.0,,1,,1718,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,men,individual
+3,Alexander Samarin,RUS,8,91.51,50.98,40.53,0.0,10.3,4T,2.0,gpfra2017,0.0,,10.87,0.57,,1,,1718,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1,men,individual
+3,Alexander Samarin,RUS,8,91.51,50.98,40.53,0.0,3.2,FCSp4,3.0,gpfra2017,0.0,,3.99,0.79,,1,,1718,2.0,1.0,1.0,2.0,1.0,2.0,2.0,1.0,2.0,1,men,individual
+3,Alexander Samarin,RUS,8,91.51,50.98,40.53,0.0,9.35,3A,4.0,gpfra2017,1.0,,11.21,1.86,,1,,1718,2.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,2.0,1,men,individual
+3,Alexander Samarin,RUS,8,91.51,50.98,40.53,0.0,3.0,CSSp4,5.0,gpfra2017,0.0,,3.5,0.5,,1,,1718,1.0,1.0,2.0,0.0,1.0,1.0,1.0,1.0,1.0,1,men,individual
+3,Alexander Samarin,RUS,8,91.51,50.98,40.53,0.0,3.3,StSq3,6.0,gpfra2017,0.0,,3.94,0.64,,1,,1718,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,2.0,1,men,individual
+3,Alexander Samarin,RUS,8,91.51,50.98,40.53,0.0,3.5,CCoSp4,7.0,gpfra2017,0.0,,4.36,0.86,,1,,1718,2.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,1.0,1,men,individual
+3,Alexander Samarin,RUS,8,91.51,50.98,40.53,0.0,,,,gpfra2017,,1.0,8.14,,,0,Composition,1718,8.0,8.5,8.0,8.0,7.75,8.5,8.25,8.25,8.0,1,men,individual
+3,Alexander Samarin,RUS,8,91.51,50.98,40.53,0.0,,,,gpfra2017,,1.0,8.21,,,0,Interpretation of the Music,1718,7.5,8.5,8.25,7.75,8.25,8.25,8.25,8.5,8.25,1,men,individual
+3,Alexander Samarin,RUS,8,91.51,50.98,40.53,0.0,,,,gpfra2017,,1.0,8.14,,,0,Performance,1718,8.0,8.5,8.0,8.0,8.0,8.5,8.25,8.25,8.0,1,men,individual
+3,Alexander Samarin,RUS,8,91.51,50.98,40.53,0.0,,,,gpfra2017,,1.0,8.25,,,0,Skating Skills,1718,8.25,8.75,8.25,7.75,8.5,8.5,8.0,8.5,7.75,1,men,individual
+3,Alexander Samarin,RUS,8,91.51,50.98,40.53,0.0,,,,gpfra2017,,1.0,7.79,,,0,Transitions,1718,7.25,8.25,7.75,7.5,7.5,8.25,7.75,8.0,7.75,1,men,individual
+4,Moris Kvitelashvili,GEO,4,86.98,48.98,39.0,1.0,8.5,3A,1.0,gpfra2017,0.0,,10.21,1.71,,1,,1718,2.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,2.0,1,men,individual
+4,Moris Kvitelashvili,GEO,4,86.98,48.98,39.0,1.0,14.8,4S+3T,2.0,gpfra2017,0.0,,16.23,1.43,,1,,1718,2.0,1.0,2.0,1.0,2.0,1.0,1.0,2.0,1.0,1,men,individual
+4,Moris Kvitelashvili,GEO,4,86.98,48.98,39.0,1.0,3.2,FCSp4,3.0,gpfra2017,0.0,,3.41,0.21,,1,,1718,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,1.0,1,men,individual
+4,Moris Kvitelashvili,GEO,4,86.98,48.98,39.0,1.0,3.0,CSSp4,4.0,gpfra2017,0.0,,3.64,0.64,,1,,1718,2.0,1.0,1.0,-1.0,1.0,2.0,1.0,1.0,2.0,1,men,individual
+4,Moris Kvitelashvili,GEO,4,86.98,48.98,39.0,1.0,11.33,4T,5.0,gpfra2017,1.0,,7.33,-4.0,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,1,men,individual
+4,Moris Kvitelashvili,GEO,4,86.98,48.98,39.0,1.0,3.3,StSq3,6.0,gpfra2017,0.0,,3.87,0.57,,1,,1718,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1,men,individual
+4,Moris Kvitelashvili,GEO,4,86.98,48.98,39.0,1.0,3.5,CCoSp4,7.0,gpfra2017,0.0,,4.0,0.5,,1,,1718,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,1,men,individual
+4,Moris Kvitelashvili,GEO,4,86.98,48.98,39.0,1.0,,,,gpfra2017,,1.0,7.89,,,0,Composition,1718,7.5,7.75,8.0,7.75,7.5,8.5,8.25,8.25,7.75,1,men,individual
+4,Moris Kvitelashvili,GEO,4,86.98,48.98,39.0,1.0,,,,gpfra2017,,1.0,7.86,,,0,Interpretation of the Music,1718,7.5,7.75,8.0,7.5,7.75,8.25,8.0,8.5,7.75,1,men,individual
+4,Moris Kvitelashvili,GEO,4,86.98,48.98,39.0,1.0,,,,gpfra2017,,1.0,7.75,,,0,Performance,1718,7.0,7.5,7.75,7.5,7.75,8.25,8.25,8.0,7.5,1,men,individual
+4,Moris Kvitelashvili,GEO,4,86.98,48.98,39.0,1.0,,,,gpfra2017,,1.0,7.93,,,0,Skating Skills,1718,7.75,7.75,8.0,7.5,8.0,8.5,8.0,8.25,7.75,1,men,individual
+4,Moris Kvitelashvili,GEO,4,86.98,48.98,39.0,1.0,,,,gpfra2017,,1.0,7.57,,,0,Transitions,1718,7.0,7.25,7.75,7.25,7.75,8.5,7.75,7.75,7.5,1,men,individual
+5,Alexei Bychenko,ISR,9,86.79,46.29,40.5,0.0,8.5,3A,1.0,gpfra2017,0.0,,9.64,1.14,,1,,1718,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1,men,individual
+5,Alexei Bychenko,ISR,9,86.79,46.29,40.5,0.0,10.3,4T,2.0,gpfra2017,0.0,,10.44,0.14,,1,,1718,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1,men,individual
+5,Alexei Bychenko,ISR,9,86.79,46.29,40.5,0.0,3.0,CCoSp3,3.0,gpfra2017,0.0,,3.43,0.43,,1,,1718,0.0,1.0,1.0,1.0,0.0,1.0,1.0,2.0,1.0,1,men,individual
+5,Alexei Bychenko,ISR,9,86.79,46.29,40.5,0.0,11.33,3Lz+3T,4.0,gpfra2017,1.0,,12.23,0.9,,1,,1718,2.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1,men,individual
+5,Alexei Bychenko,ISR,9,86.79,46.29,40.5,0.0,2.8,FCSp3,5.0,gpfra2017,0.0,,3.16,0.36,,1,,1718,0.0,2.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1,men,individual
+5,Alexei Bychenko,ISR,9,86.79,46.29,40.5,0.0,2.6,StSq2,6.0,gpfra2017,0.0,,3.39,0.79,,1,,1718,1.0,2.0,3.0,1.0,1.0,2.0,1.0,2.0,2.0,1,men,individual
+5,Alexei Bychenko,ISR,9,86.79,46.29,40.5,0.0,3.0,CSSp4,7.0,gpfra2017,0.0,,3.43,0.43,,1,,1718,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1,men,individual
+5,Alexei Bychenko,ISR,9,86.79,46.29,40.5,0.0,,,,gpfra2017,,1.0,8.18,,,0,Composition,1718,8.0,8.25,8.75,8.0,7.5,8.25,8.25,8.25,8.25,1,men,individual
+5,Alexei Bychenko,ISR,9,86.79,46.29,40.5,0.0,,,,gpfra2017,,1.0,8.25,,,0,Interpretation of the Music,1718,8.0,8.5,9.0,8.25,7.75,8.25,8.25,8.5,8.0,1,men,individual
+5,Alexei Bychenko,ISR,9,86.79,46.29,40.5,0.0,,,,gpfra2017,,1.0,8.32,,,0,Performance,1718,8.25,8.75,9.0,8.25,7.75,8.25,8.25,8.25,8.25,1,men,individual
+5,Alexei Bychenko,ISR,9,86.79,46.29,40.5,0.0,,,,gpfra2017,,1.0,8.04,,,0,Skating Skills,1718,7.75,8.25,8.5,7.5,8.0,8.25,8.0,8.25,7.75,1,men,individual
+5,Alexei Bychenko,ISR,9,86.79,46.29,40.5,0.0,,,,gpfra2017,,1.0,7.71,,,0,Transitions,1718,7.0,8.0,8.0,7.25,7.25,8.0,7.75,8.0,7.75,1,men,individual
+6,Misha Ge,UZB,6,85.41,43.13,42.28,0.0,8.1,4S<,1.0,gpfra2017,0.0,,4.1,-4.0,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,1,men,individual
+6,Misha Ge,UZB,6,85.41,43.13,42.28,0.0,10.3,3Lz+3T,2.0,gpfra2017,0.0,,11.0,0.7,,1,,1718,1.0,1.0,1.0,0.0,1.0,0.0,2.0,2.0,1.0,1,men,individual
+6,Misha Ge,UZB,6,85.41,43.13,42.28,0.0,3.2,CCSp4,3.0,gpfra2017,0.0,,3.84,0.64,,1,,1718,0.0,1.0,2.0,1.0,0.0,1.0,2.0,2.0,2.0,1,men,individual
+6,Misha Ge,UZB,6,85.41,43.13,42.28,0.0,5.83,3F,4.0,gpfra2017,1.0,,5.83,0.0,!,1,,1718,-1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,men,individual
+6,Misha Ge,UZB,6,85.41,43.13,42.28,0.0,2.6,FSSp3,5.0,gpfra2017,0.0,,3.39,0.79,,1,,1718,1.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,2.0,1,men,individual
+6,Misha Ge,UZB,6,85.41,43.13,42.28,0.0,3.9,StSq4,6.0,gpfra2017,0.0,,5.5,1.6,,1,,1718,3.0,2.0,3.0,2.0,2.0,2.0,2.0,3.0,2.0,1,men,individual
+6,Misha Ge,UZB,6,85.41,43.13,42.28,0.0,3.0,CCoSp3,7.0,gpfra2017,0.0,,3.93,0.93,,1,,1718,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,1.0,1,men,individual
+6,Misha Ge,UZB,6,85.41,43.13,42.28,0.0,,,,gpfra2017,,1.0,8.64,,,0,Composition,1718,8.75,8.0,8.75,8.25,7.5,8.5,9.0,9.5,9.25,1,men,individual
+6,Misha Ge,UZB,6,85.41,43.13,42.28,0.0,,,,gpfra2017,,1.0,8.71,,,0,Interpretation of the Music,1718,8.75,8.5,8.75,8.25,7.75,8.5,9.0,9.25,9.25,1,men,individual
+6,Misha Ge,UZB,6,85.41,43.13,42.28,0.0,,,,gpfra2017,,1.0,8.43,,,0,Performance,1718,8.0,8.5,8.5,8.0,7.75,8.25,8.75,9.25,9.0,1,men,individual
+6,Misha Ge,UZB,6,85.41,43.13,42.28,0.0,,,,gpfra2017,,1.0,8.36,,,0,Skating Skills,1718,8.0,8.5,8.5,8.0,7.25,8.25,8.75,9.25,8.5,1,men,individual
+6,Misha Ge,UZB,6,85.41,43.13,42.28,0.0,,,,gpfra2017,,1.0,8.14,,,0,Transitions,1718,7.5,8.25,8.25,7.75,7.25,8.25,8.5,9.0,8.5,1,men,individual
+7,Denis Ten,KAZ,3,83.7,42.56,42.14,1.0,14.6,4T+3T,1.0,gpfra2017,0.0,,10.6,-4.0,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,1,men,individual
+7,Denis Ten,KAZ,3,83.7,42.56,42.14,1.0,8.5,3A,2.0,gpfra2017,0.0,,10.36,1.86,,1,,1718,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,1,men,individual
+7,Denis Ten,KAZ,3,83.7,42.56,42.14,1.0,3.2,CCSp4,3.0,gpfra2017,0.0,,3.99,0.79,,1,,1718,1.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,1,men,individual
+7,Denis Ten,KAZ,3,83.7,42.56,42.14,1.0,10.56,3F+3T,4.0,gpfra2017,1.0,,11.16,0.6,,1,,1718,1.0,1.0,1.0,0.0,2.0,0.0,1.0,1.0,1.0,1,men,individual
+7,Denis Ten,KAZ,3,83.7,42.56,42.14,1.0,3.5,CCoSp4,5.0,gpfra2017,0.0,,4.43,0.93,,1,,1718,2.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,2.0,1,men,individual
+7,Denis Ten,KAZ,3,83.7,42.56,42.14,1.0,3.3,StSq3,6.0,gpfra2017,0.0,,4.59,1.29,,1,,1718,3.0,3.0,2.0,3.0,3.0,3.0,2.0,2.0,2.0,1,men,individual
+7,Denis Ten,KAZ,3,83.7,42.56,42.14,1.0,3.0,FSSp4,7.0,gpfra2017,0.0,,3.93,0.93,,1,,1718,2.0,1.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,1,men,individual
+7,Denis Ten,KAZ,3,83.7,42.56,42.14,1.0,,,,gpfra2017,,1.0,8.57,,,0,Composition,1718,9.0,8.25,8.5,8.25,8.75,8.25,9.0,8.5,8.75,1,men,individual
+7,Denis Ten,KAZ,3,83.7,42.56,42.14,1.0,,,,gpfra2017,,1.0,8.61,,,0,Interpretation of the Music,1718,8.5,8.5,8.75,8.0,8.75,8.25,9.0,8.75,8.75,1,men,individual
+7,Denis Ten,KAZ,3,83.7,42.56,42.14,1.0,,,,gpfra2017,,1.0,8.32,,,0,Performance,1718,8.0,8.5,8.0,7.75,8.75,8.0,9.0,8.25,8.75,1,men,individual
+7,Denis Ten,KAZ,3,83.7,42.56,42.14,1.0,,,,gpfra2017,,1.0,8.46,,,0,Skating Skills,1718,8.75,8.25,8.5,8.0,8.5,8.0,9.0,8.75,8.5,1,men,individual
+7,Denis Ten,KAZ,3,83.7,42.56,42.14,1.0,,,,gpfra2017,,1.0,8.18,,,0,Transitions,1718,8.0,8.0,8.0,7.5,8.5,8.0,8.75,8.5,8.25,1,men,individual
+8,Max Aaron,USA,7,78.64,41.54,38.1,1.0,8.5,3A,1.0,gpfra2017,0.0,,7.21,-1.29,,1,,1718,0.0,-1.0,-1.0,-2.0,-2.0,-1.0,-1.0,-1.0,-2.0,1,men,individual
+8,Max Aaron,USA,7,78.64,41.54,38.1,1.0,10.5,4S,2.0,gpfra2017,0.0,,7.64,-2.86,,1,,1718,-2.0,-3.0,-2.0,-3.0,-2.0,-2.0,-3.0,-2.0,-2.0,1,men,individual
+8,Max Aaron,USA,7,78.64,41.54,38.1,1.0,2.8,FCSp3,3.0,gpfra2017,0.0,,3.16,0.36,,1,,1718,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1,men,individual
+8,Max Aaron,USA,7,78.64,41.54,38.1,1.0,9.35,3A,4.0,gpfra2017,1.0,,9.78,0.43,,1,,1718,1.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1,men,individual
+8,Max Aaron,USA,7,78.64,41.54,38.1,1.0,3.0,CSSp4,5.0,gpfra2017,0.0,,2.96,-0.04,,1,,1718,0.0,-1.0,0.0,0.0,0.0,1.0,-1.0,0.0,0.0,1,men,individual
+8,Max Aaron,USA,7,78.64,41.54,38.1,1.0,3.3,StSq3,6.0,gpfra2017,0.0,,3.8,0.5,,1,,1718,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1,men,individual
+8,Max Aaron,USA,7,78.64,41.54,38.1,1.0,3.5,CCoSp4,7.0,gpfra2017,0.0,,3.6,0.1,,1,,1718,0.0,1.0,0.0,0.0,1.0,0.0,-1.0,2.0,-1.0,1,men,individual
+8,Max Aaron,USA,7,78.64,41.54,38.1,1.0,,,,gpfra2017,,1.0,7.71,,,0,Composition,1718,7.75,8.25,7.5,7.5,7.75,7.75,8.0,7.5,7.75,1,men,individual
+8,Max Aaron,USA,7,78.64,41.54,38.1,1.0,,,,gpfra2017,,1.0,7.64,,,0,Interpretation of the Music,1718,7.75,8.5,7.5,7.25,7.75,7.75,7.75,7.5,7.5,1,men,individual
+8,Max Aaron,USA,7,78.64,41.54,38.1,1.0,,,,gpfra2017,,1.0,7.5,,,0,Performance,1718,7.25,8.25,7.25,7.25,7.75,7.75,7.75,7.25,7.5,1,men,individual
+8,Max Aaron,USA,7,78.64,41.54,38.1,1.0,,,,gpfra2017,,1.0,7.93,,,0,Skating Skills,1718,8.0,8.75,7.75,7.75,8.25,8.0,8.0,7.75,7.5,1,men,individual
+8,Max Aaron,USA,7,78.64,41.54,38.1,1.0,,,,gpfra2017,,1.0,7.32,,,0,Transitions,1718,7.25,8.0,7.0,7.0,7.5,7.5,7.5,7.25,7.25,1,men,individual
+9,Kevin Aymoz,FRA,2,70.0,34.18,35.82,0.0,9.5,4Lz<+COMBO,1.0,gpfra2017,0.0,,5.5,-4.0,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,1,men,individual
+9,Kevin Aymoz,FRA,2,70.0,34.18,35.82,0.0,10.3,3Lz+3T,2.0,gpfra2017,0.0,,10.5,0.2,,1,,1718,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1,men,individual
+9,Kevin Aymoz,FRA,2,70.0,34.18,35.82,0.0,2.8,CCSp3,3.0,gpfra2017,0.0,,2.63,-0.17,,1,,1718,-1.0,0.0,-1.0,0.0,0.0,-1.0,0.0,-1.0,-1.0,1,men,individual
+9,Kevin Aymoz,FRA,2,70.0,34.18,35.82,0.0,1.8,3Lo<<,4.0,gpfra2017,0.0,,0.9,-0.9,<<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,1,men,individual
+9,Kevin Aymoz,FRA,2,70.0,34.18,35.82,0.0,3.0,FSSp4,5.0,gpfra2017,0.0,,3.64,0.64,,1,,1718,2.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1,men,individual
+9,Kevin Aymoz,FRA,2,70.0,34.18,35.82,0.0,3.5,CCoSp4,6.0,gpfra2017,0.0,,4.0,0.5,,1,,1718,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1,men,individual
+9,Kevin Aymoz,FRA,2,70.0,34.18,35.82,0.0,3.9,StSq4,7.0,gpfra2017,0.0,,5.3,1.4,,1,,1718,3.0,2.0,3.0,2.0,2.0,2.0,1.0,1.0,2.0,1,men,individual
+9,Kevin Aymoz,FRA,2,70.0,34.18,35.82,0.0,,,,gpfra2017,,1.0,7.18,,,0,Composition,1718,7.25,7.0,7.0,7.25,7.0,8.0,7.5,7.25,7.0,1,men,individual
+9,Kevin Aymoz,FRA,2,70.0,34.18,35.82,0.0,,,,gpfra2017,,1.0,7.32,,,0,Interpretation of the Music,1718,7.75,7.5,7.0,7.25,7.0,7.75,7.25,7.5,6.75,1,men,individual
+9,Kevin Aymoz,FRA,2,70.0,34.18,35.82,0.0,,,,gpfra2017,,1.0,7.14,,,0,Performance,1718,7.0,7.5,6.5,7.0,7.25,8.0,7.25,7.0,7.0,1,men,individual
+9,Kevin Aymoz,FRA,2,70.0,34.18,35.82,0.0,,,,gpfra2017,,1.0,7.25,,,0,Skating Skills,1718,7.25,7.5,7.0,7.25,6.5,7.75,7.5,7.5,6.75,1,men,individual
+9,Kevin Aymoz,FRA,2,70.0,34.18,35.82,0.0,,,,gpfra2017,,1.0,6.93,,,0,Transitions,1718,7.25,7.0,6.5,6.75,6.5,7.75,7.0,7.25,6.75,1,men,individual
+10,Vincent Zhou,USA,5,66.12,32.12,36.0,2.0,10.3,4T+COMBO,1.0,gpfra2017,0.0,,6.3,-4.0,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,1,men,individual
+10,Vincent Zhou,USA,5,66.12,32.12,36.0,2.0,8.6,4F<,2.0,gpfra2017,0.0,,4.6,-4.0,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,1,men,individual
+10,Vincent Zhou,USA,5,66.12,32.12,36.0,2.0,3.2,FCSp4,3.0,gpfra2017,0.0,,3.27,0.07,,1,,1718,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,men,individual
+10,Vincent Zhou,USA,5,66.12,32.12,36.0,2.0,9.35,3A,4.0,gpfra2017,1.0,,8.35,-1.0,,1,,1718,-2.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,1,men,individual
+10,Vincent Zhou,USA,5,66.12,32.12,36.0,2.0,3.3,StSq3,5.0,gpfra2017,0.0,,3.73,0.43,,1,,1718,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1,men,individual
+10,Vincent Zhou,USA,5,66.12,32.12,36.0,2.0,3.0,CSSp4,6.0,gpfra2017,0.0,,3.21,0.21,,1,,1718,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1,men,individual
+10,Vincent Zhou,USA,5,66.12,32.12,36.0,2.0,3.5,CCoSp4,7.0,gpfra2017,0.0,,3.46,-0.04,,1,,1718,-1.0,0.0,1.0,-1.0,0.0,0.0,0.0,0.0,0.0,1,men,individual
+10,Vincent Zhou,USA,5,66.12,32.12,36.0,2.0,,,,gpfra2017,,1.0,7.29,,,0,Composition,1718,6.75,7.5,7.25,7.25,7.5,7.75,7.0,7.0,7.5,1,men,individual
+10,Vincent Zhou,USA,5,66.12,32.12,36.0,2.0,,,,gpfra2017,,1.0,7.21,,,0,Interpretation of the Music,1718,6.5,7.5,7.25,7.0,7.25,7.5,7.0,7.0,7.5,1,men,individual
+10,Vincent Zhou,USA,5,66.12,32.12,36.0,2.0,,,,gpfra2017,,1.0,7.0,,,0,Performance,1718,6.0,7.25,6.5,6.75,7.0,7.5,7.25,6.75,7.5,1,men,individual
+10,Vincent Zhou,USA,5,66.12,32.12,36.0,2.0,,,,gpfra2017,,1.0,7.46,,,0,Skating Skills,1718,6.75,7.75,7.25,7.25,7.75,7.75,7.5,7.25,7.5,1,men,individual
+10,Vincent Zhou,USA,5,66.12,32.12,36.0,2.0,,,,gpfra2017,,1.0,7.04,,,0,Transitions,1718,6.75,7.5,7.0,6.75,7.25,7.5,6.75,6.75,7.25,1,men,individual
+11,Romain Ponsart,FRA,1,63.81,31.56,34.25,2.0,8.5,3A,2.0,gpfra2017,0.0,,6.5,-2.0,,1,,1718,-2.0,-2.0,-2.0,-2.0,-2.0,-3.0,-2.0,-2.0,-2.0,1,men,individual
+11,Romain Ponsart,FRA,1,63.81,31.56,34.25,2.0,3.2,FCSp4,3.0,gpfra2017,0.0,,3.77,0.57,,1,,1718,2.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1,men,individual
+11,Romain Ponsart,FRA,1,63.81,31.56,34.25,2.0,6.6,3Lz,4.0,gpfra2017,1.0,,4.5,-2.1,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,1,men,individual
+11,Romain Ponsart,FRA,1,63.81,31.56,34.25,2.0,2.6,CSSp3,5.0,gpfra2017,0.0,,2.96,0.36,,1,,1718,1.0,1.0,0.0,-1.0,1.0,2.0,1.0,0.0,1.0,1,men,individual
+11,Romain Ponsart,FRA,1,63.81,31.56,34.25,2.0,2.6,StSq2,6.0,gpfra2017,0.0,,3.24,0.64,,1,,1718,2.0,1.0,2.0,0.0,1.0,2.0,1.0,1.0,1.0,1,men,individual
+11,Romain Ponsart,FRA,1,63.81,31.56,34.25,2.0,3.5,CCoSp4,7.0,gpfra2017,0.0,,4.29,0.79,,1,,1718,2.0,2.0,2.0,1.0,1.0,2.0,2.0,1.0,1.0,1,men,individual
+11,Romain Ponsart,FRA,1,63.81,31.56,34.25,2.0,,,,gpfra2017,,1.0,6.86,,,0,Composition,1718,6.75,7.5,6.5,6.5,6.75,7.75,7.25,6.5,6.75,1,men,individual
+11,Romain Ponsart,FRA,1,63.81,31.56,34.25,2.0,,,,gpfra2017,,1.0,6.96,,,0,Interpretation of the Music,1718,6.75,7.5,6.5,6.5,7.0,7.75,7.25,6.75,7.0,1,men,individual
+11,Romain Ponsart,FRA,1,63.81,31.56,34.25,2.0,,,,gpfra2017,,1.0,6.79,,,0,Performance,1718,6.25,7.5,6.0,6.25,7.0,7.5,7.25,6.5,6.75,1,men,individual
+11,Romain Ponsart,FRA,1,63.81,31.56,34.25,2.0,,,,gpfra2017,,1.0,7.07,,,0,Skating Skills,1718,6.75,7.25,6.75,6.5,7.5,7.75,7.25,7.0,7.0,1,men,individual
+11,Romain Ponsart,FRA,1,63.81,31.56,34.25,2.0,,,,gpfra2017,,1.0,6.57,,,0,Transitions,1718,6.75,6.75,6.0,5.75,6.5,7.5,7.0,6.25,6.75,1,men,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,10.3,3Lz+3T,1.0,gpfra2017,0.0,,11.8,1.5,,1,,1718,2.0,1.0,2.0,3.0,3.0,2.0,2.0,2.0,2.0,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,3.2,FCSp4,2.0,gpfra2017,0.0,,4.41,1.21,,1,,1718,3.0,2.0,3.0,2.0,3.0,2.0,3.0,2.0,2.0,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,3.9,StSq4,3.0,gpfra2017,0.0,,5.3,1.4,,1,,1718,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,3.0,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,12.21,3Lz+3Lo,4.0,gpfra2017,1.0,,13.51,1.3,,1,,1718,2.0,1.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,8.36,2A+3T,5.0,gpfra2017,1.0,,9.76,1.4,,1,,1718,2.0,1.0,2.0,2.0,3.0,2.0,2.0,2.0,2.0,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,9.24,3F+2T+2Lo,6.0,gpfra2017,1.0,,10.34,1.1,,1,,1718,1.0,1.0,1.0,2.0,2.0,2.0,2.0,1.0,3.0,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,2.7,LSp4,7.0,gpfra2017,0.0,,3.84,1.14,,1,,1718,2.0,1.0,2.0,2.0,2.0,3.0,3.0,2.0,3.0,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,6.6,3Lz,8.0,gpfra2017,1.0,,8.4,1.8,,1,,1718,2.0,2.0,3.0,2.0,3.0,2.0,3.0,3.0,3.0,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,4.84,3S,9.0,gpfra2017,1.0,,6.14,1.3,,1,,1718,1.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,3.0,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,5.83,3F,10.0,gpfra2017,1.0,,7.13,1.3,,1,,1718,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,3.0,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,3.63,2A,11.0,gpfra2017,1.0,,4.27,0.64,,1,,1718,1.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,2.0,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,3.5,CCoSp4,12.0,gpfra2017,0.0,,5.0,1.5,,1,,1718,3.0,3.0,3.0,3.0,3.0,3.0,3.0,2.0,3.0,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,,,,gpfra2017,,1.6,8.71,,,0,Composition,1718,8.25,8.75,8.25,9.0,9.0,9.0,8.75,8.25,9.25,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,,,,gpfra2017,,1.6,8.86,,,0,Interpretation of the Music,1718,8.25,8.75,8.75,9.25,9.0,9.25,8.5,8.5,9.25,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,,,,gpfra2017,,1.6,8.93,,,0,Performance,1718,8.5,8.75,8.75,9.0,9.25,9.25,8.75,8.75,9.5,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,,,,gpfra2017,,1.6,8.57,,,0,Skating Skills,1718,7.75,8.5,8.25,8.75,8.75,8.75,8.5,8.5,9.0,0,women,individual
+1,Alina Zagitova,RUS,7,151.34,81.8,69.54,0.0,,,,gpfra2017,,1.6,8.39,,,0,Transitions,1718,7.75,8.5,7.75,8.5,8.75,8.75,8.5,8.0,8.75,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,5.1,3Lo,1.0,gpfra2017,0.0,,6.0,0.9,,1,,1718,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,2.0,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,5.3,3F,2.0,gpfra2017,0.0,,6.5,1.2,,1,,1718,1.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,2.7,LSp4,3.0,gpfra2017,0.0,,3.56,0.86,,1,,1718,2.0,1.0,2.0,2.0,1.0,1.0,2.0,2.0,2.0,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,3.9,StSq4,4.0,gpfra2017,0.0,,5.0,1.1,,1,,1718,2.0,1.0,2.0,2.0,1.0,1.0,1.0,2.0,2.0,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,5.61,3Lo,5.0,gpfra2017,1.0,,6.71,1.1,,1,,1718,2.0,1.0,2.0,2.0,1.0,2.0,1.0,2.0,1.0,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,11.22,3F+1Lo+3S,6.0,gpfra2017,1.0,,11.82,0.6,,1,,1718,1.0,0.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,6.6,3Lz,7.0,gpfra2017,1.0,,7.7,1.1,,1,,1718,2.0,0.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,2.0,ChSq1,8.0,gpfra2017,0.0,,3.3,1.3,,1,,1718,2.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,5.06,2A+2T,9.0,gpfra2017,1.0,,5.85,0.79,,1,,1718,1.0,0.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,3.63,2A,10.0,gpfra2017,1.0,,4.27,0.64,,1,,1718,1.0,0.0,2.0,1.0,1.0,2.0,1.0,1.0,2.0,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,3.2,FCSp4,11.0,gpfra2017,0.0,,3.7,0.5,,1,,1718,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,3.0,CCoSp3,12.0,gpfra2017,0.0,,3.57,0.57,,1,,1718,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,,,,gpfra2017,,1.6,8.43,,,0,Composition,1718,8.25,8.5,8.5,9.0,8.0,8.75,8.0,8.5,8.5,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,,,,gpfra2017,,1.6,8.43,,,0,Interpretation of the Music,1718,8.25,8.75,8.75,9.0,8.0,8.75,8.0,8.0,8.5,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,,,,gpfra2017,,1.6,8.61,,,0,Performance,1718,8.75,8.5,8.75,9.0,8.25,8.75,8.25,8.75,8.5,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,,,,gpfra2017,,1.6,8.46,,,0,Skating Skills,1718,8.25,8.5,8.75,8.75,8.25,8.75,7.75,8.5,8.25,0,women,individual
+2,Maria Sotskova,RUS,10,140.99,73.78,67.21,0.0,,,,gpfra2017,,1.6,8.07,,,0,Transitions,1718,7.5,8.25,8.25,8.5,8.0,8.5,7.5,8.0,8.0,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,9.6,3F+3T,1.0,gpfra2017,0.0,,11.4,1.8,,1,,1718,3.0,2.0,3.0,2.0,3.0,3.0,2.0,3.0,2.0,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,6.0,3Lz,2.0,gpfra2017,0.0,,6.9,0.9,,1,,1718,2.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,5.3,3F,3.0,gpfra2017,0.0,,6.3,1.0,,1,,1718,1.0,0.0,2.0,1.0,2.0,2.0,1.0,2.0,1.0,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,3.2,FCSp4,4.0,gpfra2017,0.0,,3.99,0.79,,1,,1718,1.0,0.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,2.0,ChSq1,5.0,gpfra2017,0.0,,3.3,1.3,,1,,1718,2.0,1.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,4.84,3S,6.0,gpfra2017,1.0,,5.84,1.0,,1,,1718,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,2.0,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,9.79,2A+3T+2T,7.0,gpfra2017,1.0,,10.99,1.2,,1,,1718,1.0,1.0,2.0,1.0,2.0,2.0,2.0,2.0,3.0,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,8.36,2A+3T,8.0,gpfra2017,1.0,,9.46,1.1,,1,,1718,1.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,6.27,3S+2T,9.0,gpfra2017,1.0,,7.07,0.8,,1,,1718,1.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,1.0,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,3.9,StSq4,10.0,gpfra2017,0.0,,5.0,1.1,,1,,1718,2.0,1.0,1.0,1.0,1.0,2.0,2.0,2.0,2.0,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,3.0,CCoSp3,11.0,gpfra2017,0.0,,3.86,0.86,,1,,1718,2.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,3.5,FCCoSp4,12.0,gpfra2017,0.0,,4.5,1.0,,1,,1718,2.0,1.0,3.0,1.0,2.0,2.0,2.0,2.0,3.0,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,,,,gpfra2017,,1.6,8.29,,,0,Composition,1718,8.25,8.0,7.75,8.5,7.5,8.75,8.0,8.75,8.75,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,,,,gpfra2017,,1.6,8.25,,,0,Interpretation of the Music,1718,8.0,8.5,8.25,8.25,8.0,9.0,8.25,7.75,8.5,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,,,,gpfra2017,,1.6,8.39,,,0,Performance,1718,8.5,8.5,8.0,8.25,7.5,9.0,8.25,8.5,8.75,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,,,,gpfra2017,,1.6,8.18,,,0,Skating Skills,1718,7.75,8.25,7.75,8.25,7.75,8.75,8.25,8.5,8.5,0,women,individual
+3,Elizabet Tursynbaeva,KAZ,8,138.69,73.21,65.48,0.0,,,,gpfra2017,,1.6,7.82,,,0,Transitions,1718,7.75,8.0,7.25,8.0,7.5,8.5,7.75,7.75,8.0,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,10.3,3Lz+3T,1.0,gpfra2017,0.0,,11.5,1.2,,1,,1718,2.0,1.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,7.6,2A+3T,2.0,gpfra2017,0.0,,7.0,-0.6,,1,,1718,-1.0,-1.0,1.0,-1.0,-1.0,0.0,-1.0,-1.0,-1.0,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,6.0,3Lz,3.0,gpfra2017,0.0,,7.2,1.2,,1,,1718,2.0,2.0,2.0,1.0,2.0,2.0,1.0,3.0,1.0,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,3.5,FCCoSp4,4.0,gpfra2017,0.0,,4.5,1.0,,1,,1718,2.0,2.0,2.0,2.0,3.0,2.0,2.0,2.0,2.0,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,2.4,LSp3,5.0,gpfra2017,0.0,,3.26,0.86,,1,,1718,2.0,2.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,5.61,3Lo,6.0,gpfra2017,1.0,,3.61,-2.0,,1,,1718,-3.0,-3.0,-2.0,-3.0,-3.0,-2.0,-3.0,-3.0,-3.0,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,5.83,3F,7.0,gpfra2017,1.0,,7.33,1.5,,1,,1718,2.0,3.0,2.0,2.0,3.0,2.0,2.0,2.0,1.0,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,8.25,3S+2T+2Lo,8.0,gpfra2017,1.0,,9.55,1.3,,1,,1718,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,1.0,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,3.9,StSq4,9.0,gpfra2017,0.0,,5.3,1.4,,1,,1718,3.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,2.0,ChSq1,10.0,gpfra2017,0.0,,3.6,1.6,,1,,1718,3.0,3.0,3.0,2.0,2.0,2.0,2.0,2.0,2.0,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,1.21,1A,11.0,gpfra2017,1.0,,1.38,0.17,,1,,1718,1.0,1.0,0.0,1.0,0.0,2.0,1.0,1.0,1.0,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,3.5,CCoSp4,12.0,gpfra2017,0.0,,4.29,0.79,,1,,1718,2.0,3.0,2.0,1.0,2.0,1.0,2.0,1.0,1.0,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,,,,gpfra2017,,1.6,8.86,,,0,Composition,1718,9.0,9.0,9.0,8.75,9.0,9.0,8.75,8.5,8.5,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,,,,gpfra2017,,1.6,8.96,,,0,Interpretation of the Music,1718,9.25,9.25,9.25,8.25,9.5,8.75,8.75,8.75,8.75,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,,,,gpfra2017,,1.6,8.68,,,0,Performance,1718,8.75,8.75,9.0,8.25,9.0,8.5,8.75,8.0,8.75,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,,,,gpfra2017,,1.6,8.86,,,0,Skating Skills,1718,9.0,9.0,9.0,8.75,9.0,8.25,9.0,8.75,8.5,0,women,individual
+4,Kaetlyn Osmond,CAN,11,137.72,68.42,70.3,1.0,,,,gpfra2017,,1.6,8.57,,,0,Transitions,1718,8.75,8.75,8.75,8.5,8.75,8.5,8.5,8.25,8.0,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,10.3,3Lz+3T,1.0,gpfra2017,0.0,,11.1,0.8,,1,,1718,2.0,0.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,2.0,ChSq1,2.0,gpfra2017,0.0,,3.1,1.1,,1,,1718,2.0,1.0,2.0,1.0,1.0,1.0,2.0,2.0,2.0,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,3.3,2A,3.0,gpfra2017,0.0,,4.16,0.86,,1,,1718,1.0,1.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,3.0,CCoSp3,4.0,gpfra2017,0.0,,3.64,0.64,,1,,1718,1.0,0.0,2.0,1.0,1.0,1.0,2.0,1.0,2.0,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,3.0,FSSp4,5.0,gpfra2017,0.0,,3.57,0.57,,1,,1718,1.0,0.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,5.83,3F,6.0,gpfra2017,1.0,,6.93,1.1,,1,,1718,2.0,0.0,2.0,1.0,1.0,1.0,2.0,2.0,2.0,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,3.63,2A,7.0,gpfra2017,1.0,,3.99,0.36,,1,,1718,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,9.02,3Lo+2T+2Lo,8.0,gpfra2017,1.0,,9.22,0.2,,1,,1718,-1.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,11.33,3Lz+3T,9.0,gpfra2017,1.0,,12.03,0.7,,1,,1718,1.0,0.0,2.0,1.0,1.0,0.0,2.0,1.0,1.0,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,4.84,3S,10.0,gpfra2017,1.0,,5.44,0.6,,1,,1718,1.0,0.0,1.0,1.0,0.0,2.0,2.0,1.0,0.0,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,3.9,StSq4,11.0,gpfra2017,0.0,,5.3,1.4,,1,,1718,2.0,1.0,3.0,2.0,2.0,2.0,2.0,2.0,2.0,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,3.5,FCCoSp4,12.0,gpfra2017,0.0,,4.57,1.07,,1,,1718,3.0,1.0,3.0,1.0,2.0,2.0,3.0,2.0,2.0,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,,,,gpfra2017,,1.6,8.0,,,0,Composition,1718,7.75,7.75,8.25,8.0,8.5,8.0,8.5,7.75,7.75,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,,,,gpfra2017,,1.6,8.04,,,0,Interpretation of the Music,1718,7.75,8.0,8.75,8.0,8.25,8.25,8.25,7.75,7.75,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,,,,gpfra2017,,1.6,8.25,,,0,Performance,1718,8.25,8.0,8.5,7.75,8.75,8.25,8.5,8.25,8.0,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,,,,gpfra2017,,1.6,8.14,,,0,Skating Skills,1718,8.0,7.75,8.5,8.25,9.0,7.75,8.5,8.0,8.0,0,women,individual
+5,Mai Mihara,JPN,6,137.55,73.45,64.1,0.0,,,,gpfra2017,,1.6,7.64,,,0,Transitions,1718,7.25,7.5,8.0,7.5,8.25,7.75,8.0,7.5,7.0,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,5.3,3F,1.0,gpfra2017,0.0,,5.8,0.5,,1,,1718,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,3.3,2A,2.0,gpfra2017,0.0,,3.87,0.57,,1,,1718,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,0.0,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,3.0,FSSp4,3.0,gpfra2017,0.0,,3.64,0.64,,1,,1718,2.0,0.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,3.3,StSq3,4.0,gpfra2017,0.0,,4.01,0.71,,1,,1718,2.0,1.0,1.0,1.0,2.0,2.0,2.0,1.0,1.0,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,12.76,3Lz+3T+2T,5.0,gpfra2017,1.0,,13.46,0.7,,1,,1718,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,4.84,3S,6.0,gpfra2017,1.0,,5.84,1.0,,1,,1718,2.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,3.5,CCoSp4,7.0,gpfra2017,0.0,,4.29,0.79,,1,,1718,2.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,2.0,ChSq1,8.0,gpfra2017,0.0,,2.4,0.4,,1,,1718,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,5.83,3F,9.0,gpfra2017,1.0,,5.63,-0.2,!,1,,1718,1.0,0.0,0.0,-1.0,-1.0,0.0,0.0,0.0,-1.0,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,5.06,2A+2T,10.0,gpfra2017,1.0,,5.49,0.43,,1,,1718,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,2.7,LSp4,11.0,gpfra2017,0.0,,3.27,0.57,,1,,1718,2.0,0.0,2.0,1.0,1.0,1.0,1.0,0.0,2.0,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,3.96,3Lo<,12.0,gpfra2017,1.0,,1.86,-2.1,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-2.0,-3.0,-3.0,-3.0,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,,,,gpfra2017,,1.6,8.0,,,0,Composition,1718,8.25,8.25,8.0,7.75,7.75,8.25,8.0,8.0,7.75,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,,,,gpfra2017,,1.6,7.96,,,0,Interpretation of the Music,1718,8.25,8.25,8.25,7.5,7.75,8.25,7.75,7.75,7.75,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,,,,gpfra2017,,1.6,8.04,,,0,Performance,1718,8.25,8.0,8.25,7.75,7.5,8.25,8.0,7.75,8.5,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,,,,gpfra2017,,1.6,7.93,,,0,Skating Skills,1718,8.0,8.0,7.75,8.0,8.25,8.0,8.0,7.75,7.75,0,women,individual
+6,Yuna Shiraiwa,JPN,9,127.13,64.86,63.27,1.0,,,,gpfra2017,,1.6,7.61,,,0,Transitions,1718,7.75,7.75,7.5,7.5,7.75,8.0,7.5,7.5,7.0,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,8.5,3A,1.0,gpfra2017,0.0,,5.5,-3.0,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,8.6,3T+3T,2.0,gpfra2017,0.0,,9.2,0.6,,1,,1718,1.0,1.0,2.0,0.0,1.0,0.0,1.0,2.0,0.0,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,6.6,3F+2T,3.0,gpfra2017,0.0,,7.3,0.7,,1,,1718,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,7.5,3S+2T+2Lo,4.0,gpfra2017,0.0,,7.5,0.0,,1,,1718,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,5.1,3Lo,5.0,gpfra2017,0.0,,5.4,0.3,,1,,1718,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,3.2,FCSp4,6.0,gpfra2017,0.0,,3.56,0.36,,1,,1718,1.0,0.0,2.0,0.0,1.0,0.0,1.0,1.0,1.0,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,3.3,StSq3,7.0,gpfra2017,0.0,,3.87,0.57,,1,,1718,2.0,1.0,2.0,1.0,1.0,0.0,1.0,1.0,1.0,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,3.63,2A,8.0,gpfra2017,1.0,,4.13,0.5,,1,,1718,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,3.63,2A,9.0,gpfra2017,1.0,,3.99,0.36,,1,,1718,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,2.7,LSp4,10.0,gpfra2017,0.0,,3.06,0.36,,1,,1718,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,2.0,ChSq1,11.0,gpfra2017,0.0,,2.6,0.6,,1,,1718,0.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,3.5,CCoSp4,12.0,gpfra2017,0.0,,3.71,0.21,,1,,1718,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,,,,gpfra2017,,1.6,7.07,,,0,Composition,1718,7.25,7.25,7.0,7.0,6.25,6.75,7.0,7.25,7.25,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,,,,gpfra2017,,1.6,7.21,,,0,Interpretation of the Music,1718,7.5,7.5,7.25,6.75,7.0,7.0,7.0,7.5,7.25,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,,,,gpfra2017,,1.6,7.25,,,0,Performance,1718,7.5,7.5,7.0,7.25,6.75,7.0,7.25,7.5,7.25,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,,,,gpfra2017,,1.6,7.04,,,0,Skating Skills,1718,7.25,7.25,6.75,7.25,6.75,6.75,7.0,7.25,7.0,0,women,individual
+7,Nicole Schott,GER,1,116.85,60.12,56.73,0.0,,,,gpfra2017,,1.6,6.89,,,0,Transitions,1718,7.25,7.0,7.0,6.75,6.25,6.75,6.75,7.25,6.75,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,3.3,2A,1.0,gpfra2017,0.0,,3.87,0.57,,1,,1718,1.0,1.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,5.2,2Lz+2T+2Lo,2.0,gpfra2017,0.0,,5.24,0.04,,1,,1718,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,5.3,3F,3.0,gpfra2017,0.0,,5.3,0.0,,1,,1718,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,2.6,FSSp3,4.0,gpfra2017,0.0,,2.89,0.29,,1,,1718,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,1.9,LSp2,5.0,gpfra2017,0.0,,2.26,0.36,,1,,1718,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,5.6,3T+2T,6.0,gpfra2017,0.0,,6.5,0.9,,1,,1718,2.0,0.0,2.0,1.0,1.0,0.0,1.0,2.0,2.0,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,6.6,3Lz,7.0,gpfra2017,1.0,,5.8,-0.8,,1,,1718,-2.0,-1.0,0.0,0.0,-2.0,-1.0,-2.0,-1.0,-1.0,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,5.61,3Lo,8.0,gpfra2017,1.0,,5.61,0.0,,1,,1718,1.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0.0,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,2.6,StSq2,9.0,gpfra2017,0.0,,3.24,0.64,,1,,1718,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,2.0,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,6.78,3S+2A+SEQ,10.0,gpfra2017,1.0,,7.78,1.0,,1,,1718,1.0,1.0,1.0,1.0,2.0,1.0,2.0,2.0,2.0,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,2.0,ChSq1,11.0,gpfra2017,0.0,,2.9,0.9,,1,,1718,1.0,1.0,2.0,1.0,2.0,1.0,1.0,2.0,1.0,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,3.5,CCoSp4,12.0,gpfra2017,0.0,,4.21,0.71,,1,,1718,2.0,0.0,2.0,1.0,2.0,1.0,1.0,1.0,2.0,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,,,,gpfra2017,,1.6,7.29,,,0,Composition,1718,7.25,7.0,7.25,7.5,7.75,7.0,7.25,7.0,7.75,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,,,,gpfra2017,,1.6,7.32,,,0,Interpretation of the Music,1718,7.25,7.25,7.5,7.25,8.5,7.25,7.25,7.0,7.5,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,,,,gpfra2017,,1.6,7.39,,,0,Performance,1718,7.5,7.0,7.5,7.5,7.75,7.25,7.0,7.25,7.75,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,,,,gpfra2017,,1.6,7.61,,,0,Skating Skills,1718,7.5,7.5,7.75,7.5,8.0,7.0,7.25,7.75,8.0,0,women,individual
+8,Elizaveta Tuktamysheva,RUS,2,114.62,57.23,58.39,1.0,,,,gpfra2017,,1.6,6.89,,,0,Transitions,1718,6.5,6.5,7.0,7.0,7.5,7.0,6.75,6.75,7.25,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,6.0,3Lz,1.0,gpfra2017,0.0,,3.9,-2.1,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,9.6,3F+3T,2.0,gpfra2017,0.0,,9.8,0.2,,1,,1718,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,1.0,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,7.3,3Lz+2T,3.0,gpfra2017,0.0,,7.9,0.6,,1,,1718,1.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,2.8,FCSp3,4.0,gpfra2017,0.0,,3.3,0.5,,1,,1718,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,3.3,StSq3,5.0,gpfra2017,0.0,,3.59,0.29,,1,,1718,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,5.61,3Lo,6.0,gpfra2017,1.0,,5.81,0.2,,1,,1718,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,8.36,2A+3T,7.0,gpfra2017,1.0,,8.76,0.4,,1,,1718,0.0,0.0,2.0,1.0,0.0,1.0,0.0,1.0,1.0,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,0.66,1Lz,8.0,gpfra2017,1.0,,0.59,-0.07,,1,,1718,-1.0,-1.0,0.0,-1.0,-1.0,0.0,-1.0,-1.0,0.0,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,4.84,3S,9.0,gpfra2017,1.0,,4.24,-0.6,,1,,1718,-1.0,-1.0,0.0,-1.0,-1.0,0.0,-1.0,-1.0,-1.0,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,2.0,ChSq1,10.0,gpfra2017,0.0,,2.4,0.4,,1,,1718,0.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,3.0,CCoSp3,11.0,gpfra2017,0.0,,3.07,0.07,,1,,1718,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,2.4,LSp3,12.0,gpfra2017,0.0,,2.76,0.36,,1,,1718,1.0,1.0,1.0,0.0,0.0,1.0,1.0,0.0,2.0,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,,,,gpfra2017,,1.6,7.07,,,0,Composition,1718,6.75,7.25,7.25,7.0,6.5,7.25,6.75,7.25,7.25,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,,,,gpfra2017,,1.6,7.18,,,0,Interpretation of the Music,1718,6.5,7.5,7.5,6.75,7.0,7.5,7.0,7.25,7.25,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,,,,gpfra2017,,1.6,7.25,,,0,Performance,1718,6.75,7.25,7.75,7.0,7.0,7.5,7.0,7.5,7.5,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,,,,gpfra2017,,1.6,7.04,,,0,Skating Skills,1718,6.75,7.5,7.5,7.25,6.75,6.75,6.75,7.25,7.0,0,women,individual
+9,Mae Berenice Meite,FRA,4,112.44,56.09,56.35,0.0,,,,gpfra2017,,1.6,6.68,,,0,Transitions,1718,6.25,6.75,6.75,6.75,6.5,7.25,6.5,7.0,6.5,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,9.0,3Lz+3T<,1.0,gpfra2017,0.0,,8.6,-0.4,<,1,,1718,-1.0,-1.0,-1.0,0.0,-1.0,0.0,0.0,-1.0,0.0,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,7.6,2A+3T,2.0,gpfra2017,0.0,,7.4,-0.2,,1,,1718,-1.0,0.0,0.0,0.0,-1.0,0.0,0.0,-1.0,0.0,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,8.2,2A+1Lo+3S,3.0,gpfra2017,0.0,,6.8,-1.4,,1,,1718,-2.0,-2.0,-1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,3.2,FCSp4,4.0,gpfra2017,0.0,,4.13,0.93,,1,,1718,2.0,1.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,3.7,3F<,5.0,gpfra2017,0.0,,1.6,-2.1,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,3.96,3Lo<,6.0,gpfra2017,1.0,,3.26,-0.7,<,1,,1718,-1.0,-1.0,-2.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,2.77,3Lo<+REP,7.0,gpfra2017,1.0,,1.97,-0.8,<,1,,1718,-1.0,-2.0,-1.0,-1.0,-2.0,-1.0,-1.0,-1.0,-1.0,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,2.6,StSq2,8.0,gpfra2017,0.0,,2.96,0.36,,1,,1718,1.0,1.0,2.0,0.0,0.0,0.0,1.0,1.0,1.0,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,4.84,3S,9.0,gpfra2017,1.0,,5.24,0.4,,1,,1718,0.0,0.0,1.0,0.0,1.0,0.0,2.0,1.0,1.0,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,3.0,CCoSp3,10.0,gpfra2017,0.0,,3.71,0.71,,1,,1718,2.0,1.0,2.0,1.0,2.0,0.0,2.0,1.0,1.0,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,2.0,ChSq1,11.0,gpfra2017,0.0,,2.6,0.6,,1,,1718,1.0,0.0,2.0,1.0,0.0,1.0,1.0,1.0,1.0,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,2.7,LSp4,12.0,gpfra2017,0.0,,3.2,0.5,,1,,1718,1.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,,,,gpfra2017,,1.6,7.11,,,0,Composition,1718,7.25,7.0,7.5,7.25,6.75,7.0,7.0,6.75,7.5,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,,,,gpfra2017,,1.6,7.25,,,0,Interpretation of the Music,1718,7.25,7.25,7.75,7.0,7.0,7.25,7.25,7.5,7.25,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,,,,gpfra2017,,1.6,7.0,,,0,Performance,1718,7.0,6.75,7.5,7.0,7.0,7.25,6.75,7.0,7.0,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,,,,gpfra2017,,1.6,7.25,,,0,Skating Skills,1718,7.25,7.0,7.5,7.25,7.25,6.75,7.0,7.5,7.75,0,women,individual
+10,Polina Edmunds,USA,5,101.46,46.77,56.69,2.0,,,,gpfra2017,,1.6,6.82,,,0,Transitions,1718,7.0,6.5,7.0,6.75,6.75,7.0,6.5,6.75,7.5,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,1.9,3F<<,2.0,gpfra2017,0.0,,1.0,-0.9,<<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-2.0,-3.0,-3.0,-3.0,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,3.2,FCSp4,3.0,gpfra2017,0.0,,4.06,0.86,,1,,1718,2.0,2.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,4.4,3S,4.0,gpfra2017,0.0,,4.3,-0.1,,1,,1718,-1.0,0.0,0.0,0.0,-1.0,0.0,0.0,1.0,0.0,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,2.6,StSq2,5.0,gpfra2017,0.0,,3.1,0.5,,1,,1718,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,6.93,2A+3T<,6.0,gpfra2017,1.0,,5.43,-1.5,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,5.61,2A+1Lo+2S,7.0,gpfra2017,1.0,,5.11,-0.5,,1,,1718,-1.0,-1.0,-1.0,-1.0,-2.0,-1.0,-1.0,-1.0,-1.0,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,2.31,2Lz,8.0,gpfra2017,1.0,,1.41,-0.9,,1,,1718,-3.0,-3.0,-3.0,-2.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,2.5,CCoSp3V,9.0,gpfra2017,0.0,,2.24,-0.26,,1,,1718,-2.0,-1.0,0.0,-1.0,0.0,-1.0,-1.0,-1.0,-1.0,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,2.0,ChSq1,10.0,gpfra2017,0.0,,2.1,0.1,,1,,1718,0.0,0.0,0.0,0.0,0.0,0.0,1.0,-1.0,1.0,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,0.55,1Lo,11.0,gpfra2017,1.0,,0.48,-0.07,,1,,1718,-1.0,0.0,0.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.0,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,1.9,LSp2,12.0,gpfra2017,0.0,,2.11,0.21,,1,,1718,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,,,,gpfra2017,,1.6,6.96,,,0,Composition,1718,6.75,6.75,6.25,7.5,6.25,7.25,7.25,7.0,7.5,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,,,,gpfra2017,,1.6,6.96,,,0,Interpretation of the Music,1718,7.0,6.75,6.75,7.25,6.5,7.0,7.0,7.0,7.5,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,,,,gpfra2017,,1.6,6.71,,,0,Performance,1718,6.75,6.75,6.25,7.0,6.0,7.0,6.75,6.5,7.25,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,,,,gpfra2017,,1.6,7.0,,,0,Skating Skills,1718,7.0,7.25,6.75,7.5,6.25,6.75,6.75,7.0,7.5,0,women,individual
+11,Laurine Lecavelier,FRA,3,93.67,39.94,54.73,1.0,,,,gpfra2017,,1.6,6.57,,,0,Transitions,1718,6.5,6.5,6.0,7.0,6.0,7.0,6.5,6.5,7.0,0,women,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,8.0,4Tw2,1.0,gpfra2017,0.0,,9.43,1.43,,1,,1718,2.0,-2.0,2.0,1.0,1.0,1.0,2.0,3.0,1.0,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,6.9,3T+2T+2T,2.0,gpfra2017,0.0,,8.3,1.4,,1,,1718,2.0,2.0,3.0,2.0,2.0,1.0,2.0,2.0,2.0,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,8.2,4STh,3.0,gpfra2017,0.0,,6.49,-1.71,,1,,1718,-2.0,-1.0,-2.0,-1.0,-2.0,-2.0,-2.0,-1.0,-2.0,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,4.4,3S,4.0,gpfra2017,0.0,,5.2,0.8,,1,,1718,2.0,2.0,1.0,2.0,1.0,0.0,0.0,1.0,1.0,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,7.0,5BLi4,5.0,gpfra2017,0.0,,8.4,1.4,,1,,1718,3.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,3.2,BiDs3,6.0,gpfra2017,0.0,,4.5,1.3,,1,,1718,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,4.5,PCoSp4,7.0,gpfra2017,0.0,,5.36,0.86,,1,,1718,2.0,3.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,7.0,5ALi3,8.0,gpfra2017,0.0,,7.9,0.9,,1,,1718,2.0,2.0,1.0,3.0,1.0,1.0,1.0,1.0,1.0,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,5.5,3LzTh,9.0,gpfra2017,0.0,,6.4,0.9,,1,,1718,2.0,2.0,1.0,2.0,2.0,0.0,-1.0,1.0,1.0,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,2.0,ChSq1,10.0,gpfra2017,0.0,,3.6,1.6,,1,,1718,3.0,3.0,3.0,2.0,2.0,1.0,1.0,3.0,2.0,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,3.0,FCCoSp3,11.0,gpfra2017,0.0,,3.71,0.71,,1,,1718,3.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,2.0,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,4.5,3Li4,12.0,gpfra2017,0.0,,5.29,0.79,,1,,1718,3.0,3.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,,,,gpfra2017,,1.6,8.86,,,0,Composition,1718,9.0,9.5,8.75,9.5,8.5,8.75,7.75,8.75,8.75,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,,,,gpfra2017,,1.6,8.75,,,0,Interpretation of the Music,1718,9.25,9.0,8.75,9.25,8.25,8.5,8.0,8.75,8.75,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,,,,gpfra2017,,1.6,8.93,,,0,Performance,1718,9.25,9.5,8.75,9.25,9.0,8.5,7.75,8.75,9.0,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,,,,gpfra2017,,1.6,8.79,,,0,Skating Skills,1718,9.0,9.0,8.5,9.0,9.0,8.75,7.75,8.5,8.75,0,pairs,individual
+1,Vanessa James / Morgan Cipres,FRA,7,141.14,70.95,70.19,0.0,,,,gpfra2017,,1.6,8.54,,,0,Transitions,1718,8.75,9.25,8.25,9.0,8.25,8.25,7.5,8.5,8.75,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,4.4,3S,1.0,gpfra2017,0.0,,5.5,1.1,,1,,1718,2.0,2.0,2.0,1.0,1.0,0.0,2.0,1.0,2.0,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,4.4,3S,2.0,gpfra2017,0.0,,5.1,0.7,,1,,1718,3.0,0.0,-1.0,2.0,2.0,0.0,2.0,0.0,1.0,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,4.5,3STh,3.0,gpfra2017,0.0,,6.5,2.0,,1,,1718,3.0,3.0,3.0,3.0,3.0,3.0,2.0,2.0,3.0,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,0.4,1T+COMBO,4.0,gpfra2017,0.0,,0.1,-0.3,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,7.5,5RLi4,5.0,gpfra2017,0.0,,8.8,1.3,,1,,1718,2.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,2.0,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,4.0,BoDs3,6.0,gpfra2017,0.0,,5.4,1.4,,1,,1718,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,3.5,FCCoSp4,7.0,gpfra2017,0.0,,4.36,0.86,,1,,1718,3.0,2.0,0.0,2.0,2.0,2.0,1.0,1.0,2.0,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,2.0,ChSq1,8.0,gpfra2017,0.0,,3.4,1.4,,1,,1718,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,5.0,3LoTh,9.0,gpfra2017,0.0,,4.5,-0.5,,1,,1718,-2.0,0.0,-1.0,-1.0,0.0,-1.0,-1.0,-1.0,0.0,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,7.5,5ALi4,10.0,gpfra2017,0.0,,9.1,1.6,,1,,1718,3.0,3.0,2.0,2.0,1.0,2.0,2.0,2.0,3.0,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,4.5,3Li4,11.0,gpfra2017,0.0,,5.0,0.5,,1,,1718,2.0,2.0,1.0,0.0,0.0,0.0,1.0,1.0,2.0,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,4.5,PCoSp4,12.0,gpfra2017,0.0,,5.36,0.86,,1,,1718,2.0,2.0,2.0,2.0,3.0,1.0,1.0,1.0,2.0,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,,,,gpfra2017,,1.6,9.18,,,0,Composition,1718,9.25,9.0,8.5,9.25,9.0,9.5,9.0,9.5,9.25,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,,,,gpfra2017,,1.6,9.21,,,0,Interpretation of the Music,1718,9.25,9.25,8.25,9.25,9.0,9.25,9.25,9.25,9.5,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,,,,gpfra2017,,1.6,9.07,,,0,Performance,1718,9.5,9.0,8.25,9.0,9.0,9.0,9.0,9.25,9.25,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,,,,gpfra2017,,1.6,9.32,,,0,Skating Skills,1718,9.25,9.5,8.5,9.25,9.25,9.5,9.0,9.5,9.5,0,pairs,individual
+2,Evgenia Tarasova / Vladimir Morozov,RUS,8,140.36,67.05,73.31,0.0,,,,gpfra2017,,1.6,9.04,,,0,Transitions,1718,8.75,9.0,8.25,9.0,8.75,9.25,9.0,9.5,9.5,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,6.2,3Tw3,1.0,gpfra2017,0.0,,7.2,1.0,,1,,1718,2.0,1.0,0.0,1.0,2.0,1.0,2.0,2.0,1.0,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,6.6,3Tw4,2.0,gpfra2017,0.0,,7.3,0.7,,1,,1718,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,1.3,2T+COMBO,3.0,gpfra2017,0.0,,0.7,-0.6,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-2.0,-3.0,-3.0,-3.0,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,4.0,PCoSp3,4.0,gpfra2017,0.0,,4.64,0.64,,1,,1718,2.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,5.0,3LoTh,5.0,gpfra2017,0.0,,5.1,0.1,,1,,1718,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,4.5,BoDs4,6.0,gpfra2017,0.0,,5.6,1.1,,1,,1718,1.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,1.0,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,7.5,5RLi4,7.0,gpfra2017,0.0,,8.5,1.0,,1,,1718,2.0,2.0,1.0,1.0,0.0,1.0,3.0,2.0,1.0,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,2.0,ChSq1,8.0,gpfra2017,0.0,,3.2,1.2,,1,,1718,2.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,1.0,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,4.5,3STh,9.0,gpfra2017,0.0,,4.4,-0.1,,1,,1718,1.0,0.0,-1.0,1.0,-1.0,0.0,0.0,0.0,-1.0,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,7.5,5ALi4,10.0,gpfra2017,0.0,,8.6,1.1,,1,,1718,3.0,2.0,1.0,1.0,1.0,2.0,2.0,2.0,1.0,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,4.5,3Li4,11.0,gpfra2017,0.0,,5.43,0.93,,1,,1718,3.0,3.0,2.0,1.0,1.0,1.0,2.0,2.0,2.0,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,3.5,FCCoSp4,12.0,gpfra2017,0.0,,4.0,0.5,,1,,1718,1.0,1.0,2.0,1.0,1.0,1.0,0.0,1.0,1.0,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,,,,gpfra2017,,1.6,8.29,,,0,Composition,1718,8.5,8.5,7.75,8.5,7.25,8.5,8.0,8.25,8.5,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,,,,gpfra2017,,1.6,8.11,,,0,Interpretation of the Music,1718,8.5,8.0,7.75,8.5,7.25,8.25,8.0,7.75,8.5,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,,,,gpfra2017,,1.6,8.25,,,0,Performance,1718,8.25,8.5,7.75,8.5,7.5,8.5,8.0,8.25,8.5,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,,,,gpfra2017,,1.6,8.07,,,0,Skating Skills,1718,8.25,8.25,7.5,8.25,7.5,8.25,7.75,8.25,8.25,0,pairs,individual
+3,Nicole Della Monica / Matteo Guarise,ITA,5,126.94,62.97,64.97,1.0,,,,gpfra2017,,1.6,7.89,,,0,Transitions,1718,8.25,8.0,7.5,7.75,7.0,8.25,7.5,8.0,8.25,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,5.6,3T+2T,1.0,gpfra2017,0.0,,6.7,1.1,,1,,1718,2.0,1.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,5.2,3T+2T<,2.0,gpfra2017,0.0,,3.1,-2.1,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,1.3,2S,3.0,gpfra2017,0.0,,0.9,-0.4,,1,,1718,-2.0,-2.0,-2.0,0.0,-2.0,-2.0,-2.0,-2.0,-2.0,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,4.5,3STh,4.0,gpfra2017,0.0,,5.8,1.3,,1,,1718,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,1.0,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,7.5,5RLi4,5.0,gpfra2017,0.0,,8.5,1.0,,1,,1718,1.0,2.0,1.0,1.0,2.0,1.0,2.0,2.0,1.0,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,4.0,BoDs3,6.0,gpfra2017,0.0,,5.1,1.1,,1,,1718,1.0,2.0,1.0,1.0,2.0,1.0,2.0,2.0,2.0,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,3.5,FCCoSp4,7.0,gpfra2017,0.0,,3.46,-0.04,,1,,1718,0.0,0.0,0.0,0.0,1.0,0.0,-1.0,-1.0,0.0,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,7.5,5ALi4,8.0,gpfra2017,0.0,,8.3,0.8,,1,,1718,2.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,4.5,3Li4,9.0,gpfra2017,0.0,,5.43,0.93,,1,,1718,2.0,3.0,2.0,1.0,3.0,0.0,2.0,1.0,2.0,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,2.0,ChSq1,10.0,gpfra2017,0.0,,3.5,1.5,,1,,1718,3.0,3.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,5.5,3LzTh,11.0,gpfra2017,0.0,,6.7,1.2,,1,,1718,2.0,3.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,4.0,PCoSp3,12.0,gpfra2017,0.0,,4.5,0.5,,1,,1718,2.0,1.0,1.0,1.0,2.0,0.0,1.0,-1.0,1.0,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,,,,gpfra2017,,1.6,8.07,,,0,Composition,1718,8.25,8.75,7.75,8.0,8.25,8.5,8.0,7.75,7.75,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,,,,gpfra2017,,1.6,8.11,,,0,Interpretation of the Music,1718,8.0,8.75,7.75,8.0,8.25,8.25,8.5,7.5,8.0,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,,,,gpfra2017,,1.6,8.07,,,0,Performance,1718,8.5,8.0,7.75,7.75,8.25,8.25,8.5,7.5,8.0,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,,,,gpfra2017,,1.6,8.0,,,0,Skating Skills,1718,8.0,8.0,7.5,8.0,8.25,8.5,8.25,7.75,7.75,0,pairs,individual
+4,Liubov Ilyushechkina / Dylan Moscovitch,CAN,6,126.71,62.49,64.22,0.0,,,,gpfra2017,,1.6,7.89,,,0,Transitions,1718,7.75,8.5,7.5,7.5,8.5,8.25,8.0,7.75,7.5,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,6.2,3Tw3,1.0,gpfra2017,0.0,,6.7,0.5,,1,,1718,2.0,0.0,0.0,1.0,1.0,0.0,2.0,1.0,0.0,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,3.1,3S<,2.0,gpfra2017,0.0,,1.0,-2.1,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,6.2,3Tw3,3.0,gpfra2017,0.0,,7.2,1.0,,1,,1718,2.0,1.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,2.0,ChSq1,4.0,gpfra2017,0.0,,2.7,0.7,,1,,1718,1.0,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,5.0,3LoTh,5.0,gpfra2017,0.0,,6.6,1.6,,1,,1718,3.0,3.0,2.0,1.0,2.0,2.0,3.0,2.0,2.0,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,4.5,3STh,6.0,gpfra2017,0.0,,5.8,1.3,,1,,1718,3.0,3.0,2.0,1.0,2.0,1.0,1.0,2.0,2.0,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,4.5,BoDs4,7.0,gpfra2017,0.0,,5.5,1.0,,1,,1718,2.0,2.0,3.0,1.0,1.0,0.0,2.0,1.0,1.0,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,7.5,5RLi4,8.0,gpfra2017,0.0,,8.7,1.2,,1,,1718,2.0,2.0,1.0,2.0,1.0,2.0,2.0,2.0,1.0,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,3.5,CCoSp4,9.0,gpfra2017,0.0,,3.86,0.36,,1,,1718,1.0,1.0,1.0,1.0,-1.0,0.0,0.0,1.0,1.0,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,7.5,5ALi4,10.0,gpfra2017,0.0,,8.4,0.9,,1,,1718,2.0,2.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,4.5,3Li4,11.0,gpfra2017,0.0,,5.36,0.86,,1,,1718,2.0,3.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,4.5,PCoSp4,12.0,gpfra2017,0.0,,5.07,0.57,,1,,1718,2.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,,,,gpfra2017,,1.6,7.68,,,0,Composition,1718,7.75,7.75,8.0,7.5,7.5,8.0,7.5,7.75,7.5,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,,,,gpfra2017,,1.6,7.64,,,0,Interpretation of the Music,1718,7.5,7.5,8.0,7.75,7.25,8.0,7.5,7.5,7.75,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,,,,gpfra2017,,1.6,7.64,,,0,Performance,1718,7.75,7.0,7.75,7.75,7.5,7.75,7.25,7.75,7.75,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,,,,gpfra2017,,1.6,7.61,,,0,Skating Skills,1718,7.5,7.0,7.75,7.5,7.25,8.0,7.5,8.0,7.75,0,pairs,individual
+5,Cheng Peng / Yang Jin,CHN,4,125.74,66.89,60.85,2.0,,,,gpfra2017,,1.6,7.46,,,0,Transitions,1718,7.75,6.75,7.5,7.5,7.75,7.5,7.0,7.5,7.5,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,5.1,3Lo,1.0,gpfra2017,0.0,,5.2,0.1,,1,,1718,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,3.0,3T<,2.0,gpfra2017,0.0,,0.9,-2.1,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,7.0,5RLi3,3.0,gpfra2017,0.0,,8.4,1.4,,1,,1718,2.0,3.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,5.5,3FTh,4.0,gpfra2017,0.0,,6.5,1.0,,1,,1718,2.0,2.0,1.0,2.0,1.0,0.0,2.0,1.0,1.0,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,3.5,FCCoSp4,5.0,gpfra2017,0.0,,3.7,0.2,,1,,1718,2.0,1.0,0.0,1.0,-1.0,1.0,-1.0,1.0,-1.0,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,4.5,PCoSp4,6.0,gpfra2017,0.0,,5.14,0.64,,1,,1718,1.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,1.0,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,0.91,3S<<+REP,7.0,gpfra2017,0.0,,0.31,-0.6,<<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,4.5,3Li4,8.0,gpfra2017,0.0,,5.14,0.64,,1,,1718,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,4.5,3STh,9.0,gpfra2017,0.0,,5.5,1.0,,1,,1718,2.0,2.0,1.0,2.0,2.0,1.0,0.0,1.0,1.0,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,7.5,5ALi4,10.0,gpfra2017,0.0,,8.7,1.2,,1,,1718,2.0,3.0,2.0,1.0,2.0,1.0,2.0,2.0,1.0,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,2.0,ChSq1,11.0,gpfra2017,0.0,,3.0,1.0,,1,,1718,1.0,2.0,2.0,1.0,1.0,1.0,2.0,2.0,1.0,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,4.0,BoDs3,12.0,gpfra2017,0.0,,4.9,0.9,,1,,1718,1.0,3.0,2.0,2.0,1.0,1.0,1.0,1.0,1.0,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,,,,gpfra2017,,1.6,7.54,,,0,Composition,1718,7.5,8.0,6.75,7.5,7.5,7.75,7.25,7.75,7.5,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,,,,gpfra2017,,1.6,7.43,,,0,Interpretation of the Music,1718,7.25,7.75,6.75,7.25,7.25,7.5,7.25,7.75,7.75,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,,,,gpfra2017,,1.6,7.46,,,0,Performance,1718,7.5,7.25,6.75,7.5,7.5,7.5,7.5,7.5,7.75,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,,,,gpfra2017,,1.6,7.36,,,0,Skating Skills,1718,7.5,7.5,6.75,7.25,7.5,7.25,7.0,7.75,7.5,0,pairs,individual
+6,Marissa Castelli / Mervin Tran,USA,3,118.16,58.89,59.27,0.0,,,,gpfra2017,,1.6,7.25,,,0,Transitions,1718,7.25,8.0,6.5,7.5,7.5,7.25,6.75,7.25,7.25,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,3.0,3T<,1.0,gpfra2017,0.0,,0.9,-2.1,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,6.2,3Tw3,2.0,gpfra2017,0.0,,5.2,-1.0,,1,,1718,-2.0,-1.0,0.0,-2.0,-2.0,-2.0,-1.0,-1.0,-1.0,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,1.3,3S<<+COMBO,3.0,gpfra2017,0.0,,0.7,-0.6,<<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-2.0,-3.0,-3.0,-3.0,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,3.5,FCCoSp4,4.0,gpfra2017,0.0,,4.0,0.5,,1,,1718,1.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,7.0,5RLi3,5.0,gpfra2017,0.0,,7.2,0.2,,1,,1718,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,5.5,3FTh,6.0,gpfra2017,0.0,,5.9,0.4,,1,,1718,2.0,2.0,0.0,1.0,0.0,0.0,-1.0,0.0,1.0,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,2.0,ChSq1,7.0,gpfra2017,0.0,,2.4,0.4,,1,,1718,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,4.5,3STh,8.0,gpfra2017,0.0,,4.5,0.0,,1,,1718,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,0.0,5BLi,9.0,gpfra2017,0.0,,0.0,0.0,,1,,1718,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,4.5,3Li4,10.0,gpfra2017,0.0,,4.57,0.07,,1,,1718,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,3.5,BoDs2,11.0,gpfra2017,0.0,,3.3,-0.2,,1,,1718,0.0,0.0,0.0,0.0,0.0,-1.0,-1.0,-1.0,0.0,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,2.5,PCoSp2V,12.0,gpfra2017,0.0,,2.24,-0.26,,1,,1718,-1.0,-1.0,0.0,1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,,,,gpfra2017,,1.6,6.25,,,0,Composition,1718,6.75,6.5,5.75,6.5,6.0,7.0,6.0,5.75,6.25,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,,,,gpfra2017,,1.6,6.18,,,0,Interpretation of the Music,1718,6.5,6.0,5.5,6.5,6.0,6.75,6.25,5.5,6.5,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,,,,gpfra2017,,1.6,6.21,,,0,Performance,1718,6.75,6.0,5.75,6.25,6.25,6.5,6.25,5.75,6.5,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,,,,gpfra2017,,1.6,6.36,,,0,Skating Skills,1718,7.0,6.5,6.0,6.25,6.25,6.75,6.5,6.0,6.25,0,pairs,individual
+7,Lola Esbrat / Andrei Novoselov,FRA,1,94.82,45.21,49.61,0.0,,,,gpfra2017,,1.6,6.0,,,0,Transitions,1718,6.5,6.25,5.25,6.0,6.0,6.5,6.0,5.5,5.75,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,3.1,2Tw1,2.0,gpfra2017,0.0,,3.31,0.21,,1,,1718,1.0,1.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,2.0,ChSq1,3.0,gpfra2017,0.0,,2.1,0.1,,1,,1718,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,1.0,1.0,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,0.91,2S+REP,4.0,gpfra2017,0.0,,1.05,0.14,,1,,1718,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,6.0,5TLi3,5.0,gpfra2017,0.0,,6.0,0.0,,1,,1718,-1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,3.0,BiDs2,6.0,gpfra2017,0.0,,3.4,0.4,,1,,1718,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,1.0,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,6.5,5ALi2,7.0,gpfra2017,0.0,,6.9,0.4,,1,,1718,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,5.5,3FTh,8.0,gpfra2017,0.0,,3.4,-2.1,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,5.0,3LoTh,9.0,gpfra2017,0.0,,4.5,-0.5,,1,,1718,-1.0,0.0,-1.0,0.0,0.0,-1.0,-1.0,-1.0,-1.0,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,4.0,3Li3,10.0,gpfra2017,0.0,,4.29,0.29,,1,,1718,0.0,2.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,3.5,FCCoSp4,11.0,gpfra2017,0.0,,3.16,-0.34,,1,,1718,-2.0,0.0,-1.0,-1.0,-1.0,-1.0,-2.0,-1.0,-1.0,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,3.5,PCoSp2,12.0,gpfra2017,0.0,,3.46,-0.04,,1,,1718,-1.0,0.0,0.0,1.0,0.0,-1.0,0.0,0.0,0.0,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,,,,gpfra2017,,1.6,5.82,,,0,Composition,1718,5.5,6.0,5.0,6.25,5.75,5.5,6.0,5.75,6.25,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,,,,gpfra2017,,1.6,5.68,,,0,Interpretation of the Music,1718,5.25,5.75,5.25,6.0,5.75,5.25,6.25,5.5,6.25,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,,,,gpfra2017,,1.6,5.71,,,0,Performance,1718,5.25,6.0,5.0,6.0,6.0,5.25,6.0,5.5,6.0,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,,,,gpfra2017,,1.6,5.68,,,0,Skating Skills,1718,5.5,6.0,5.25,5.75,5.75,5.5,6.5,5.75,5.5,0,pairs,individual
+8,Zoe Jones / Christopher Boyadji,GBR,2,85.84,42.47,45.37,2.0,,,,gpfra2017,,1.6,5.46,,,0,Transitions,1718,5.25,5.25,5.0,5.75,5.75,5.0,6.25,5.75,5.5,0,pairs,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,10.3,4T,1.0,gpfra2017,0.0,,11.3,1.0,,1,,1718,2.0,2.0,0.0,0.0,1.0,1.0,-1.0,1.0,2.0,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,8.5,3A,2.0,gpfra2017,0.0,,11.07,2.57,,1,,1718,3.0,3.0,2.0,3.0,2.0,1.0,3.0,2.0,3.0,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,6.0,3Lz,3.0,gpfra2017,0.0,,5.3,-0.7,,1,,1718,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,3.2,FCSp4,4.0,gpfra2017,0.0,,4.2,1.0,,1,,1718,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,3.5,FCCoSp4,5.0,gpfra2017,0.0,,4.5,1.0,,1,,1718,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,3.3,StSq3,6.0,gpfra2017,0.0,,4.3,1.0,,1,,1718,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,9.46,4F<,7.0,gpfra2017,1.0,,5.69,-3.77,<,1,,1718,-2.0,-3.0,-2.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,8.8,4T<,8.0,gpfra2017,1.0,,4.8,-4.0,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,7.93,4T+REP,9.0,gpfra2017,1.0,,8.07,0.14,,1,,1718,0.0,1.0,0.0,0.0,-1.0,0.0,0.0,0.0,1.0,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,15.73,3A+1Lo+3F,10.0,gpfra2017,1.0,,12.73,-3.0,,1,,1718,-3.0,-2.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,6.27,3S+2T,11.0,gpfra2017,1.0,,7.17,0.9,,1,,1718,1.0,2.0,1.0,1.0,1.0,0.0,2.0,1.0,2.0,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,2.0,ChSq1,12.0,gpfra2017,0.0,,3.8,1.8,,1,,1718,3.0,3.0,3.0,2.0,3.0,2.0,2.0,2.0,3.0,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,3.5,CCoSp4,13.0,gpfra2017,0.0,,4.71,1.21,,1,,1718,3.0,3.0,1.0,3.0,3.0,2.0,2.0,2.0,2.0,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,,,,gpfra2017,,2.0,9.18,,,0,Composition,1718,9.25,9.0,9.0,9.25,9.25,9.25,9.25,9.0,9.5,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,,,,gpfra2017,,2.0,9.21,,,0,Interpretation of the Music,1718,9.0,9.5,9.0,9.25,9.5,9.25,9.0,8.75,9.5,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,,,,gpfra2017,,2.0,8.89,,,0,Performance,1718,8.25,9.5,8.25,8.75,8.75,9.25,9.25,8.75,9.25,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,,,,gpfra2017,,2.0,9.32,,,0,Skating Skills,1718,9.0,9.25,9.25,9.25,9.5,9.5,9.25,9.25,9.5,0,men,individual
+1,Shoma Uno,JPN,11,179.4,90.2,91.2,2.0,,,,gpfra2017,,2.0,9.0,,,0,Transitions,1718,9.0,9.0,9.0,8.75,9.0,9.5,8.75,8.75,9.5,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,13.4,3A+1Lo+3S,1.0,gpfra2017,0.0,,14.97,1.57,,1,,1718,1.0,2.0,1.0,2.0,2.0,1.0,1.0,2.0,2.0,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,11.8,4S+2T,2.0,gpfra2017,0.0,,13.66,1.86,,1,,1718,3.0,2.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,8.5,3A,3.0,gpfra2017,0.0,,7.07,-1.43,,1,,1718,-1.0,-1.0,-1.0,-1.0,-2.0,-2.0,-1.0,-2.0,-2.0,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,2.0,ChSq1,4.0,gpfra2017,0.0,,3.5,1.5,,1,,1718,2.0,1.0,2.0,2.0,2.0,3.0,3.0,2.0,2.0,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,3.0,CSSp4,5.0,gpfra2017,0.0,,4.07,1.07,,1,,1718,3.0,2.0,2.0,1.0,2.0,2.0,3.0,2.0,2.0,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,11.55,4S,6.0,gpfra2017,1.0,,7.55,-4.0,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,5.61,3Lo,7.0,gpfra2017,1.0,,4.91,-0.7,,1,,1718,-1.0,-1.0,-1.0,0.0,-1.0,-1.0,-1.0,-1.0,-1.0,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,4.54,3A<+REP,8.0,gpfra2017,1.0,,1.54,-3.0,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,6.6,3Lz,9.0,gpfra2017,1.0,,7.8,1.2,,1,,1718,2.0,2.0,2.0,2.0,2.0,0.0,1.0,1.0,2.0,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,11.22,3F+1Lo+3S,10.0,gpfra2017,1.0,,9.92,-1.3,,1,,1718,-2.0,-2.0,-1.0,-2.0,-1.0,-2.0,-2.0,-3.0,-2.0,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,3.5,FCCoSp4,11.0,gpfra2017,0.0,,4.07,0.57,,1,,1718,1.0,2.0,1.0,0.0,1.0,1.0,2.0,1.0,1.0,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,3.9,StSq4,12.0,gpfra2017,0.0,,5.6,1.7,,1,,1718,3.0,3.0,3.0,1.0,2.0,2.0,2.0,2.0,3.0,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,3.5,CCoSp4,13.0,gpfra2017,0.0,,4.5,1.0,,1,,1718,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,,,,gpfra2017,,2.0,9.36,,,0,Composition,1718,9.75,9.0,9.0,9.5,9.0,9.75,9.5,9.25,9.5,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,,,,gpfra2017,,2.0,9.39,,,0,Interpretation of the Music,1718,9.75,9.25,9.25,9.25,9.25,9.5,9.5,9.25,9.75,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,,,,gpfra2017,,2.0,8.93,,,0,Performance,1718,8.75,8.75,8.0,8.75,8.75,9.25,9.25,9.0,9.25,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,,,,gpfra2017,,2.0,9.43,,,0,Skating Skills,1718,9.5,9.0,9.25,9.25,9.5,9.5,9.5,9.5,9.5,0,men,individual
+2,Javier Fernandez,ESP,10,175.85,85.49,92.36,2.0,,,,gpfra2017,,2.0,9.07,,,0,Transitions,1718,9.5,8.75,9.0,9.0,8.5,9.25,9.0,9.0,9.5,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,13.6,4Lz,1.0,gpfra2017,0.0,,12.74,-0.86,,1,,1718,-1.0,-1.0,-1.0,0.0,-1.0,-1.0,0.0,0.0,-1.0,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,8.5,3A,2.0,gpfra2017,0.0,,9.21,0.71,,1,,1718,0.0,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,5.3,3F,3.0,gpfra2017,0.0,,5.4,0.1,!,1,,1718,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,2.8,CCSp3,4.0,gpfra2017,0.0,,3.51,0.71,,1,,1718,1.0,1.0,2.0,2.0,1.0,1.0,2.0,2.0,1.0,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,3.9,StSq4,5.0,gpfra2017,0.0,,5.3,1.4,,1,,1718,2.0,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,2.6,FSSp3,6.0,gpfra2017,0.0,,3.24,0.64,,1,,1718,2.0,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,11.33,3Lz+3T,7.0,gpfra2017,1.0,,12.13,0.8,,1,,1718,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,2.0,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,6.6,3Lz,8.0,gpfra2017,1.0,,7.7,1.1,,1,,1718,1.0,2.0,1.0,2.0,1.0,1.0,2.0,2.0,2.0,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,5.61,3Lo,9.0,gpfra2017,1.0,,6.91,1.3,,1,,1718,2.0,2.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,3.63,2A,10.0,gpfra2017,1.0,,4.13,0.5,,1,,1718,1.0,1.0,1.0,1.0,1.0,0.0,2.0,1.0,1.0,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,5.06,2A+2T,11.0,gpfra2017,1.0,,5.49,0.43,,1,,1718,0.0,1.0,1.0,2.0,1.0,0.0,1.0,1.0,1.0,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,2.0,ChSq1,12.0,gpfra2017,0.0,,4.1,2.1,,1,,1718,3.0,3.0,3.0,3.0,2.0,3.0,3.0,3.0,3.0,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,3.0,CCoSp3,13.0,gpfra2017,0.0,,4.0,1.0,,1,,1718,2.0,2.0,2.0,3.0,2.0,2.0,2.0,2.0,2.0,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,,,,gpfra2017,,2.0,8.64,,,0,Composition,1718,8.25,8.5,9.0,8.5,8.25,8.5,8.75,9.0,9.25,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,,,,gpfra2017,,2.0,8.96,,,0,Interpretation of the Music,1718,9.0,9.0,9.0,8.75,8.5,8.75,9.0,9.25,9.5,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,,,,gpfra2017,,2.0,8.79,,,0,Performance,1718,8.25,8.75,9.0,8.75,8.5,8.5,9.0,9.0,9.5,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,,,,gpfra2017,,2.0,8.57,,,0,Skating Skills,1718,8.0,8.75,8.75,8.5,8.25,8.25,8.75,9.0,8.75,0,men,individual
+3,Misha Ge,UZB,8,172.93,86.09,86.84,0.0,,,,gpfra2017,,2.0,8.46,,,0,Transitions,1718,8.5,8.5,8.5,8.25,8.0,8.25,8.5,8.75,8.75,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,14.6,4T+3T,1.0,gpfra2017,0.0,,16.46,1.86,,1,,1718,3.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,10.3,4T,2.0,gpfra2017,0.0,,6.3,-4.0,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,8.5,3A,3.0,gpfra2017,0.0,,10.5,2.0,,1,,1718,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,2.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,2.8,FCSp3,4.0,gpfra2017,0.0,,3.44,0.64,,1,,1718,1.0,1.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,3.3,StSq3,5.0,gpfra2017,0.0,,4.01,0.71,,1,,1718,2.0,1.0,1.0,1.0,1.0,2.0,2.0,2.0,1.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,10.78,3A+2T,6.0,gpfra2017,1.0,,11.78,1.0,,1,,1718,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,2.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,8.03,3Lz+2T,7.0,gpfra2017,1.0,,8.53,0.5,,1,,1718,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,6.6,3Lz,8.0,gpfra2017,1.0,,7.1,0.5,,1,,1718,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,5.61,3Lo,9.0,gpfra2017,1.0,,5.01,-0.6,,1,,1718,-1.0,-1.0,-1.0,-1.0,-1.0,0.0,-1.0,-1.0,0.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,3.63,2A,10.0,gpfra2017,1.0,,3.13,-0.5,,1,,1718,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0.0,-1.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,2.0,ChSq1,11.0,gpfra2017,0.0,,2.8,0.8,,1,,1718,1.0,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,3.5,CCoSp4,12.0,gpfra2017,0.0,,3.93,0.43,,1,,1718,1.0,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,3.0,CSSp4,13.0,gpfra2017,0.0,,3.57,0.57,,1,,1718,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1.0,2.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,,,,gpfra2017,,2.0,8.0,,,0,Composition,1718,6.75,7.25,8.25,8.0,7.75,8.5,8.5,8.75,7.75,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,,,,gpfra2017,,2.0,7.96,,,0,Interpretation of the Music,1718,7.5,7.75,8.25,7.75,7.5,8.25,8.25,8.75,8.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,,,,gpfra2017,,2.0,8.0,,,0,Performance,1718,7.5,7.75,8.0,7.75,8.0,8.25,8.25,8.5,8.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,,,,gpfra2017,,2.0,8.18,,,0,Skating Skills,1718,7.75,8.25,8.25,7.75,8.25,8.5,8.25,8.75,8.0,0,men,individual
+4,Alexander Samarin,RUS,9,161.62,82.84,79.78,1.0,,,,gpfra2017,,2.0,7.75,,,0,Transitions,1718,6.5,7.25,8.0,7.5,7.5,8.25,8.0,8.25,7.75,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,11.6,4T+2T,1.0,gpfra2017,0.0,,12.46,0.86,,1,,1718,1.0,1.0,1.0,1.0,2.0,0.0,0.0,1.0,1.0,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,10.3,4T,2.0,gpfra2017,0.0,,12.01,1.71,,1,,1718,2.0,2.0,2.0,2.0,1.0,1.0,2.0,2.0,1.0,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,1.8,2Lo,3.0,gpfra2017,0.0,,1.8,0.0,,1,,1718,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,3.0,CCoSp3,4.0,gpfra2017,0.0,,3.5,0.5,,1,,1718,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,3.3,StSq3,5.0,gpfra2017,0.0,,4.01,0.71,,1,,1718,1.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,1.0,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,9.35,3A,6.0,gpfra2017,1.0,,10.64,1.29,,1,,1718,2.0,1.0,1.0,1.0,1.0,0.0,2.0,1.0,2.0,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,9.79,3A+1T,7.0,gpfra2017,1.0,,9.22,-0.57,,1,,1718,0.0,-1.0,-1.0,0.0,-1.0,0.0,-1.0,-1.0,0.0,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,2.31,2Lz,8.0,gpfra2017,1.0,,2.27,-0.04,,1,,1718,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,-1.0,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,2.8,FCSp3,9.0,gpfra2017,0.0,,3.16,0.36,,1,,1718,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,7.81,3F+1Lo+2S,10.0,gpfra2017,1.0,,8.01,0.2,,1,,1718,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,3.63,2A,11.0,gpfra2017,1.0,,4.27,0.64,,1,,1718,2.0,2.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,2.0,ChSq1,12.0,gpfra2017,0.0,,2.5,0.5,,1,,1718,1.0,0.0,1.0,1.0,0.0,2.0,1.0,1.0,0.0,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,2.6,CSSp3,13.0,gpfra2017,0.0,,2.66,0.06,,1,,1718,0.0,1.0,0.0,-1.0,-1.0,1.0,1.0,0.0,-1.0,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,,,,gpfra2017,,2.0,8.21,,,0,Composition,1718,8.25,8.0,8.5,8.25,7.25,8.25,8.5,8.25,8.0,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,,,,gpfra2017,,2.0,8.11,,,0,Interpretation of the Music,1718,8.0,8.0,8.75,8.25,7.25,8.0,8.5,8.25,7.75,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,,,,gpfra2017,,2.0,8.04,,,0,Performance,1718,8.0,8.25,8.25,7.75,7.5,8.0,8.5,8.0,8.0,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,,,,gpfra2017,,2.0,8.0,,,0,Skating Skills,1718,7.75,8.0,8.5,7.75,7.5,8.25,8.25,8.25,7.75,0,men,individual
+5,Alexei Bychenko,ISR,7,160.65,80.51,80.14,0.0,,,,gpfra2017,,2.0,7.71,,,0,Transitions,1718,7.5,7.25,8.0,7.5,7.0,8.25,8.0,8.0,7.75,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,17.9,4Lz+3T,1.0,gpfra2017,0.0,,19.47,1.57,,1,,1718,2.0,2.0,1.0,2.0,2.0,1.0,1.0,1.0,2.0,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,1.3,2S,2.0,gpfra2017,0.0,,1.3,0.0,,1,,1718,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,5.1,3Lo,3.0,gpfra2017,0.0,,5.4,0.3,,1,,1718,0.0,1.0,1.0,2.0,1.0,0.0,0.0,0.0,0.0,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,3.3,StSq3,4.0,gpfra2017,0.0,,3.8,0.5,,1,,1718,1.0,1.0,0.0,1.0,1.0,1.0,1.0,2.0,1.0,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,3.5,FCCoSp4,5.0,gpfra2017,0.0,,4.14,0.64,,1,,1718,2.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1.0,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,8.8,4T<,6.0,gpfra2017,1.0,,5.94,-2.86,<,1,,1718,-3.0,-2.0,-2.0,-1.0,-2.0,-3.0,-2.0,-2.0,-3.0,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,10.78,3A+2T,7.0,gpfra2017,1.0,,11.92,1.14,,1,,1718,1.0,2.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,9.35,3A,8.0,gpfra2017,1.0,,11.21,1.86,,1,,1718,2.0,2.0,2.0,2.0,2.0,0.0,1.0,2.0,2.0,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,11.99,3Lz+1Lo+3S,9.0,gpfra2017,1.0,,12.99,1.0,,1,,1718,2.0,2.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,3.0,FSSp4,10.0,gpfra2017,0.0,,3.07,0.07,,1,,1718,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,-1.0,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,2.0,ChSq1,11.0,gpfra2017,0.0,,2.7,0.7,,1,,1718,1.0,1.0,1.0,2.0,1.0,1.0,1.0,1.0,0.0,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,3.63,2A,12.0,gpfra2017,1.0,,4.13,0.5,,1,,1718,1.0,1.0,1.0,2.0,1.0,0.0,1.0,1.0,1.0,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,3.0,CCoSp3,13.0,gpfra2017,0.0,,3.64,0.64,,1,,1718,2.0,1.0,0.0,1.0,1.0,1.0,2.0,2.0,1.0,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,,,,gpfra2017,,2.0,7.64,,,0,Composition,1718,7.75,7.75,7.25,7.75,7.75,7.75,7.75,7.5,7.25,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,,,,gpfra2017,,2.0,7.57,,,0,Interpretation of the Music,1718,7.75,8.0,7.0,7.75,7.25,7.5,7.5,7.75,7.5,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,,,,gpfra2017,,2.0,7.54,,,0,Performance,1718,7.0,7.75,7.0,8.0,7.75,7.75,7.75,7.5,7.25,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,,,,gpfra2017,,2.0,7.86,,,0,Skating Skills,1718,7.75,8.0,7.25,8.25,8.25,7.75,8.0,7.75,7.5,0,men,individual
+6,Max Aaron,USA,4,158.56,82.7,75.86,0.0,,,,gpfra2017,,2.0,7.32,,,0,Transitions,1718,7.0,7.5,7.0,7.75,7.5,7.5,7.0,7.5,7.25,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,8.5,3A,1.0,gpfra2017,0.0,,8.36,-0.14,,1,,1718,0.0,-1.0,0.0,0.0,-1.0,1.0,0.0,0.0,0.0,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,12.3,4F,2.0,gpfra2017,0.0,,8.3,-4.0,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,11.8,4S+2T,3.0,gpfra2017,0.0,,11.94,0.14,,1,,1718,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,3.0,CSSp4,4.0,gpfra2017,0.0,,3.43,0.43,,1,,1718,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,2.0,ChSq1,5.0,gpfra2017,0.0,,2.8,0.8,,1,,1718,2.0,2.0,0.0,1.0,1.0,2.0,0.0,0.0,2.0,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,0.66,1Lz,6.0,gpfra2017,1.0,,0.55,-0.11,,1,,1718,-2.0,-1.0,-1.0,-1.0,-1.0,-2.0,0.0,-1.0,-1.0,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,1.43,2T,7.0,gpfra2017,1.0,,1.43,0.0,,1,,1718,-1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,10.45,4Lz<,8.0,gpfra2017,1.0,,6.45,-4.0,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,9.35,3A,9.0,gpfra2017,1.0,,9.78,0.43,,1,,1718,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,3.2,FCSp4,10.0,gpfra2017,0.0,,3.27,0.07,,1,,1718,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,3.3,StSq3,11.0,gpfra2017,0.0,,4.01,0.71,,1,,1718,2.0,2.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,12.98,3Lz+1Lo+3F,12.0,gpfra2017,1.0,,13.28,0.3,,1,,1718,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,3.5,CCoSp4,13.0,gpfra2017,0.0,,3.86,0.36,,1,,1718,2.0,2.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,,,,gpfra2017,,2.0,7.11,,,0,Composition,1718,6.75,7.0,6.75,7.25,8.0,7.5,7.0,6.5,7.5,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,,,,gpfra2017,,2.0,6.93,,,0,Interpretation of the Music,1718,6.0,7.25,6.5,7.0,7.75,7.0,6.75,6.75,7.25,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,,,,gpfra2017,,2.0,6.86,,,0,Performance,1718,5.75,7.25,6.0,7.0,7.5,7.25,7.0,6.25,7.25,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,,,,gpfra2017,,2.0,7.18,,,0,Skating Skills,1718,7.0,7.5,6.75,7.25,7.75,7.5,7.0,6.75,7.25,0,men,individual
+7,Vincent Zhou,USA,1,156.09,88.57,69.52,2.0,,,,gpfra2017,,2.0,6.68,,,0,Transitions,1718,6.0,6.75,6.5,6.75,7.25,7.25,6.25,6.25,7.0,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,11.5,3A+3T<,1.0,gpfra2017,0.0,,9.79,-1.71,<,1,,1718,-1.0,-2.0,-1.0,-1.0,-2.0,-2.0,-2.0,-2.0,-2.0,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,10.5,4S,2.0,gpfra2017,0.0,,6.5,-4.0,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-2.0,-3.0,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,14.6,4T+3T,3.0,gpfra2017,0.0,,15.6,1.0,,1,,1718,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,3.2,FCSp4,4.0,gpfra2017,0.0,,3.56,0.36,,1,,1718,0.0,1.0,1.0,1.0,-1.0,1.0,2.0,1.0,0.0,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,3.3,StSq3,5.0,gpfra2017,0.0,,4.09,0.79,,1,,1718,2.0,1.0,2.0,2.0,1.0,2.0,1.0,2.0,1.0,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,1.43,2T,6.0,gpfra2017,1.0,,1.4,-0.03,,1,,1718,0.0,0.0,0.0,-1.0,-1.0,0.0,0.0,0.0,0.0,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,7.26,3F+2T,7.0,gpfra2017,1.0,,7.86,0.6,,1,,1718,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,1.98,2Lo,8.0,gpfra2017,1.0,,2.02,0.04,,1,,1718,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,5.83,3F,9.0,gpfra2017,1.0,,6.43,0.6,,1,,1718,1.0,1.0,1.0,2.0,1.0,1.0,0.0,0.0,1.0,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,9.02,2A+1Lo+3S,10.0,gpfra2017,1.0,,8.92,-0.1,,1,,1718,0.0,0.0,0.0,-1.0,-1.0,1.0,0.0,0.0,0.0,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,3.0,CSSp4,11.0,gpfra2017,0.0,,3.57,0.57,,1,,1718,1.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,2.0,ChSq1,12.0,gpfra2017,0.0,,3.0,1.0,,1,,1718,1.0,1.0,1.0,2.0,1.0,2.0,2.0,2.0,1.0,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,3.5,CCoSp4,13.0,gpfra2017,0.0,,4.21,0.71,,1,,1718,1.0,1.0,2.0,1.0,1.0,2.0,2.0,1.0,2.0,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,,,,gpfra2017,,2.0,8.07,,,0,Composition,1718,8.0,7.5,8.25,8.25,7.75,8.5,8.25,8.25,7.75,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,,,,gpfra2017,,2.0,7.96,,,0,Interpretation of the Music,1718,8.0,7.5,8.5,7.75,7.5,8.5,8.0,8.25,7.75,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,,,,gpfra2017,,2.0,7.79,,,0,Performance,1718,7.5,7.5,8.0,7.75,7.5,8.25,8.25,8.0,7.5,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,,,,gpfra2017,,2.0,8.0,,,0,Skating Skills,1718,7.75,7.75,8.25,8.0,7.75,8.5,8.25,8.0,8.0,0,men,individual
+8,Moris Kvitelashvili,GEO,6,153.52,75.52,79.0,1.0,,,,gpfra2017,,2.0,7.68,,,0,Transitions,1718,7.25,7.25,8.0,7.75,7.0,8.25,8.0,7.75,7.75,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,10.5,4S,1.0,gpfra2017,0.0,,9.3,-1.2,,1,,1718,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,8.5,3A,2.0,gpfra2017,0.0,,6.64,-1.86,,1,,1718,-2.0,-1.0,-2.0,-2.0,-2.0,-3.0,-2.0,-1.0,-2.0,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,6.0,3Lz,3.0,gpfra2017,0.0,,5.3,-0.7,,1,,1718,-1.0,-1.0,-1.0,-1.0,-2.0,-1.0,-1.0,0.0,-1.0,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,7.3,3Lz+2T,4.0,gpfra2017,0.0,,7.3,0.0,,1,,1718,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,3.2,CCSp4,5.0,gpfra2017,0.0,,3.91,0.71,,1,,1718,2.0,2.0,1.0,1.0,1.0,1.0,2.0,2.0,1.0,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,3.3,2A,6.0,gpfra2017,0.0,,4.09,0.79,,1,,1718,2.0,2.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,3.9,StSq4,7.0,gpfra2017,0.0,,5.2,1.3,,1,,1718,3.0,2.0,1.0,2.0,2.0,1.0,2.0,2.0,2.0,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,5.83,3F,8.0,gpfra2017,1.0,,5.83,0.0,!,1,,1718,1.0,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,5.61,3Lo,9.0,gpfra2017,1.0,,6.11,0.5,,1,,1718,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,2.0,ChSq1,10.0,gpfra2017,0.0,,3.5,1.5,,1,,1718,3.0,2.0,2.0,3.0,2.0,2.0,1.0,2.0,2.0,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,8.8,3S+2Lo+2Lo,11.0,gpfra2017,1.0,,7.9,-0.9,,1,,1718,-1.0,-2.0,-1.0,-2.0,-1.0,0.0,-1.0,-1.0,-2.0,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,3.0,FSSp4,12.0,gpfra2017,0.0,,3.5,0.5,,1,,1718,1.0,1.0,1.0,2.0,1.0,0.0,1.0,1.0,1.0,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,3.5,CCoSp4,13.0,gpfra2017,0.0,,4.14,0.64,,1,,1718,2.0,1.0,1.0,2.0,1.0,1.0,1.0,2.0,1.0,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,,,,gpfra2017,,2.0,7.82,,,0,Composition,1718,8.5,7.75,7.5,8.25,7.75,8.0,7.75,7.75,7.5,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,,,,gpfra2017,,2.0,7.93,,,0,Interpretation of the Music,1718,9.0,8.0,7.5,8.25,8.0,8.0,7.5,8.0,7.75,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,,,,gpfra2017,,2.0,7.79,,,0,Performance,1718,8.0,8.0,7.0,8.25,8.0,7.75,7.5,7.5,7.75,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,,,,gpfra2017,,2.0,7.68,,,0,Skating Skills,1718,7.75,7.75,7.5,8.0,7.5,7.5,8.0,7.75,7.25,0,men,individual
+9,Kevin Aymoz,FRA,5,150.43,73.21,77.22,0.0,,,,gpfra2017,,2.0,7.39,,,0,Transitions,1718,7.75,7.5,7.0,7.75,6.75,7.5,7.5,7.25,7.25,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,11.6,4T+2T,1.0,gpfra2017,0.0,,12.46,0.86,,1,,1718,1.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,0.0,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,10.3,4T,2.0,gpfra2017,0.0,,6.3,-4.0,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,8.5,3A,3.0,gpfra2017,0.0,,7.07,-1.43,,1,,1718,-2.0,-1.0,-2.0,-1.0,-1.0,-2.0,-1.0,-1.0,-2.0,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,3.2,CCSp4,4.0,gpfra2017,0.0,,4.2,1.0,,1,,1718,2.0,2.0,2.0,1.0,2.0,2.0,2.0,2.0,2.0,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,2.0,ChSq1,5.0,gpfra2017,0.0,,3.0,1.0,,1,,1718,0.0,1.0,1.0,2.0,1.0,2.0,2.0,1.0,2.0,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,6.55,3A+REP,6.0,gpfra2017,1.0,,3.55,-3.0,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,2.09,2F,7.0,gpfra2017,1.0,,2.05,-0.04,,1,,1718,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,0.0,0.0,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,5.61,3Lo,8.0,gpfra2017,1.0,,5.61,0.0,,1,,1718,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,-1.0,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,3.5,CCoSp4,9.0,gpfra2017,0.0,,4.36,0.86,,1,,1718,2.0,2.0,2.0,1.0,1.0,1.0,2.0,2.0,2.0,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,4.73,3T,10.0,gpfra2017,1.0,,5.43,0.7,,1,,1718,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,3.63,2A,11.0,gpfra2017,1.0,,4.13,0.5,,1,,1718,0.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,3.3,StSq3,12.0,gpfra2017,0.0,,4.3,1.0,,1,,1718,2.0,3.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,3.0,FSSp4,13.0,gpfra2017,0.0,,3.71,0.71,,1,,1718,1.0,1.0,1.0,1.0,2.0,2.0,2.0,2.0,1.0,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,,,,gpfra2017,,2.0,8.57,,,0,Composition,1718,7.5,8.75,8.5,8.5,8.25,8.5,8.75,8.75,9.0,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,,,,gpfra2017,,2.0,8.61,,,0,Interpretation of the Music,1718,8.0,8.25,8.75,8.5,8.75,8.5,8.75,8.75,9.0,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,,,,gpfra2017,,2.0,8.11,,,0,Performance,1718,7.0,8.25,8.0,7.75,7.75,8.0,8.5,8.5,8.5,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,,,,gpfra2017,,2.0,8.46,,,0,Skating Skills,1718,8.25,8.25,8.5,8.5,8.5,8.25,8.75,8.75,8.5,0,men,individual
+10,Denis Ten,KAZ,3,144.87,63.01,83.86,2.0,,,,gpfra2017,,2.0,8.18,,,0,Transitions,1718,8.0,8.0,8.0,8.25,7.75,8.0,8.5,8.5,8.5,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,8.5,3A,2.0,gpfra2017,0.0,,6.5,-2.0,,1,,1718,-2.0,-1.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,-2.0,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,3.2,FCSp4,3.0,gpfra2017,0.0,,3.84,0.64,,1,,1718,1.0,2.0,1.0,2.0,1.0,1.0,2.0,1.0,1.0,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,2.6,StSq2,4.0,gpfra2017,0.0,,3.1,0.5,,1,,1718,2.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,1.43,2T,5.0,gpfra2017,1.0,,1.52,0.09,,1,,1718,0.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,1.21,1A,6.0,gpfra2017,1.0,,1.18,-0.03,,1,,1718,0.0,0.0,0.0,0.0,-1.0,-1.0,0.0,0.0,0.0,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,5.61,3Lo,7.0,gpfra2017,1.0,,5.81,0.2,,1,,1718,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,8.58,3Lz+1Lo+2S,8.0,gpfra2017,1.0,,8.98,0.4,,1,,1718,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,2.0,ChSq1,9.0,gpfra2017,0.0,,2.8,0.8,,1,,1718,3.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,1.0,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,4.84,3S,10.0,gpfra2017,1.0,,5.64,0.8,,1,,1718,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,3.63,2A,11.0,gpfra2017,1.0,,4.06,0.43,,1,,1718,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,3.0,CSSp4,12.0,gpfra2017,0.0,,3.29,0.29,,1,,1718,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,3.5,CCoSp4,13.0,gpfra2017,0.0,,4.07,0.57,,1,,1718,2.0,2.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,,,,gpfra2017,,2.0,7.21,,,0,Composition,1718,7.25,7.0,6.75,7.25,6.75,7.25,7.5,7.5,7.5,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,,,,gpfra2017,,2.0,7.18,,,0,Interpretation of the Music,1718,7.0,7.25,6.75,7.25,7.0,7.0,7.5,7.5,7.25,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,,,,gpfra2017,,2.0,7.25,,,0,Performance,1718,7.25,7.5,6.5,7.0,7.5,7.25,7.25,7.25,7.25,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,,,,gpfra2017,,2.0,7.18,,,0,Skating Skills,1718,7.5,7.5,6.75,7.0,7.25,7.0,7.25,7.25,7.0,0,men,individual
+11,Romain Ponsart,FRA,2,134.31,63.25,71.06,0.0,,,,gpfra2017,,2.0,6.71,,,0,Transitions,1718,6.75,7.0,6.5,6.75,6.25,6.5,6.75,7.0,6.75,0,men,individual
+1,Kaetlyn Osmond,CAN,11,69.05,34.35,34.7,0.0,10.3,3Lz+3T,1.0,gpfra2017,0.0,,11.5,1.2,,1,,1718,0.0,1.0,1.0,2.0,3.0,2.0,2.0,2.0,2.0,1,women,individual
+1,Kaetlyn Osmond,CAN,11,69.05,34.35,34.7,0.0,6.0,3Lz,2.0,gpfra2017,0.0,,5.4,-0.6,,1,,1718,-1.0,-2.0,0.0,-1.0,-1.0,1.0,-1.0,-1.0,-1.0,1,women,individual
+1,Kaetlyn Osmond,CAN,11,69.05,34.35,34.7,0.0,3.2,FCSp4,3.0,gpfra2017,0.0,,4.27,1.07,,1,,1718,3.0,2.0,2.0,1.0,3.0,2.0,2.0,2.0,2.0,1,women,individual
+1,Kaetlyn Osmond,CAN,11,69.05,34.35,34.7,0.0,3.63,2A,4.0,gpfra2017,1.0,,4.63,1.0,,1,,1718,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,women,individual
+1,Kaetlyn Osmond,CAN,11,69.05,34.35,34.7,0.0,2.7,LSp4,5.0,gpfra2017,0.0,,3.56,0.86,,1,,1718,2.0,2.0,2.0,1.0,2.0,2.0,2.0,1.0,1.0,1,women,individual
+1,Kaetlyn Osmond,CAN,11,69.05,34.35,34.7,0.0,3.9,StSq4,6.0,gpfra2017,0.0,,5.2,1.3,,1,,1718,3.0,3.0,2.0,1.0,1.0,1.0,2.0,2.0,2.0,1,women,individual
+1,Kaetlyn Osmond,CAN,11,69.05,34.35,34.7,0.0,3.5,CCoSp4,7.0,gpfra2017,0.0,,4.29,0.79,,1,,1718,2.0,3.0,2.0,0.0,2.0,2.0,1.0,1.0,1.0,1,women,individual
+1,Kaetlyn Osmond,CAN,11,69.05,34.35,34.7,0.0,,,,gpfra2017,,0.8,8.79,,,0,Composition,1718,9.25,9.5,8.75,8.5,8.0,8.75,9.25,8.5,8.5,1,women,individual
+1,Kaetlyn Osmond,CAN,11,69.05,34.35,34.7,0.0,,,,gpfra2017,,0.8,8.89,,,0,Interpretation of the Music,1718,9.5,9.75,9.0,8.25,8.75,8.75,9.0,8.75,8.5,1,women,individual
+1,Kaetlyn Osmond,CAN,11,69.05,34.35,34.7,0.0,,,,gpfra2017,,0.8,8.68,,,0,Performance,1718,9.0,9.25,9.0,8.25,8.5,9.0,8.75,8.25,8.25,1,women,individual
+1,Kaetlyn Osmond,CAN,11,69.05,34.35,34.7,0.0,,,,gpfra2017,,0.8,8.64,,,0,Skating Skills,1718,9.0,9.5,8.75,8.25,8.5,8.5,8.75,8.5,8.5,1,women,individual
+1,Kaetlyn Osmond,CAN,11,69.05,34.35,34.7,0.0,,,,gpfra2017,,0.8,8.39,,,0,Transitions,1718,8.75,9.5,8.5,8.0,8.25,8.5,8.5,8.25,8.0,1,women,individual
+2,Maria Sotskova,RUS,10,67.79,35.26,32.53,0.0,10.3,3Lz+3T,1.0,gpfra2017,0.0,,11.1,0.8,,1,,1718,2.0,0.0,1.0,1.0,2.0,0.0,1.0,2.0,1.0,1,women,individual
+2,Maria Sotskova,RUS,10,67.79,35.26,32.53,0.0,3.5,CCoSp4,2.0,gpfra2017,0.0,,4.21,0.71,,1,,1718,2.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,2.0,1,women,individual
+2,Maria Sotskova,RUS,10,67.79,35.26,32.53,0.0,5.83,3F,3.0,gpfra2017,1.0,,4.63,-1.2,,1,,1718,-2.0,-2.0,-1.0,-1.0,-2.0,-3.0,-1.0,-2.0,-2.0,1,women,individual
+2,Maria Sotskova,RUS,10,67.79,35.26,32.53,0.0,3.63,2A,4.0,gpfra2017,1.0,,4.2,0.57,,1,,1718,1.0,1.0,1.0,1.0,2.0,1.0,2.0,1.0,1.0,1,women,individual
+2,Maria Sotskova,RUS,10,67.79,35.26,32.53,0.0,2.8,FCSp3,5.0,gpfra2017,0.0,,3.3,0.5,,1,,1718,1.0,0.0,1.0,1.0,2.0,1.0,2.0,0.0,1.0,1,women,individual
+2,Maria Sotskova,RUS,10,67.79,35.26,32.53,0.0,3.3,StSq3,6.0,gpfra2017,0.0,,4.01,0.71,,1,,1718,2.0,1.0,1.0,2.0,1.0,1.0,2.0,1.0,2.0,1,women,individual
+2,Maria Sotskova,RUS,10,67.79,35.26,32.53,0.0,2.7,LSp4,7.0,gpfra2017,0.0,,3.41,0.71,,1,,1718,1.0,1.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,1,women,individual
+2,Maria Sotskova,RUS,10,67.79,35.26,32.53,0.0,,,,gpfra2017,,0.8,8.14,,,0,Composition,1718,8.25,8.5,8.0,8.5,7.25,8.0,8.25,7.5,8.5,1,women,individual
+2,Maria Sotskova,RUS,10,67.79,35.26,32.53,0.0,,,,gpfra2017,,0.8,8.25,,,0,Interpretation of the Music,1718,8.5,8.75,8.25,8.75,7.5,8.25,8.0,7.5,8.5,1,women,individual
+2,Maria Sotskova,RUS,10,67.79,35.26,32.53,0.0,,,,gpfra2017,,0.8,8.18,,,0,Performance,1718,8.25,8.5,8.25,8.5,7.5,8.25,8.0,7.25,8.5,1,women,individual
+2,Maria Sotskova,RUS,10,67.79,35.26,32.53,0.0,,,,gpfra2017,,0.8,8.21,,,0,Skating Skills,1718,8.25,8.5,8.25,8.5,7.5,8.0,8.0,8.0,8.5,1,women,individual
+2,Maria Sotskova,RUS,10,67.79,35.26,32.53,0.0,,,,gpfra2017,,0.8,7.89,,,0,Transitions,1718,7.75,8.25,7.75,8.25,7.25,8.0,7.75,7.75,8.0,1,women,individual
+3,Yuna Shiraiwa,JPN,4,66.05,36.42,29.63,0.0,7.3,3Lz+3T<<,1.0,gpfra2017,0.0,,5.4,-1.9,<<,1,,1718,-3.0,-3.0,-3.0,-3.0,-2.0,-2.0,-3.0,-3.0,-2.0,1,women,individual
+3,Yuna Shiraiwa,JPN,4,66.05,36.42,29.63,0.0,3.0,FSSp4,2.0,gpfra2017,0.0,,3.21,0.21,,1,,1718,0.0,0.0,0.0,1.0,1.0,0.0,1.0,1.0,0.0,1,women,individual
+3,Yuna Shiraiwa,JPN,4,66.05,36.42,29.63,0.0,2.7,LSp4,3.0,gpfra2017,0.0,,3.49,0.79,,1,,1718,2.0,1.0,2.0,1.0,2.0,1.0,2.0,1.0,2.0,1,women,individual
+3,Yuna Shiraiwa,JPN,4,66.05,36.42,29.63,0.0,3.63,2A,4.0,gpfra2017,1.0,,4.13,0.5,,1,,1718,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1,women,individual
+3,Yuna Shiraiwa,JPN,4,66.05,36.42,29.63,0.0,5.83,3F,5.0,gpfra2017,1.0,,6.33,0.5,,1,,1718,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,1.0,1,women,individual
+3,Yuna Shiraiwa,JPN,4,66.05,36.42,29.63,0.0,3.3,StSq3,6.0,gpfra2017,0.0,,3.87,0.57,,1,,1718,2.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,1,women,individual
+3,Yuna Shiraiwa,JPN,4,66.05,36.42,29.63,0.0,3.5,CCoSp4,7.0,gpfra2017,0.0,,4.29,0.79,,1,,1718,2.0,1.0,1.0,1.0,2.0,1.0,2.0,2.0,2.0,1,women,individual
+3,Yuna Shiraiwa,JPN,4,66.05,36.42,29.63,0.0,,,,gpfra2017,,0.8,7.39,,,0,Composition,1718,8.0,7.75,7.0,7.25,7.5,7.0,7.25,7.5,7.5,1,women,individual
+3,Yuna Shiraiwa,JPN,4,66.05,36.42,29.63,0.0,,,,gpfra2017,,0.8,7.32,,,0,Interpretation of the Music,1718,7.75,8.25,7.25,7.0,7.25,7.25,7.0,7.25,7.5,1,women,individual
+3,Yuna Shiraiwa,JPN,4,66.05,36.42,29.63,0.0,,,,gpfra2017,,0.8,7.54,,,0,Performance,1718,8.25,8.0,7.5,7.0,7.25,7.25,7.25,7.5,8.0,1,women,individual
+3,Yuna Shiraiwa,JPN,4,66.05,36.42,29.63,0.0,,,,gpfra2017,,0.8,7.57,,,0,Skating Skills,1718,7.75,7.75,7.5,7.25,7.75,7.0,7.5,7.5,8.0,1,women,individual
+3,Yuna Shiraiwa,JPN,4,66.05,36.42,29.63,0.0,,,,gpfra2017,,0.8,7.21,,,0,Transitions,1718,7.5,8.0,7.25,6.75,7.5,7.0,7.0,7.25,7.0,1,women,individual
+4,Mai Mihara,JPN,8,64.57,31.93,32.64,0.0,3.2,FCSp4,1.0,gpfra2017,0.0,,4.27,1.07,,1,,1718,3.0,2.0,2.0,2.0,3.0,1.0,2.0,2.0,2.0,1,women,individual
+4,Mai Mihara,JPN,8,64.57,31.93,32.64,0.0,2.5,CCoSp2,2.0,gpfra2017,0.0,,2.79,0.29,,1,,1718,1.0,0.0,1.0,0.0,2.0,0.0,1.0,1.0,0.0,1,women,individual
+4,Mai Mihara,JPN,8,64.57,31.93,32.64,0.0,3.0,FSSp4,3.0,gpfra2017,0.0,,3.36,0.36,,1,,1718,0.0,0.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,1,women,individual
+4,Mai Mihara,JPN,8,64.57,31.93,32.64,0.0,3.63,2A,4.0,gpfra2017,1.0,,4.34,0.71,,1,,1718,2.0,1.0,1.0,1.0,2.0,1.0,2.0,2.0,1.0,1,women,individual
+4,Mai Mihara,JPN,8,64.57,31.93,32.64,0.0,5.83,3F,5.0,gpfra2017,1.0,,6.83,1.0,,1,,1718,2.0,1.0,2.0,-1.0,2.0,1.0,1.0,2.0,1.0,1,women,individual
+4,Mai Mihara,JPN,8,64.57,31.93,32.64,0.0,3.9,StSq4,6.0,gpfra2017,0.0,,5.3,1.4,,1,,1718,2.0,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1,women,individual
+4,Mai Mihara,JPN,8,64.57,31.93,32.64,0.0,2.7,LSp4,7.0,gpfra2017,0.0,,3.91,1.21,,1,,1718,3.0,3.0,3.0,2.0,3.0,2.0,2.0,2.0,1.0,1,women,individual
+4,Mai Mihara,JPN,8,64.57,31.93,32.64,0.0,,,,gpfra2017,,0.8,8.21,,,0,Composition,1718,8.5,8.25,8.25,7.5,8.25,7.75,8.25,8.5,8.25,1,women,individual
+4,Mai Mihara,JPN,8,64.57,31.93,32.64,0.0,,,,gpfra2017,,0.8,8.36,,,0,Interpretation of the Music,1718,8.5,8.5,8.75,7.25,8.25,8.25,8.0,8.75,8.25,1,women,individual
+4,Mai Mihara,JPN,8,64.57,31.93,32.64,0.0,,,,gpfra2017,,0.8,8.11,,,0,Performance,1718,8.25,8.0,8.5,7.5,8.0,8.0,8.0,8.25,8.25,1,women,individual
+4,Mai Mihara,JPN,8,64.57,31.93,32.64,0.0,,,,gpfra2017,,0.8,8.29,,,0,Skating Skills,1718,8.25,8.25,8.5,7.75,8.5,7.75,8.25,8.5,8.5,1,women,individual
+4,Mai Mihara,JPN,8,64.57,31.93,32.64,0.0,,,,gpfra2017,,0.8,7.82,,,0,Transitions,1718,7.75,7.5,8.0,7.25,8.25,7.75,7.75,8.0,8.0,1,women,individual
+5,Alina Zagitova,RUS,5,62.46,32.27,31.19,1.0,0.0,1Lz*,1.0,gpfra2017,0.0,,0.0,0.0,*,1,,1718,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,women,individual
+5,Alina Zagitova,RUS,5,62.46,32.27,31.19,1.0,3.9,StSq4,2.0,gpfra2017,0.0,,5.4,1.5,,1,,1718,3.0,2.0,2.0,3.0,2.0,2.0,2.0,2.0,2.0,1,women,individual
+5,Alina Zagitova,RUS,5,62.46,32.27,31.19,1.0,4.62,3Lz<,3.0,gpfra2017,1.0,,2.52,-2.1,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,1,women,individual
+5,Alina Zagitova,RUS,5,62.46,32.27,31.19,1.0,9.79,3F+3Lo<,4.0,gpfra2017,1.0,,7.89,-1.9,<,1,,1718,-3.0,-3.0,-3.0,-2.0,-3.0,-2.0,-3.0,-3.0,-2.0,1,women,individual
+5,Alina Zagitova,RUS,5,62.46,32.27,31.19,1.0,3.63,2A,5.0,gpfra2017,1.0,,4.13,0.5,,1,,1718,1.0,0.0,0.0,2.0,2.0,1.0,0.0,1.0,2.0,1,women,individual
+5,Alina Zagitova,RUS,5,62.46,32.27,31.19,1.0,2.7,LSp4,6.0,gpfra2017,0.0,,3.7,1.0,,1,,1718,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,1,women,individual
+5,Alina Zagitova,RUS,5,62.46,32.27,31.19,1.0,3.5,CCoSp4,7.0,gpfra2017,0.0,,4.36,0.86,,1,,1718,2.0,2.0,2.0,2.0,1.0,1.0,2.0,1.0,2.0,1,women,individual
+5,Alina Zagitova,RUS,5,62.46,32.27,31.19,1.0,,,,gpfra2017,,0.8,7.89,,,0,Composition,1718,8.25,8.0,7.75,8.5,7.25,7.5,7.5,7.75,8.5,1,women,individual
+5,Alina Zagitova,RUS,5,62.46,32.27,31.19,1.0,,,,gpfra2017,,0.8,7.96,,,0,Interpretation of the Music,1718,8.0,8.25,8.0,8.5,7.5,7.75,7.25,7.75,8.75,1,women,individual
+5,Alina Zagitova,RUS,5,62.46,32.27,31.19,1.0,,,,gpfra2017,,0.8,7.57,,,0,Performance,1718,7.75,7.5,7.5,8.0,7.0,7.5,7.25,7.5,8.5,1,women,individual
+5,Alina Zagitova,RUS,5,62.46,32.27,31.19,1.0,,,,gpfra2017,,0.8,7.89,,,0,Skating Skills,1718,8.0,8.25,8.0,8.25,7.5,6.75,7.5,7.75,8.5,1,women,individual
+5,Alina Zagitova,RUS,5,62.46,32.27,31.19,1.0,,,,gpfra2017,,0.8,7.68,,,0,Transitions,1718,8.25,7.5,7.75,8.25,7.25,7.25,7.25,7.5,8.25,1,women,individual
+6,Elizabet Tursynbaeva,KAZ,9,62.29,30.89,31.4,0.0,9.0,3Lz+3T<,1.0,gpfra2017,0.0,,7.0,-2.0,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-2.0,-3.0,-3.0,-2.0,1,women,individual
+6,Elizabet Tursynbaeva,KAZ,9,62.29,30.89,31.4,0.0,3.5,CCoSp4,2.0,gpfra2017,0.0,,4.29,0.79,,1,,1718,2.0,1.0,2.0,2.0,1.0,2.0,1.0,1.0,2.0,1,women,individual
+6,Elizabet Tursynbaeva,KAZ,9,62.29,30.89,31.4,0.0,9.57,3S+3T,3.0,gpfra2017,1.0,,10.77,1.2,,1,,1718,1.0,2.0,2.0,2.0,3.0,1.0,1.0,2.0,2.0,1,women,individual
+6,Elizabet Tursynbaeva,KAZ,9,62.29,30.89,31.4,0.0,3.63,2A,4.0,gpfra2017,1.0,,4.34,0.71,,1,,1718,1.0,1.0,2.0,1.0,2.0,1.0,1.0,2.0,2.0,1,women,individual
+6,Elizabet Tursynbaeva,KAZ,9,62.29,30.89,31.4,0.0,3.2,FCSp4,5.0,gpfra2017,0.0,,3.63,0.43,,1,,1718,1.0,0.0,1.0,1.0,1.0,1.0,1.0,0.0,2.0,1,women,individual
+6,Elizabet Tursynbaeva,KAZ,9,62.29,30.89,31.4,0.0,2.7,LSp4,6.0,gpfra2017,0.0,,3.63,0.93,,1,,1718,2.0,2.0,2.0,1.0,2.0,2.0,2.0,1.0,2.0,1,women,individual
+6,Elizabet Tursynbaeva,KAZ,9,62.29,30.89,31.4,0.0,3.3,StSq3,7.0,gpfra2017,0.0,,4.23,0.93,,1,,1718,3.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,2.0,1,women,individual
+6,Elizabet Tursynbaeva,KAZ,9,62.29,30.89,31.4,0.0,,,,gpfra2017,,0.8,7.82,,,0,Composition,1718,8.25,8.0,7.5,8.0,7.25,7.75,7.75,7.5,8.25,1,women,individual
+6,Elizabet Tursynbaeva,KAZ,9,62.29,30.89,31.4,0.0,,,,gpfra2017,,0.8,7.93,,,0,Interpretation of the Music,1718,8.5,8.5,8.0,7.75,7.5,8.0,7.5,7.5,8.25,1,women,individual
+6,Elizabet Tursynbaeva,KAZ,9,62.29,30.89,31.4,0.0,,,,gpfra2017,,0.8,8.0,,,0,Performance,1718,8.0,8.25,7.75,8.25,7.5,8.25,7.75,7.75,8.25,1,women,individual
+6,Elizabet Tursynbaeva,KAZ,9,62.29,30.89,31.4,0.0,,,,gpfra2017,,0.8,7.86,,,0,Skating Skills,1718,7.75,8.25,7.75,8.0,7.5,7.75,7.75,7.75,8.25,1,women,individual
+6,Elizabet Tursynbaeva,KAZ,9,62.29,30.89,31.4,0.0,,,,gpfra2017,,0.8,7.64,,,0,Transitions,1718,8.25,7.75,7.0,7.75,7.25,8.0,7.5,7.25,8.0,1,women,individual
+7,Laurine Lecavelier,FRA,6,60.68,31.21,29.47,0.0,9.6,3F+3T,1.0,gpfra2017,0.0,,9.6,0.0,,1,,1718,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1,women,individual
+7,Laurine Lecavelier,FRA,6,60.68,31.21,29.47,0.0,2.8,FCSp3,2.0,gpfra2017,0.0,,3.51,0.71,,1,,1718,2.0,1.0,1.0,1.0,2.0,1.0,2.0,2.0,1.0,1,women,individual
+7,Laurine Lecavelier,FRA,6,60.68,31.21,29.47,0.0,3.3,StSq3,3.0,gpfra2017,0.0,,3.94,0.64,,1,,1718,2.0,1.0,1.0,1.0,2.0,0.0,1.0,2.0,1.0,1,women,individual
+7,Laurine Lecavelier,FRA,6,60.68,31.21,29.47,0.0,5.83,3F,4.0,gpfra2017,1.0,,6.33,0.5,,1,,1718,0.0,0.0,1.0,0.0,2.0,1.0,1.0,1.0,1.0,1,women,individual
+7,Laurine Lecavelier,FRA,6,60.68,31.21,29.47,0.0,3.63,2A,5.0,gpfra2017,1.0,,4.34,0.71,,1,,1718,1.0,1.0,1.0,2.0,2.0,1.0,2.0,2.0,1.0,1,women,individual
+7,Laurine Lecavelier,FRA,6,60.68,31.21,29.47,0.0,3.5,CCoSp4,6.0,gpfra2017,0.0,,3.33,-0.17,,1,,1718,-1.0,0.0,0.0,-1.0,0.0,-1.0,-1.0,0.0,-1.0,1,women,individual
+7,Laurine Lecavelier,FRA,6,60.68,31.21,29.47,0.0,2.4,LSp3,7.0,gpfra2017,0.0,,2.76,0.36,,1,,1718,0.0,0.0,1.0,-1.0,1.0,1.0,1.0,1.0,1.0,1,women,individual
+7,Laurine Lecavelier,FRA,6,60.68,31.21,29.47,0.0,,,,gpfra2017,,0.8,7.36,,,0,Composition,1718,7.25,8.25,7.5,7.75,6.75,7.25,7.25,7.5,7.0,1,women,individual
+7,Laurine Lecavelier,FRA,6,60.68,31.21,29.47,0.0,,,,gpfra2017,,0.8,7.57,,,0,Interpretation of the Music,1718,7.5,8.5,7.75,7.75,7.0,7.5,7.25,8.25,6.75,1,women,individual
+7,Laurine Lecavelier,FRA,6,60.68,31.21,29.47,0.0,,,,gpfra2017,,0.8,7.46,,,0,Performance,1718,7.25,8.25,7.5,7.75,6.5,7.25,7.25,8.0,7.25,1,women,individual
+7,Laurine Lecavelier,FRA,6,60.68,31.21,29.47,0.0,,,,gpfra2017,,0.8,7.36,,,0,Skating Skills,1718,7.25,7.75,7.75,7.75,6.75,6.75,7.25,7.75,7.0,1,women,individual
+7,Laurine Lecavelier,FRA,6,60.68,31.21,29.47,0.0,,,,gpfra2017,,0.8,7.07,,,0,Transitions,1718,6.75,7.5,7.25,7.5,6.5,7.0,6.75,7.5,6.75,1,women,individual
+8,Mae Berenice Meite,FRA,3,58.96,31.85,27.11,0.0,8.1,3Lo+3T<,1.0,gpfra2017,0.0,,6.3,-1.8,<,1,,1718,-3.0,-3.0,-2.0,-3.0,-3.0,-2.0,-3.0,-2.0,-2.0,1,women,individual
+8,Mae Berenice Meite,FRA,3,58.96,31.85,27.11,0.0,3.5,CCoSp4,2.0,gpfra2017,0.0,,3.93,0.43,,1,,1718,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1,women,individual
+8,Mae Berenice Meite,FRA,3,58.96,31.85,27.11,0.0,3.2,FCSp4,3.0,gpfra2017,0.0,,3.33,0.13,,1,,1718,-1.0,0.0,0.0,1.0,1.0,-1.0,1.0,1.0,-1.0,1,women,individual
+8,Mae Berenice Meite,FRA,3,58.96,31.85,27.11,0.0,5.61,3Lo,4.0,gpfra2017,1.0,,5.21,-0.4,,1,,1718,-1.0,0.0,-1.0,-1.0,-1.0,0.0,-1.0,0.0,0.0,1,women,individual
+8,Mae Berenice Meite,FRA,3,58.96,31.85,27.11,0.0,3.63,2A,5.0,gpfra2017,1.0,,4.13,0.5,,1,,1718,1.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,1,women,individual
+8,Mae Berenice Meite,FRA,3,58.96,31.85,27.11,0.0,2.6,StSq2,6.0,gpfra2017,0.0,,2.89,0.29,,1,,1718,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1,women,individual
+8,Mae Berenice Meite,FRA,3,58.96,31.85,27.11,0.0,2.4,LSp3,7.0,gpfra2017,0.0,,2.76,0.36,,1,,1718,0.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1.0,1,women,individual
+8,Mae Berenice Meite,FRA,3,58.96,31.85,27.11,0.0,,,,gpfra2017,,0.8,6.79,,,0,Composition,1718,7.0,7.5,6.5,6.5,6.25,7.0,6.75,7.0,6.75,1,women,individual
+8,Mae Berenice Meite,FRA,3,58.96,31.85,27.11,0.0,,,,gpfra2017,,0.8,6.93,,,0,Interpretation of the Music,1718,6.75,7.5,6.75,6.75,6.75,7.25,6.75,7.25,7.0,1,women,individual
+8,Mae Berenice Meite,FRA,3,58.96,31.85,27.11,0.0,,,,gpfra2017,,0.8,7.0,,,0,Performance,1718,7.25,7.75,7.0,6.5,6.75,7.0,6.5,7.5,7.0,1,women,individual
+8,Mae Berenice Meite,FRA,3,58.96,31.85,27.11,0.0,,,,gpfra2017,,0.8,6.71,,,0,Skating Skills,1718,6.75,7.75,6.5,6.75,6.5,6.75,6.5,7.0,6.75,1,women,individual
+8,Mae Berenice Meite,FRA,3,58.96,31.85,27.11,0.0,,,,gpfra2017,,0.8,6.46,,,0,Transitions,1718,6.5,6.75,6.0,6.25,6.5,6.75,5.75,6.75,6.5,1,women,individual
+9,Polina Edmunds,USA,1,56.31,28.73,27.58,0.0,8.6,3T+3T,1.0,gpfra2017,0.0,,9.0,0.4,,1,,1718,1.0,0.0,0.0,1.0,2.0,0.0,1.0,1.0,0.0,1,women,individual
+9,Polina Edmunds,USA,1,56.31,28.73,27.58,0.0,4.4,3S,2.0,gpfra2017,0.0,,5.0,0.6,,1,,1718,1.0,0.0,1.0,0.0,1.0,1.0,1.0,1.0,1.0,1,women,individual
+9,Polina Edmunds,USA,1,56.31,28.73,27.58,0.0,3.5,CCoSp4,3.0,gpfra2017,0.0,,3.71,0.21,,1,,1718,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1,women,individual
+9,Polina Edmunds,USA,1,56.31,28.73,27.58,0.0,2.6,StSq2,4.0,gpfra2017,0.0,,3.1,0.5,,1,,1718,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,1,women,individual
+9,Polina Edmunds,USA,1,56.31,28.73,27.58,0.0,3.0,FSSp4,5.0,gpfra2017,0.0,,3.36,0.36,,1,,1718,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,2.0,1,women,individual
+9,Polina Edmunds,USA,1,56.31,28.73,27.58,0.0,3.63,2A,6.0,gpfra2017,1.0,,3.99,0.36,,1,,1718,0.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,1,women,individual
+9,Polina Edmunds,USA,1,56.31,28.73,27.58,0.0,2.7,LSp4,7.0,gpfra2017,0.0,,3.27,0.57,,1,,1718,2.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1,women,individual
+9,Polina Edmunds,USA,1,56.31,28.73,27.58,0.0,,,,gpfra2017,,0.8,6.96,,,0,Composition,1718,7.5,7.0,6.25,6.5,6.5,7.0,7.0,7.5,7.25,1,women,individual
+9,Polina Edmunds,USA,1,56.31,28.73,27.58,0.0,,,,gpfra2017,,0.8,7.07,,,0,Interpretation of the Music,1718,7.25,7.25,6.5,6.5,6.75,7.25,7.0,7.5,7.5,1,women,individual
+9,Polina Edmunds,USA,1,56.31,28.73,27.58,0.0,,,,gpfra2017,,0.8,6.86,,,0,Performance,1718,7.25,7.0,6.5,6.25,6.25,7.0,6.75,7.75,7.25,1,women,individual
+9,Polina Edmunds,USA,1,56.31,28.73,27.58,0.0,,,,gpfra2017,,0.8,7.0,,,0,Skating Skills,1718,7.25,7.0,6.5,6.25,6.75,7.0,7.0,7.5,7.75,1,women,individual
+9,Polina Edmunds,USA,1,56.31,28.73,27.58,0.0,,,,gpfra2017,,0.8,6.57,,,0,Transitions,1718,6.75,6.75,6.0,6.0,6.5,6.75,6.25,7.25,7.0,1,women,individual
+10,Nicole Schott,GER,2,55.54,29.25,27.29,1.0,8.5,3A,1.0,gpfra2017,0.0,,5.5,-3.0,,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,1,women,individual
+10,Nicole Schott,GER,2,55.54,29.25,27.29,1.0,3.2,FCSp4,2.0,gpfra2017,0.0,,3.7,0.5,,1,,1718,1.0,1.0,1.0,1.0,2.0,0.0,1.0,1.0,1.0,1,women,individual
+10,Nicole Schott,GER,2,55.54,29.25,27.29,1.0,3.5,CCoSp4,3.0,gpfra2017,0.0,,3.93,0.43,,1,,1718,2.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1,women,individual
+10,Nicole Schott,GER,2,55.54,29.25,27.29,1.0,3.96,3Lo<,4.0,gpfra2017,1.0,,1.86,-2.1,<,1,,1718,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,-3.0,1,women,individual
+10,Nicole Schott,GER,2,55.54,29.25,27.29,1.0,3.3,StSq3,5.0,gpfra2017,0.0,,3.8,0.5,,1,,1718,1.0,1.0,1.0,1.0,1.0,0.0,1.0,2.0,1.0,1,women,individual
+10,Nicole Schott,GER,2,55.54,29.25,27.29,1.0,3.63,2A,6.0,gpfra2017,1.0,,4.06,0.43,,1,,1718,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,0.0,1,women,individual
+10,Nicole Schott,GER,2,55.54,29.25,27.29,1.0,2.4,LSp3,7.0,gpfra2017,0.0,,2.9,0.5,,1,,1718,1.0,1.0,1.0,1.0,1.0,1.0,1.0,2.0,1.0,1,women,individual
+10,Nicole Schott,GER,2,55.54,29.25,27.29,1.0,,,,gpfra2017,,0.8,6.89,,,0,Composition,1718,7.25,7.25,6.25,6.5,6.75,6.75,7.0,7.75,6.75,1,women,individual
+10,Nicole Schott,GER,2,55.54,29.25,27.29,1.0,,,,gpfra2017,,0.8,7.0,,,0,Interpretation of the Music,1718,7.25,7.5,6.75,6.75,6.5,7.0,7.0,7.75,6.75,1,women,individual
+10,Nicole Schott,GER,2,55.54,29.25,27.29,1.0,,,,gpfra2017,,0.8,6.82,,,0,Performance,1718,7.25,7.0,6.5,6.25,6.5,7.0,6.75,7.25,6.75,1,women,individual
+10,Nicole Schott,GER,2,55.54,29.25,27.29,1.0,,,,gpfra2017,,0.8,6.86,,,0,Skating Skills,1718,7.0,7.25,6.75,6.5,6.25,6.75,6.75,7.75,7.0,1,women,individual
+10,Nicole Schott,GER,2,55.54,29.25,27.29,1.0,,,,gpfra2017,,0.8,6.54,,,0,Transitions,1718,6.75,7.0,6.0,6.25,6.0,6.75,6.5,7.5,6.5,1,women,individual
+11,Elizaveta Tuktamysheva,RUS,7,53.03,24.91,29.12,1.0,0.0,1Lz*,2.0,gpfra2017,0.0,,0.0,0.0,*,1,,1718,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,women,individual
+11,Elizaveta Tuktamysheva,RUS,7,53.03,24.91,29.12,1.0,2.4,LSp3,3.0,gpfra2017,0.0,,2.9,0.5,,1,,1718,1.0,0.0,1.0,1.0,0.0,2.0,1.0,1.0,2.0,1,women,individual
+11,Elizaveta Tuktamysheva,RUS,7,53.03,24.91,29.12,1.0,5.6,3T+2T,4.0,gpfra2017,0.0,,5.9,0.3,,1,,1718,0.0,0.0,0.0,0.0,1.0,0.0,1.0,1.0,1.0,1,women,individual
+11,Elizaveta Tuktamysheva,RUS,7,53.03,24.91,29.12,1.0,3.3,StSq3,5.0,gpfra2017,0.0,,3.87,0.57,,1,,1718,1.0,1.0,1.0,1.0,2.0,1.0,1.0,1.0,2.0,1,women,individual
+11,Elizaveta Tuktamysheva,RUS,7,53.03,24.91,29.12,1.0,3.0,FSSp4,6.0,gpfra2017,0.0,,3.17,0.17,,1,,1718,0.0,-1.0,1.0,0.0,1.0,-1.0,1.0,0.0,2.0,1,women,individual
+11,Elizaveta Tuktamysheva,RUS,7,53.03,24.91,29.12,1.0,3.5,CCoSp4,7.0,gpfra2017,0.0,,3.57,0.07,,1,,1718,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1,women,individual
+11,Elizaveta Tuktamysheva,RUS,7,53.03,24.91,29.12,1.0,,,,gpfra2017,,0.8,7.29,,,0,Composition,1718,7.5,7.25,7.25,7.5,7.5,7.0,7.0,7.0,8.0,1,women,individual
+11,Elizaveta Tuktamysheva,RUS,7,53.03,24.91,29.12,1.0,,,,gpfra2017,,0.8,7.43,,,0,Interpretation of the Music,1718,7.75,7.25,7.25,7.75,8.0,6.75,6.75,7.5,7.75,1,women,individual
+11,Elizaveta Tuktamysheva,RUS,7,53.03,24.91,29.12,1.0,,,,gpfra2017,,0.8,7.11,,,0,Performance,1718,7.5,7.0,7.0,7.25,7.5,6.75,6.75,6.75,7.75,1,women,individual
+11,Elizaveta Tuktamysheva,RUS,7,53.03,24.91,29.12,1.0,,,,gpfra2017,,0.8,7.61,,,0,Skating Skills,1718,7.75,7.5,7.5,7.75,8.0,6.75,7.25,7.5,8.5,1,women,individual
+11,Elizaveta Tuktamysheva,RUS,7,53.03,24.91,29.12,1.0,,,,gpfra2017,,0.8,6.96,,,0,Transitions,1718,6.75,6.5,6.75,7.25,7.25,7.0,6.5,7.25,7.75,1,women,individual
