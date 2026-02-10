@@ -10,11 +10,12 @@ query <- function(event = "owg2022",
   ## ONLY MODIFY THE BODY OF THIS FUNCTION, STARTING HERE
   
   # Map argument values to local variables to avoid shadowing column names
-  target_type <- type
-  target_cat  <- category
-  target_name <- name
-  is_short    <- as.integer(segment == "Short")
-  target_year <- as.integer(year)
+  target_type  <- type
+  target_cat   <- category
+  target_name  <- name
+  target_competition <- event
+  is_short     <- as.integer(segment == "Short")
+  target_year  <- as.integer(year)
   
   file_path <- here(event, paste0(event, ".csv"))
   df <- read.csv(file_path)
@@ -44,7 +45,7 @@ query <- function(event = "owg2022",
   target_cat_num <- 
   judges_to_ret_df <- judge_df %>%
     filter(
-      isu_year == target_year,
+      tolower(competition) == tolower(target_competition),
       tolower(event_type) == tolower(target_type),
       tolower(category)   == tolower(target_cat),
       is_short_program    == is_short
