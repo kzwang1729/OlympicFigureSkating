@@ -103,17 +103,20 @@ def _process_judge_htmls(url):
     response.raise_for_status()
     full_text = response.text
 
-    # crude but consistent table flattening
     full_text = full_text.replace("<td></td>", "")
     full_text = full_text.replace("</td>", ",")
     full_text = re.sub(r"<[^<>]+>", "", full_text)
+    full_text = re.sub(r"\s+", " ", full_text)
 
-    lines = full_text.splitlines()
+    judge_blocks = re.findall(
+        r"(judge\s*no.*?)(?=judge\s*no|$)",
+        full_text,
+        re.IGNORECASE,
+    )
 
     judge_rows = [
-        [cell.strip() for cell in line.split(",") if cell.strip()]
-        for line in lines
-        if re.search(r"judge\s*no", line, re.IGNORECASE)
+        [cell.strip() for cell in block.split(",") if cell.strip()]
+        for block in judge_blocks
     ]
 
     is_short_program, category, event_type = _get_event_specific_features(full_text)
@@ -203,16 +206,39 @@ def _process_judges(isu_year, isu_event, isu_url):
     if len(judges_list) == 0:
         return
 
-    # Replace ISU nationality when same judge has a real one elsewhere
     isu_mask = judge_df["judge_nationality"] == "ISU"
-    non_isu = judge_df.loc[~isu_mask].drop_duplicates("judge_name")
 
+    non_isu = (
+        judge_df.loc[~isu_mask, ["judge_name", "judge_nationality"]]
+        .drop_duplicates("judge_name")
+    )
+
+    name_to_nat = non_isu.set_index("judge_name")["judge_nationality"]
+
+    flipped_to_nat = (
+        non_isu.assign(judge_name=non_isu["judge_name"].map(_flip_name))
+        .set_index("judge_name")["judge_nationality"]
+    )
+
+    # Fill ISU rows using exact match, then flipped match, else keep ISU
     judge_df.loc[isu_mask, "judge_nationality"] = (
         judge_df.loc[isu_mask, "judge_name"]
-        .map(non_isu.set_index("judge_name")["judge_nationality"])
-        .fillna("ISU")
+            .map(name_to_nat)
+            .fillna(
+                judge_df.loc[isu_mask, "judge_name"]
+                    .map(flipped_to_nat)
+            )
+            .fillna("ISU")
     )
     judge_df.to_csv(judge_csv_path, index=False)
+
+def _flip_name(name):
+    if not isinstance(name, str):
+        return name
+    parts = name.split()
+    if len(parts) == 2:
+        return f"{parts[1]} {parts[0]}"
+    return name
 
 def process_data(isu_year, isu_event, isu_url):
     dir_name = f"./{isu_event}"
