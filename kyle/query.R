@@ -18,6 +18,10 @@ query <- function(event = "owg2022",
   target_year  <- as.integer(year)
   
   file_path <- here(event, paste0(event, ".csv"))
+  if (!file.exists(file_path))
+  {
+    return("Unable to complete request.")
+  }
   df <- read.csv(file_path)
   
   target_df <- df %>%

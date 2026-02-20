@@ -5,7 +5,7 @@ import requests
 import os
 from pathlib import Path
 from urllib.parse import urljoin
-
+from collections import defaultdict
 
 skater_header_pattern = re.compile(
         r"""
@@ -37,7 +37,7 @@ element_pattern = re.compile(
 
 program_components_pattern = re.compile(
     r"""
-    ^(Skating\s+Skills|Transitions|Performance|Composition|Interpretation\s+of\s+the\s+Music)\s+  # 1 component
+    ^(Skating\s+Skills|Transitions|Performance|Presentation|Composition|Interpretation\s+of\s+the\s+Music)\s+  # 1 component
     (\d+\.\d{2})\s+                     # 2 factor
     ((?:\d+\.\d{2}\s+){9})              # 3 judge scores
     (\d+\.\d{2})$                       # 4 final score
@@ -126,7 +126,12 @@ def _process_judge_htmls(url):
 def _get_event_specific_features(full_text):
     lower_text = full_text.lower()
 
-    is_short_program = int(bool(re.search(r"\bshort program\b", lower_text)))
+    is_short_program = int(
+        bool(
+            re.search(r"\bshort\b", lower_text)
+            and re.search(r"\bprogram\b", lower_text)
+        )
+    )
 
     if re.search(r"\bwomen\b|\bladies\b", lower_text):
         category = "women"
@@ -137,7 +142,12 @@ def _get_event_specific_features(full_text):
     else:
         category = ""
 
-    event_type = "team" if re.search(r"\bteam\b", lower_text) else "individual"
+    if re.search(r"\bteam\b", lower_text):
+        event_type = "team"  
+    elif re.search(r"\bjunior\b", lower_text):
+        event_type = "junior"
+    else:
+        event_type =  "individual"
     return is_short_program, category, event_type
 
 
@@ -269,7 +279,7 @@ def process_data(isu_year, isu_event, isu_url):
         for f in file_names:
             print(f"PROCESSING {f}...")
             if "dance" not in f.lower():
-                print(f"VALID SCORE SHEET...")
+                print(f"TRYING SCORE SHEET...")
                 valid_score_files.append(f)
                 
                 full_path = dir_name + "/" + f
@@ -292,8 +302,7 @@ def process_data(isu_year, isu_event, isu_url):
 
     return 1
 
-def _add_event_specific_features(pdf_path, data_df):
-    full_text = _get_full_pdf_text(pdf_path)
+def _add_event_specific_features(full_text, data_df):
     is_short_program, category, event_type = _get_event_specific_features(full_text)
     
     data_df["is_short_program"] = is_short_program
@@ -330,13 +339,38 @@ def _get_full_pdf_text(pdf_path):
     pages_text = []
     with pdfplumber.open(pdf_path) as pdf:
         for page in pdf.pages:
-            text = page.extract_text()
-            if text:
-                pages_text.append(text)
+            pages_text.append('\n'.join(_extract_lines(page)))
 
-    full_text = "\n".join(pages_text)
+    full_text = '\n'.join(pages_text)
 
     return full_text
+
+def _extract_lines(page):
+    words = page.extract_words(y_tolerance=3)
+    if not words:
+        return []
+    
+    words = sorted(words, key=lambda w: w['top'])
+    
+    lines = []
+    current_line = [words[0]]
+    line_top = words[0]['top']
+    line_bottom = words[0]['bottom']
+    
+    for word in words[1:]:
+        # Merge into current line if bounding boxes vertically overlap
+        if word['top'] < line_bottom and word['bottom'] > line_top:
+            current_line.append(word)
+            line_top = min(line_top, word['top'])
+            line_bottom = max(line_bottom, word['bottom'])
+        else:
+            lines.append(sorted(current_line, key=lambda w: w['x0']))
+            current_line = [word]
+            line_top = word['top']
+            line_bottom = word['bottom']
+    lines.append(sorted(current_line, key=lambda w: w['x0']))
+    
+    return [' '.join(w['text'] for w in line) for line in lines]
 
 def _get_skater_blocks(full_text):
     matches = list(skater_header_pattern.finditer(full_text))
@@ -429,6 +463,10 @@ def _process_skater_block_program(header, block):
 
 def parsing_fsk_score_sheet(pdf_path):
     full_text = _get_full_pdf_text(pdf_path)
+    if "dance" in full_text.lower():
+        print("Skipping Dance Score Sheets")
+        return "", pd.DataFrame(), pd.DataFrame()
+
     skater_blocks = _get_skater_blocks(full_text)
 
     elements_rows = []
@@ -449,10 +487,11 @@ def parsing_fsk_score_sheet(pdf_path):
     if not program_df.empty:
         program_df.sort_values(["rank", "program_component"], inplace=True)
 
-    return element_df, program_df
+    return full_text, element_df, program_df
 
 def get_fsk_df(pdf_path, isu_year, isu_event):
-    element_df, program_df = parsing_fsk_score_sheet(pdf_path)
+    full_text, element_df, program_df = parsing_fsk_score_sheet(pdf_path)
+
     if not element_df.empty:
         element_df_renamed = (
                         element_df
@@ -474,9 +513,10 @@ def get_fsk_df(pdf_path, isu_year, isu_event):
     data_df = pd.concat([element_df_renamed, program_df_renamed])
     data_df = data_df.assign(
             year = isu_year,
-            event = isu_event,
+            competition = isu_event,
             is_element = lambda x: (~x.element_no.isna()).astype(int)
         )
+
     cols_at_end = ['J1', 'J2', 'J3', 'J4', 'J5', 'J6', 'J7', 'J8', 'J9']
     cols_not_at_end = data_df.columns.difference(cols_at_end).to_list()
     new_column_order = cols_not_at_end + cols_at_end
@@ -488,6 +528,6 @@ def get_fsk_df(pdf_path, isu_year, isu_event):
             .sort_values(by=['rank', 'name', 'noc', 'starting_number', 'tss', 'tes', 'tpcs', 'deductions'])
             .reset_index(drop=True)
     )
-    data_df = _add_event_specific_features(pdf_path, data_df)
+    data_df = _add_event_specific_features(full_text, data_df)
         
     return data_df
