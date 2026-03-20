@@ -1,4 +1,34 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+# Dot-prefixed files and directories
+.*
+
+# Keep git tracking itself
+!.gitignore
+!.gitattributes
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# R
+*.Rhistory
+*.RData
+*.Rproj.user/
+*.Ruserdata
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS
+Thumbs.db

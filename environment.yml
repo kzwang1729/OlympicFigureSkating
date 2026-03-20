@@ -1,0 +1,23 @@
+name: figure-skating
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - pip
+  - jupyter
+  - jupyterlab
+  - numpy
+  - pandas
+  - scipy
+  - seaborn
+  - matplotlib
+  - statsmodels
+  - scikit-learn
+  - pip:
+      - polars
+      - lightgbm
+      - xgboost
+      - optuna
+      - imbalanced-learn
+      - plotly
